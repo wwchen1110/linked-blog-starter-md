@@ -1,0 +1,5 @@
+Characters have a focus size of {5 + Balance} and a total skillset size of {5 + 2 x Balance}. Skills that are in focus are the ones characters have immediate access to during their turns, selecting out of this pool to slot into their action slots. Skills that are out of focus but in the skillset are in 'reserve', not directly usable under normal circumstances. 
+
+Characters must start the battle with their skillset completely populated. They can select skills based on what their trait values allow. Forgetting a skill leaves an empty skill. Adding skills to your skillset without enough empty skills will result in random skills being forgotten to accommodate.
+
+Cycling an in-focus skill swaps it with a skill in reserve. The most common way to cycle skills is by resting, at which point you can cycle up to {1 + Balance} number of skills. Skills will continue to be on cooldown in reserve.
