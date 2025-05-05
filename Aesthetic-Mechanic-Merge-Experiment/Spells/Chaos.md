@@ -16,6 +16,7 @@ p-Eucharist en-te-Demiourgos (Chaos 4, Order 1):
 
 p-Name en-te-True-God (Chaos 3, Order 2): If you imbue 0 next turn, imbue 10 at that turn's end
 
+(Chaos 1, Thunder 1)
 Ekstasis en-t-Invocation (Chaos 3, Thunder 1): 
 
 Ekstasis en-t-Asphoxis (Chaos 3, Air 1):
@@ -23,7 +24,8 @@ Breath en-t-Rebellion (Chaos 4, Air 1):
 
 Dissolution en-te-Abyss (Chaos 4, Water 1): Shift 6 to anything, then imbue up to the amount shifted
 
-p-Clay-Flesh en-t-Defilement (Chaos 4, Earth 1)
+Ruptura (Chaos 1, Earth 1): Channeled block gain scaled with amount imbued last turn
+p-Clay-Flesh en-t-Defilement (Chaos 4, Earth 1): While channelled imbue 4, then unleash 4 at the end of each turn
 
 Flash-Repent en-t-Sophia (Chaos 3, Order 1, Thunder 1): Unleash X more. Imbue 10, then you cannot imbue power for 5 - X turns
 Flame-Truth en-t-Sophia (Chaos 3, Order 1, Fire 1): Imbue 5. Enemies with less total imbued power than you take damage at the end of each of the next 5 turns
