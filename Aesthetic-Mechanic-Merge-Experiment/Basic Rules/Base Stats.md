@@ -1,0 +1,1 @@
+HP and stamina are set at {100 + 10 x Discipline}. DEF is {Discipline}, and is added to each defense. At the start of each turn, each player also gains {DEF} block. ATK is {Ardor}, and is added to each attack. SPD is also {Ardor}, and determines the order in which skills from the same action slot resolve.

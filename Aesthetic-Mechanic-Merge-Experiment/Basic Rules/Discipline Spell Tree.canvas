@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"0039b2183fafcc95","type":"text","text":"Divine Judgment\n1D","x":-278,"y":-699,"width":185,"height":50},
+		{"id":"6d3293e1968509a2","type":"text","text":"Lay on Hands\n1D","x":-93,"y":-699,"width":173,"height":50},
+		{"id":"bb43ac3273e81616","type":"text","text":"Truestrike\nD","x":-217,"y":-780,"width":136,"height":50},
+		{"id":"eb724735cbb36554","type":"text","text":"Divine Smite\n2D","x":-265,"y":-620,"width":160,"height":50},
+		{"id":"fc9185952010db88","type":"text","text":"Archangel's Wing","x":-267,"y":-540,"width":163,"height":50},
+		{"id":"d3ed452439e977d4","type":"text","text":"Powers","x":-287,"y":-460,"width":203,"height":50},
+		{"id":"1f24e5db9c6799d9","type":"text","text":"Thrones","x":-298,"y":-360,"width":226,"height":50},
+		{"id":"3d799792e94ca441","type":"text","text":"Shield of Faith","x":80,"y":-700,"width":180,"height":50},
+		{"id":"98c977eec83d38a2","type":"text","text":"Ward","x":80,"y":-780,"width":111,"height":50},
+		{"id":"a2ed186deb7da463","type":"text","text":"Consecrate","x":80,"y":-620,"width":164,"height":50},
+		{"id":"23d239205e9c7ef7","type":"text","text":"Mend\nD","x":-61,"y":-780,"width":110,"height":50},
+		{"id":"a835ca91a74cb2de","type":"text","text":"Cure Wounds","x":-105,"y":-620,"width":179,"height":50},
+		{"id":"b800bc9d8ae2f6af","type":"text","text":"Principalities","x":-104,"y":-540,"width":184,"height":50},
+		{"id":"07c3e9385ab88c21","type":"text","text":"Guardian Angel","x":80,"y":-540,"width":180,"height":50},
+		{"id":"313b2ca0bb8be9a6","type":"text","text":"Virtues","x":-100,"y":-460,"width":212,"height":50},
+		{"id":"d460a63509274c90","type":"text","text":"Seraphim's Wings","x":-105,"y":-360,"width":217,"height":50},
+		{"id":"ffabf3e3b342566e","x":114,"y":-460,"width":146,"height":50,"type":"text","text":"Dominions"},
+		{"id":"0937eeebd6f85880","x":114,"y":-360,"width":137,"height":50,"type":"text","text":"Cherubim"}
+	],
+	"edges":[
+		{"id":"61e5f8b2b9b10589","fromNode":"bb43ac3273e81616","fromSide":"bottom","toNode":"0039b2183fafcc95","toSide":"top"},
+		{"id":"71c4c6fb71f7e738","fromNode":"0039b2183fafcc95","fromSide":"bottom","toNode":"eb724735cbb36554","toSide":"top"},
+		{"id":"15da2b1be96a9695","fromNode":"eb724735cbb36554","fromSide":"bottom","toNode":"fc9185952010db88","toSide":"top"},
+		{"id":"02eb86550bb1f555","fromNode":"23d239205e9c7ef7","fromSide":"bottom","toNode":"6d3293e1968509a2","toSide":"top"},
+		{"id":"706d75638c853b57","fromNode":"fc9185952010db88","fromSide":"bottom","toNode":"d3ed452439e977d4","toSide":"top"},
+		{"id":"07df6812ff27b6fd","fromNode":"d3ed452439e977d4","fromSide":"bottom","toNode":"1f24e5db9c6799d9","toSide":"top"},
+		{"id":"a446597d21f59b51","fromNode":"98c977eec83d38a2","fromSide":"bottom","toNode":"6d3293e1968509a2","toSide":"top"},
+		{"id":"a1b34f6fc2beed2d","fromNode":"6d3293e1968509a2","fromSide":"bottom","toNode":"eb724735cbb36554","toSide":"top"},
+		{"id":"55903645569b6fb3","fromNode":"98c977eec83d38a2","fromSide":"bottom","toNode":"3d799792e94ca441","toSide":"top"},
+		{"id":"84d6425ee7ca46e3","fromNode":"3d799792e94ca441","fromSide":"bottom","toNode":"a2ed186deb7da463","toSide":"top"},
+		{"id":"193eeb24915ed47d","fromNode":"a2ed186deb7da463","fromSide":"bottom","toNode":"07c3e9385ab88c21","toSide":"top"},
+		{"id":"ebbb0fbd2795c0fd","fromNode":"6d3293e1968509a2","fromSide":"bottom","toNode":"a835ca91a74cb2de","toSide":"top"},
+		{"id":"a64c9d4f9fdd166e","fromNode":"a835ca91a74cb2de","fromSide":"bottom","toNode":"b800bc9d8ae2f6af","toSide":"top"},
+		{"id":"f7705602d74bdfad","fromNode":"b800bc9d8ae2f6af","fromSide":"bottom","toNode":"313b2ca0bb8be9a6","toSide":"top"},
+		{"id":"14731db2ab1579f6","fromNode":"313b2ca0bb8be9a6","fromSide":"bottom","toNode":"d460a63509274c90","toSide":"top"},
+		{"id":"801c9f82cbfc184d","fromNode":"07c3e9385ab88c21","fromSide":"bottom","toNode":"ffabf3e3b342566e","toSide":"top"},
+		{"id":"99106037037d2ed0","fromNode":"ffabf3e3b342566e","fromSide":"bottom","toNode":"0937eeebd6f85880","toSide":"top"}
+	]
+}

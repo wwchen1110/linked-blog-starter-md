@@ -1,3 +1,4 @@
+"Know your enemy, know your world, know your victory."
 This trait represents a focus on analysis and prediction, as well as practical thinking. Cunning individuals learn how things and people behave, then use that knowledge to tip the scales in their favor.
 
 Cunning is the primary trait of Barons, Warlords, Enchanters, and Bards, as well as the specialized trait of Masterminds. It is also the secondary trait of [[Inquisitor|Inquisitors]], Assassins, Warlocks, and Rogues. These classes are characterized by their ability to gather information, limit their opponent's options, and efficiently counterplay.

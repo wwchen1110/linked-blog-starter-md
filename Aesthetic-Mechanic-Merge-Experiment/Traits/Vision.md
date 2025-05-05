@@ -1,6 +1,7 @@
-This trait represents the capacity to see the greater whole, unconstrained by any individual piece. Visionary individuals light the spark that drives out the darkness, bringing ideas to life.
+"The soul cannot be blemished."
+This trait represents the capacity to see the greater whole, unconstrained by any individual piece. Visionary individuals take the awesome ideas in their hearts and minds, then give them form in reality. From the void, they create light.
 
-Vision is the primary trait of [[Cleric|Clerics]], [[Sorcerer|Sorcerers]], Warlocks, and Mystics, as well as the specialized trait of Wizards. It is also the secondary trait of Paladins, Harbingers, Enchanters, and Druids. These classes are characterized by their ability to charge power, use esoteric abilities, and create far-reaching impacts.
+Vision is the primary trait of [[Cleric|Clerics]], [[Sorcerer|Sorcerers]], Warlocks, and Shamans, as well as the specialized trait of Wizards. It is also the secondary trait of Paladins, Spellblades, Puppeteers, and Druids. These classes are characterized by their ability to charge power, use esoteric abilities, and create far-reaching impacts.
 
 For each point of Vision, your character gains an arcane possibility and 5 mana. Arcane possibilities can be spent to learn/advance spells in the spell tree. 
 

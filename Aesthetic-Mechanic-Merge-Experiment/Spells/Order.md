@@ -9,13 +9,13 @@ Maalachiel (Order 5): For the next 7 turns, units imbue <=1 at a time
 
 Sanctum (Order 1/Earth 1): Channeled ally DEF buff. Gain block if you imbued last turn
 Consacratus (Order 2/Earth 1): Channeled ally DEF buff. If held for 4+ turns, imbue 2 on release
-Seliyah (Order 3/Earth 1): Upgrade an ACT slot with “if you imbue here, imbue 1. Downgrade if you didn’t imbue this turn”.
+Seliyah (Order 3/Earth 1): Upgrade an ACT slot with “if you imbue Order here, imbue 1. Downgrade if you didn’t imbue Order this turn”.
 Tzuriel (Order 4/Earth 1): An ally becomes invincible for 2 turns. Each turn you imbue 3 times, extend the buff by 1 turn
 
 Flamma (Order 1/Fire 1): Target an enemy. For the next 3 turns, deal damage to them
 Judicium (Order 2/Fire 1): Target an enemy. Deal damage to them for 3 turns, cleansing a buff if you imbued last turn
 Lehavah (Order 3/Fire 1): Deal AoE damage for 5 turns
-Lahatiel (Order 4/Fire 1): Target an enemy. After 7 turns, deal big damage scaling with number of turns when you imbued
+Lahatiel (Order 4/Fire 1): Target an enemy. After 7 turns, deal big damage scaling with number of turns you imbued
 
 Purga (Order 1/Water 1): Target ally cleanses 1 or shifts 2 each turn for 2 turns
 Lacrima (Order 2/Water 1): Target ally expands memory by 1 or restores some HP each turn for 5 turns. They can do both if you imbued last turn

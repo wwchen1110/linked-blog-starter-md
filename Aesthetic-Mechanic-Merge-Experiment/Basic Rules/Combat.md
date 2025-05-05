@@ -1,0 +1,1 @@
+At the start of each turn, every character gains block equal to their DEF. This block lasts until the end of the turn. Some defense cards will give block of varying durations; lower-duration block takes damage before higher-duration block.
