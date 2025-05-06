@@ -15,7 +15,7 @@ Stormgale Step (Thunder 2/Air 1): Increase SPD, Dodge 1, and Cycle 1. Discharge 
 苍龙破空 Azure Dragon Splits the Sky (Thunder 3/Water 1/Nature 1): If you've discharged 8+ this turn, deal massive damage to an enemy and Shift scaled by types of spent elements this turn
 
 Five Thunders’ Seal (Thunder 3/Order 1): If cast when you have 5 Lightning, target enemy. Remove buffs, reduce ATK/DEF/SPD, deal damage, Cycle 2, and imbue 1 for 5 turns
-天雷正法 Heaven's Law Enforced by Thunder (Lightning 4/Order 1): At the end of the next 3 turns, deal AoE damage to enemies based on discharged power each turn
+天雷正法 Heavenly Thunder's Orthodoxy (Lightning 4/Order 1): At the end of the next 3 turns, deal AoE damage to enemies based on discharged power each turn
 
 (Lightning/Void)
 雷影步 Flicker Step (Thunder 2/Shadow 1): Dodge 1 and deal damage to enemy. Discharge 2 more to instantly cast this
