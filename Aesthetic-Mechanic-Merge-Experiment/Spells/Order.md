@@ -1,20 +1,20 @@
 Structured, gradual ascent. Power over time that wins out in efficiency in the end
 Discipline/Vision. Hebrew
 
-Fides (Order 1): For the next 2 turns, this skill imbues 1
-Obedientia (Order 2): For the next 4 turns, imbue 1
-Gezeirah (Order 3): Declare an ACT type. For the next 7 turns, imbue 1 if you used that ACT type last turn
-Sederiyah: (Order 4): An ally permanently imbues 1 per turn
-Maalachiel (Order 5): For the next 7 turns, units imbue <=1 at a time
+Fides (Order 1): Next 2 turn starts, restore STA
+Obedientia (Order 2): For the next 3 turn starts, imbue 1
+Gezeirah (Order 3): Declare an ACT type. For the next 5 turn starts, imbue 1 if you used that ACT type last turn
+Sederiyah: (Order 4): For the next 5 turns, units cannot imbue 2+ power at a time
+Maalachiel (Order 5): An ally permanently imbues 1 per turn start
 
 Sanctum (Order 1/Earth 1): Channeled ally DEF buff. Gain block if you imbued last turn
 Consacratus (Order 2/Earth 1): Channeled ally DEF buff. If held for 4+ turns, imbue 2 on release
-Seliyah (Order 3/Earth 1): Upgrade an ACT slot with “if you imbue Order here, imbue 1. Downgrade if you didn’t imbue Order this turn”.
+Seliyah (Order 3/Earth 1): Upgrade an ACT slot with “if you defend here, imbue 1. Downgrade if you didn’t imbue Order this turn”.
 Tzuriel (Order 4/Earth 1): An ally becomes invincible for 2 turns. Each turn you imbue 3 times, extend the buff by 1 turn
 
-Flamma (Order 1/Fire 1): Target an enemy. For the next 3 turns, deal damage to them
-Judicium (Order 2/Fire 1): Target an enemy. Deal damage to them for 3 turns, cleansing a buff if you imbued last turn
-Lehavah (Order 3/Fire 1): Deal AoE damage for 5 turns
+Flamma (Order 1/Fire 1): Target an enemy. For the next 3 turn starts, deal damage to them
+Judicium (Order 2/Fire 1): Target an enemy. Deal damage to them for 3 turn starts, cleansing a buff if you imbued last turn
+Lehavah (Order 3/Fire 1): Deal AoE damage for 5 turn starts
 Lahatiel (Order 4/Fire 1): Target an enemy. After 7 turns, deal big damage scaling with number of turns you imbued
 
 Purga (Order 1/Water 1): Target ally cleanses 1 or shifts 2 each turn for 2 turns

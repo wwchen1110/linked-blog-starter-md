@@ -3,16 +3,16 @@ Proto-Indo-European: shared stories of madness as divine weapon, a warrior's bar
 Fomorian: Rule-breaking as sabotage
 Gnosticism: Inversion of mainstream religion
 
-Malus (Chaos 1): Imbue 2. At the next 2 turn starts, imbue 1 less
-Advorsus (Chaos 2): Imbue 4. At the next 3 turn starts, imbue 1 less
-Liberation en-n-Arkhon (Chaos 3): Imbue 6. Next turn, you cannot imbue
-Unweaving en-t-Fate-String (Chaos 4): Imbue 8. 99 CD
+Malus (Chaos 1): Reduce a CD. Next turn end, imbue 1 less
+Advorsus (Chaos 2): Imbue 3. At the next 3 turn ends, imbue 1 less
+Unweaving en-t-Fate (Chaos 3): Imbue 6. 99 CD
+Liberation en-n-Arkhon (Chaos 4): Buff your Ardor/Cunning/Vision for 3 turns. The turn after the buff expires, you cannot imbue
 t-Apostasis en-te-Demiourgos (Chaos 5): Imbue 5. For the next 3 turns, units cannot imbue
 
-Haeresis (Chaos 1, Order 1): 
+Haeresis (Chaos 1, Order 1): Imbue 1 less at the next 2 turn ends, then imbue 4
 Sacrilegium (Chaos 2, Order 1): 
-t-Apocryphon en-Johannes (Chaos 3, Order 1): Select an ally and upgrade one of their ACT slots with “if you use a different ACT type than last turn here, imbue 1. Downgrade when you stop”
-p-Eucharist en-te-Demiourgos (Chaos 4, Order 1): 
+t-Apocryphon en-Johannes (Chaos 3, Order 1): For the next 3 turns, gain Cunning/Vision. Extend this buff each turn you imbue 0 or 5+
+p-Eucharist en-te-Demiourgos (Chaos 4, Order 1): Each turn you imbue 0 or 5+, imbue 2
 
 p-Name en-te-True-God (Chaos 3, Order 2): If you imbue 0 next turn, imbue 10 at that turn's end
 
