@@ -17,4 +17,4 @@ Manikòn Pŷr (Fire 4/Chaos 1): Next turn, imbue 10 to this skill temporarily. Y
 
 Árma Hēlíou (Fire 4/Radiance 1): Allies get an AoE ATK buff, enemies take AoE damage, then extend your inscription scaling with the damage they took
 
-Azul (Fire 1/Cold 1): If imbued power >= 6, imbue 4. Otherwise, temporarily imbue 4
+Azul (Fire 1/Cold 1): If imbued power >= 6, imbue 3. Otherwise, temporarily imbue 3

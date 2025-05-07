@@ -9,7 +9,7 @@ Maalachiel (Order 5): An ally permanently imbues 1 per turn start
 
 Sanctum (Order 1/Earth 1): Channeled ally DEF buff. Gain block if you imbued last turn
 Consacratus (Order 2/Earth 1): Channeled ally DEF buff. If held for 4+ turns, imbue 2 on release
-Seliyah (Order 3/Earth 1): Upgrade an ACT slot with “if you defend here, imbue 1. Downgrade if you didn’t imbue Order this turn”.
+Seliyah (Order 3/Earth 1): Upgrade an ACT slot with “if you defend here, imbue 1. Downgrade when you stop”.
 Tzuriel (Order 4/Earth 1): An ally becomes invincible for 2 turns. Each turn you imbue 3 times, extend the buff by 1 turn
 
 Flamma (Order 1/Fire 1): Target an enemy. For the next 3 turn starts, deal damage to them
