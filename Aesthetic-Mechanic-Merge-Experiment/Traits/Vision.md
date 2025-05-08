@@ -33,11 +33,11 @@ ACTIVES:
 Order Domain: Consistent imbuing, STA restore, reward consistency
 Earth Domain: Channeled spells, strengthen mundane actions (ATK/DEF)
 Cold Domain: Unleash less at high power thresholds, permanent stats/block
-Chaos Domain: Spiky imbuing, CD reduction, reward spikiness
-Fire Domain: High damage with some friendly fire, 1-turn commits
+Chaos Domain: Short term imbuing spikes at long term cost, CD reduction
+Fire Domain: High damage with some friendly fire, 1-turn combos
 Thunder Domain: Unleash more for big payoff, precise thresholds, good damage/imbuing
 Water Domain: Shift inscription, cleanse, expand memory, options based on inscription
 Air Domain: Imbue out of order, dodge, cycle skills, options based on unleashed elements
-Nature Domain: Scale with unique domains, expand skillset/focus, treat elements as others
+Nature Domain: Scale with unique domains, expand skillset/focus, treat elements as any
 Shadow Domain: Discount on the vulnerable, Stealth, control enemy actions
 Radiance Domain: Extend inscription, scale off of inscription length, Mythic spells
