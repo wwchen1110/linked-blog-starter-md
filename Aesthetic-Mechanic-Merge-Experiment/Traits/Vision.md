@@ -6,21 +6,9 @@ Vision is the primary trait of [[Cleric|Clerics]], [[Sorcerer|Sorcerers]], Warlo
 For each point of Vision, your character gains an arcane possibility and 5 mana. Arcane possibilities can be spent to learn/advance spells in the spell tree. 
 
 SPECIALIZED PASSIVES:
-Path of the Divine: If sparks changed by 1 or less, heal self
-Path of Frost: If all sparks activated, restore mana
-Path of Flame: When you create sparks, create a temporary one
-Path of Lightning: When a spark is destroyed, deal lightning damage
-Path of Undeath: You can accelerate or ignore decay
-Path of the Mind: When you activate an enemy spark, you can drain their mana
-Path of the Arcane: You have unlimited max sparks
-Path of Nature: At the end of the turn, restore mana for each spark type activated
-Path of the Sky: You can treat sparks as any type
 
 PASSIVES:
-Potential: Increase your mana
-Evoker: You start combats with 2 gray sparks
-Aura: Choose a spark type to always have active
-War Caster: If you attack or defend, activate all sparks
+
 
 SPECIALIZED ACTIVES:
 Primordia - Grimorium: Inscription length 10
@@ -30,14 +18,14 @@ Primordia - Virga: Inscription length 7. Deal damage scaling with unleashed powe
 Primordia - Orbis: Inscription length 7. Each turn, you can Shift 1 to another inscribed element
 
 ACTIVES:
-Order Domain: Consistent imbuing, STA restore, reward consistency
+Order Domain: Consistent imbuing, STA restore, reward consistent imbuing/actions
 Earth Domain: Channeled spells, strengthen mundane actions (ATK/DEF)
 Cold Domain: Unleash less at high power thresholds, permanent stats/block
-Chaos Domain: Short term imbuing spikes at long term cost, CD reduction
-Fire Domain: High damage with some friendly fire, 1-turn combos
+Chaos Domain: Fast immediate imbuing at long term cost, CD reduction, reward spiky imbuing/actions
+Fire Domain: High damage with less control, temporary imbuing/buffs, 1-turn combos
 Thunder Domain: Unleash more for big payoff, precise thresholds, good damage/imbuing
 Water Domain: Shift inscription, cleanse, expand memory, options based on inscription
 Air Domain: Imbue out of order, dodge, cycle skills, options based on unleashed elements
-Nature Domain: Scale with unique domains, expand skillset/focus, treat elements as any
-Shadow Domain: Discount on the vulnerable, Stealth, control enemy actions
+Nature Domain: Scale with unique domains, learn skills, treat Nature elements as any
+Shadow Domain: Control enemy actions, Stealth, efficiency against the vulnerable
 Radiance Domain: Extend inscription, scale off of inscription length, Mythic spells
