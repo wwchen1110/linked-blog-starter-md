@@ -23,16 +23,21 @@ Aura: Choose a spark type to always have active
 War Caster: If you attack or defend, activate all sparks
 
 SPECIALIZED ACTIVES:
-Reliquary: Instantly cast a spell with spark count equal to your Inspiration
-Coalescing Star: Create 3 sparks of your choice
-Primordia - Grimorium: Inscription length 99
-Primordia - Sceptrum: Inscription length 8. Imbue 1, 1 CD
-Primordia - Amuletum: Inscription length 12. Passively gain DEF scaling with imbued power
-Primordia - Virga: Inscription length 10. When you spend imbued power, deal scaling damage
-Primordia - Orbis: Inscription length 10. Each turn, you can Shift 1 to another inscribed element
+Primordia - Grimorium: Inscription length 10
+Primordia - Sceptrum: Inscription length 6. Imbue 1, 1 CD
+Primordia - Amuletum: Inscription length 8. Passively gain DEF scaling with imbued power
+Primordia - Virga: Inscription length 7. Deal damage scaling with unleashed power
+Primordia - Orbis: Inscription length 7. Each turn, you can Shift 1 to another inscribed element
 
 ACTIVES:
-Channel: Create 3 gray sparks
-Barrier: Gain block based on your current spark count
-Scroll: Instantly cast a spell force 1 or lower spell
-Pray: Create 2 sparks of your choice
+Order Domain: Consistent imbuing, STA restore, reward consistency
+Earth Domain: Channeled spells, strengthen mundane actions (ATK/DEF)
+Cold Domain: Unleash less at high power thresholds, permanent stats/block
+Chaos Domain: Spiky imbuing, CD reduction, reward spikiness
+Fire Domain: High damage with some friendly fire, 1-turn commits
+Thunder Domain: Unleash more for big payoff, precise thresholds, good damage/imbuing
+Water Domain: Shift inscription, cleanse, expand memory, options based on inscription
+Air Domain: Imbue out of order, dodge, cycle skills, options based on unleashed elements
+Nature Domain: Scale with unique domains, expand skillset/focus, treat elements as others
+Shadow Domain: Discount on the vulnerable, Stealth, control enemy actions
+Radiance Domain: Extend inscription, scale off of inscription length, Mythic spells
