@@ -9,24 +9,11 @@ Meteor (9): Deal big AoE damage. If you have 0 sparks, gain 5 sparks
 Thunderstorm (10): Deal big AoE damage over 3 turns. Deals extra for sparks spent each turn
 Sunspike (11): Deal big AoE damage. If you have 0 sparks, deal it again
 
-SYNERGIES:
-Ember: Temporarily imbue 2
-Discharge: Temporarily imbue a skill with its max imbued power this turn
-Ignis (Fire 1): Deal damage. Imbue 1 to this skill
-Burning Hand (Fire 2): Deal damage to an enemy 3 times. Imbue 1 to a skill
-Infernum (Fire 3): Deal big damage to all enemies. Imbue 1 to a skill
-Apocalypse (Fire 4): Deal massive damage to all enemies, and deal damage to all allies. Imbue 2 to any skills
+VISION:
+Primordia - Virga: Inscription length 7. Deal damage scaling with unleashed power
+Chaos Domain: Fast imbuing at long term cost, CD reduction, reward spiky imbuing/actions
+Fire Domain: High damage with less control, temporary imbuing/buffs, 1-turn combos
+Thunder Domain: Unleash more for big payoff, precise thresholds, good damage/imbuing
 
-Scorching Ray (Fire 2/Electric 1): Deal big damage to an enemy. Reduce their DEF for 2 turns
-(Fire 3/Electric 1)
-
-Voltis (Electric 1): Increase ATK this turn
-Lightning Lure (Electric 2): Increase an ally’s ATK and gain an ACT slot next turn
-(Electric 3): Increase all ally ATK and give them all an extra ACT slot next turn
-(Electric 4): Increase all ally ATK and give them all 2 extra ACT slots next turn
-
-(Electric 2/Ice 1): 
-Veðraþrym (Electric 3/Ice 1): Increase all ally ATK significantly and decrease all enemy DEF significantly for 3 turns
-
-Lightning Bolt (Electric 2/Fire 1): Deal big damage to an enemy. Decrease all enemy DEF next turn
-Chain Lightning (Electric 3/Fire 1): Deal massive damage to an enemy, chaining to the others (dealing less with each chain). Decrease all enemy DEF significantly next turn
+ARDOR:
+Limit Break: Increase your ATK/DEF for this and the next 2 turns. Each skill you use during this time has its CD doubled

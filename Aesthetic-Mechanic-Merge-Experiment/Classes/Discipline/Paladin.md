@@ -5,13 +5,16 @@ With both high [[Discipline]] and [[Vision]], Paladins utilize their survivabili
 In particular, combining the punishing power of Divine Judgment with the charging capacity of Lay on Hands gives Paladins access to their classic Divine Smite. Lay on Hands itself comes from the restorative powers of Mend and the stacking powers of Ward. Paladins may also find that learning spells like Shield of Faith and Barrier come naturally to them.
 
 UNIQUE:
-Lay On Hands (Max inscribe 4): Heal an ally. Scales with inscribe value
-Divine Smite (Max inscribe 4): Attack an enemy. Scales with inscribe value
+Lay On Hands (4 Inscription): Heal an ally. Scales with imbued power
+Divine Smite (4 Inscription): Attack an enemy. Scales with imbued power
 Oathsworn: When this skill enters focus, declare an ACT type. Upgrade an ACT slot with "each turn you use the declared ACT type here, imbue 1"
 
 DISCIPLINE:
-Pray: 
-Venerate:
-Heroism:
-Shield of Faith (Max inscribe 3): Block. Passively gain DEF equal to its imbued power
+Entrench: If this is your only action this turn, big block
+Shield of Faith: Inscription 2. Block. Passively gain DEF equal to its imbued power
+Pray: Inscription 3. Restore STA, scaling with imbued power
 
+VISION:
+Order Domain: Consistent imbuing, STA restore, reward consistent imbuing/actions
+Earth Domain: Channeled spells, strengthen mundane actions (ATK/DEF)
+Cold Domain: Unleash less at high power thresholds, permanent stats/block

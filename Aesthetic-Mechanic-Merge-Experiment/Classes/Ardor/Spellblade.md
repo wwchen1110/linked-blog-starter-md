@@ -6,8 +6,8 @@ UNIQUE:
 Magisteel: On combatting with an imbued skill, you can also instantly cast a 1-cost spell using imbued elements
 
 ARDOR:
-Energy Slash: Deal big damage to an enemy. You can discharge 1 from this skill to deal AoE damage instead
-Shock Lance: Attack an enemy. Deal more if you've cast a spell this turn
-Charged Strike: Attack an enemy. Temporarily imbue 1
+Energy Slash (Inscription 2): Deal big damage to an enemy. You can discharge 1 from this skill to deal AoE damage instead
+Blood Lance: Attack an enemy. Deal more if you've cast a spell this turn
+Soul Charge: Attack an enemy. Temporarily imbue 1
 
 VISION:

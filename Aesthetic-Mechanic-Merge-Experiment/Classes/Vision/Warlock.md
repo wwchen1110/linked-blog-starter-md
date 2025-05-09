@@ -7,7 +7,11 @@ Voidsphere (6): Lock 5 random enemy skills for 5 turns
 Psychic Scream (9): Costs 1 less for each of target’s revealed skills (min 3). Inflict tons of Fear
 Puppeteer (13): Costs 1 less for each debuff on target (min 7). Select the target enemy's actions, slots, and targets next turn
 
-SYNERGIES:
-Offering: Target an enemy, and gain 1 spark. If they're debuffed, gain 1 spark.
-Toxic Cloud (1): AoE poison enemies
-Minor Possession (2): Costs 1 less if enemy is debuffed. Shuffle their slotted cards
+VISION:
+Primordia - Sceptrum: Inscription length 6. Imbue 1, 1 CD
+Shadow Domain: Control enemy actions, Stealth, efficiency against the vulnerable
+Cold Domain: Preserve power thresholds, permanent stats/block
+Chaos Domain: Fast imbuing at long term cost, CD reduction, reward spiky imbuing/actions
+Air Domain: Imbue out of order, dodge, cycle skills, options based on unleashed elements
+
+CUNNING:

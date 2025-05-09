@@ -7,11 +7,11 @@ Revelation:
 
 VISION:
 Primordia - Amuletum: Inscription 8. Passively gain DEF scaling with imbued power
-Order Domain: Consistent imbuing, STA restore, reward consistency
-Earth Domain: Channelled spells, strengthen mundane actions (ATK/DEF)
-Cold Domain: Unleash less at high power thresholds, permanent stats/block
+Earth Domain: Channeled spells, strengthen mundane actions (ATK/DEF)
+Order Domain: Consistent imbuing, STA restore, reward consistent imbuing/actions
+Cold Domain: Preserve power thresholds, permanent stats/block
 
 DISCIPLINE:
 Shield of Faith: Inscription 3. Block. Passively gain DEF equal to its imbued power
 Pray: Inscription 3. Restore STA, scaling with imbued power
-Habit: Upgrade a slot with “each turn you slot the same skill here, its STA cost is reduced. When you slot a different skill, downgrade.”
+Habit: Upgrade 1 “each turn you slot the same skill here, refund CD. When you slot a different skill, downgrade.”

@@ -38,6 +38,6 @@ Lethal Strike: Attack. Double its unblocked damage
 Parry: Block and gain 1 ACT next turn
 Whet: Your next attack/defense has its stats increased moderately
 Severance: Attack and deal big damage. Place this at the bottom of your well
-Double Down: Attack. Copy the effects of your last attack this turn
+Double Down: Attack. Copy the effects of your last attack skill this turn
 Expose: Target an enemy. Every time you target them next turn, deal some damage
-Supercharge: Increase your ATK/DEF for this and the next 2 turns. Each skill you use during this time has its CD doubled
+Limit Break: Increase your ATK/DEF for this and the next 2 turns. Each skill you use during this time has its CD doubled

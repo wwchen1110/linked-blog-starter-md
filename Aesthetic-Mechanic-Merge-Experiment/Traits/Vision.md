@@ -20,8 +20,8 @@ Primordia - Orbis: Inscription length 7. Each turn, you can Shift 1 to another i
 ACTIVES:
 Order Domain: Consistent imbuing, STA restore, reward consistent imbuing/actions
 Earth Domain: Channeled spells, strengthen mundane actions (ATK/DEF)
-Cold Domain: Unleash less at high power thresholds, permanent stats/block
-Chaos Domain: Fast immediate imbuing at long term cost, CD reduction, reward spiky imbuing/actions
+Cold Domain: Preserve power thresholds, permanent stats/block
+Chaos Domain: Fast imbuing at long term cost, CD reduction, reward spiky imbuing/actions
 Fire Domain: High damage with less control, temporary imbuing/buffs, 1-turn combos
 Thunder Domain: Unleash more for big payoff, precise thresholds, good damage/imbuing
 Water Domain: Shift inscription, cleanse, expand memory, options based on inscription
