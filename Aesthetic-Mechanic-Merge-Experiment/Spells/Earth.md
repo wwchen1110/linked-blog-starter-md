@@ -1,8 +1,8 @@
 Consistency and resilience, structure and form. Channeled buffs, defense, reward for channel length
 Inca: Labor as worship
 
-Terra (Earth 1): Channeled ally DEF gain
-Gravitas (Earth 2): 
+Terra (Earth 1): Buff ally DEF for 5 turns
+Gravitas (Earth 2): Channeled ally DEF buff
 Megalith (Earth 3): While channeled, allies take no damage during declared ACT slot
  (Earth 4): While channeled, allies gain DEF. Block lasts until channel ends
 Earth-Mother's Embrace (Earth 5): While channeled, reduce all ally incoming damage by DEF and damage all enemies equal to your DEF each turn
@@ -10,7 +10,7 @@ Earth-Mother's Embrace (Earth 5): While channeled, reduce all ally incoming dama
 Sanctum (Earth 1, Order 1): Channeled ally DEF buff. Increase if you imbued last turn
 Praesidium (Earth 2, Order 1): Select an ACT slot. All allies upgrade it with "If you imbue/defend here, gain permanent DEF. Downgrade if you don't"
 Leyline Pulse (Earth 3/Order 1): Channeled imbue 1
-World Geoglyph (Earth 4/Order 1): Channeled 1 Earth discount from ally spells
+World Geoglyph (Earth 4/Order 1): Channeled imbue 1 Earth to allies
 
 Magma (Earth 1/Fire 1): Ally gains DEF and enemy takes damage
 Vulcanus (Earth 2/Fire 1): Channeled AoE damage equal to ally DEF

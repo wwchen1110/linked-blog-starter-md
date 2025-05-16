@@ -4,7 +4,7 @@ This trait represents the willingness to seize fleeting opportunities, discardin
 
 Ardor is the primary trait of [[Gladiator|Gladiators]], Assassins, Harbingers, and Swashbucklers, as well as the specialized trait of Berserkers. It is also the secondary trait of Knights, Warlords, Sorcerers, and Hunters. These classes are characterized by their ability to close out fights, accelerate the tempo, and capitalize on volatility.
 
-For each point in Ardor, your character gains 5 SPD and 1 ATK
+For each point in Ardor, your character gains 1 SPD and 1 ATK
 
 SPECIALIZED PASSIVES:
 BLOODTHIRST: Gain some lifesteal
@@ -27,17 +27,18 @@ FLOURISH: Attack. Deals more damage based on preceding attacks in a row
 ACTIVES:
 Rampage: Attack, ignoring the effects of debuffs
 Bloodrush: Attack, buff your max HP by that amount
+Flurry: Attack, scaling with your difference in SPD
 Reckless Swing: Big attack, damage yourself
-Drill Strike: Attack. Deal double damage to block
-Pierce: Attack. Negate enemy attack if stronger
-Razor Wire: Attack, inflict Bleed. If the enemy acts the same type in the same slot next turn, deal bonus damage
+Finisher: Attack, scaling with consecutive attacks before
+Shredder: Attack. Deal double damage to block
+Preemptive Strike: Attack. Negate matching enemy attack if faster
 Bravado: Gain a ton of block this turn
 Overdrive: Gain an extra action next turn
-Mark: Target enemy takes more damage from you for several turns
-Lethal Strike: Attack. Double its unblocked damage
+Heartpiercer: Attack. Double its unblocked damage
+Jab: Small attack and gain 1 ACT next turn
 Parry: Block and gain 1 ACT next turn
 Whet: Your next attack/defense has its stats increased moderately
 Severance: Attack and deal big damage. Place this at the bottom of your well
 Double Down: Attack. Copy the effects of your last attack skill this turn
-Expose: Target an enemy. Every time you target them next turn, deal some damage
-Limit Break: Increase your ATK/DEF for this and the next 2 turns. Each skill you use during this time has its CD doubled
+Eviscerate: Attack. Enemy gains Bleed 2
+Burn Bright: Increase your ATK/DEF for this and the next 2 turns. Each skill you use during this time has its CD doubled

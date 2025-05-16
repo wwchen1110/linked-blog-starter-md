@@ -6,10 +6,10 @@ Blackout (T: enemy uses declared skill name): Gain Stealth 5
 Hidden Blade: Declare a skill name. If your next attack matches that name, deal significantly increased damage
 
 ARDOR:
-Pierce: Attack. Negate enemy attack if stronger
-Lethal Strike: Attack. Double its unblocked damage
-Stalk: For the next 5 turns, gain damage to your next attack
-Whet: Your next attack/defense has its stats increased moderately
+Preemptive Strike: Attack. Negate matching enemy attack if faster
+Heartpiercer: Attack. Double its unblocked damage
+Shredder: Attack. Deal double damage to block
+Whet: Your next combat skill is moderately stronger
 
 CUNNING:
 Goad: Increase a unit's ATK, but reduce its DEF

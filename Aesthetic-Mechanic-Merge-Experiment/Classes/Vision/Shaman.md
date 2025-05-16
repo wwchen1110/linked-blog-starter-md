@@ -1,9 +1,8 @@
 Elements: Water, Arcane, Wood
-Mystics have an expansive spell list, covering nearly everything that all casters combined can learn. Additionally, Mystics can learn a couple of spells unique to their class as well. Foresight allows Mystics to satisfy the prerequisites of the next spell they cast, and Prophecy lets them cast a spell that they haven’t learned yet. 
+Other mages must follow the proper steps to cast a spell, but Shamans utilize a more flexible method. Relying on looser symbology and improvising ways to keep the message cohesive, Shamans have a far wider access to spells than any other spellcaster, able to cast from any tradition, using any element. The price they pay is a lack of specialization, so their game plan must change from situation to situation.
 
 UNIQUE:
-Foresight:
-Prophecy:
+Dreamwalker (P): Each time you rest, randomly select 5 elemental domains. The first time you would unleash an element of those types, unleash 1 less
 
 
 VISION:

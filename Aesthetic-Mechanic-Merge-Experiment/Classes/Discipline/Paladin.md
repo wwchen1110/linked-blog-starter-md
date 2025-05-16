@@ -7,7 +7,7 @@ In particular, combining the punishing power of Divine Judgment with the chargin
 UNIQUE:
 Lay On Hands (4 Inscription): Heal an ally. Scales with imbued power
 Divine Smite (4 Inscription): Attack an enemy. Scales with imbued power
-Oathsworn: When this skill enters focus, declare an ACT type. Upgrade an ACT slot with "each turn you use the declared ACT type here, imbue 1"
+Oathsworn (P): Declare an ACT type. Upgrade an ACT slot with "each turn you use the declared ACT type here, imbue 1"
 
 DISCIPLINE:
 Entrench: If this is your only action this turn, big block

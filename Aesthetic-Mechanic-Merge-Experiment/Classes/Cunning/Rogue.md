@@ -16,3 +16,4 @@ Profile: Expose all skills of one action type in enemy skillset
 BALANCE:
 Trinket: Weak attack, block, debuff, or spark generator, decided at resolution
 Slipstream: Forget a skill from your skillset, dodge 1
+Perch: Enter the Perched stance until your next attack. Gain Dodge 1 each turn start, and you can use any action to Cycle 1

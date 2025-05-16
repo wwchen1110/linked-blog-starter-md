@@ -16,7 +16,7 @@ Barkskin (W3N1): Shift 6 to Water/Nature/Air/Cold/Light
 Lifeblood of the Forest (W4N1): Shift 8 to anything. 
 
 Mist-Breather (W3A1):
-
+Horizon Walker (W3A2): Empty all inscriptions. From now on, when you imbue, imbue anything
 
 
 Thunderbird's Gift (W4T1):

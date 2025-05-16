@@ -2,7 +2,7 @@ This trait represents even-footed thinking, instantly adapting to a new situatio
 
 Balance is the primary trait of Monks, Hunters, Rogues, and Druids, as well as the specialized trait of Explorers. It is also the secondary trait of Dragoons, Swashbucklers, Bards, and Mystics. These classes are characterized by their ability to wield a diverse toolkit, reposition easily, and improvise resources.
 
-For every point in Balance, your character gains 1 improvisation point and 1 reaction.
+For every point in Balance, your character either gains 1 focus size or 2 memory size
 
 UNIQUE PASSIVES:
 

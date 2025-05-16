@@ -1,10 +1,10 @@
 Sumerian-Akkadian: vast emptiness, open desert, open skies. An origin from a primordial sea that will one day reclaim all. 
 Sealing and controlling people and the world. Solomonic Demonology
 
-Umbra (Shadow 1): 
-Nullus (Shadow 2): Stealth 2. Discount STA cost if an enemy is debuffed by you
+Umbra (Shadow 1): Stealth 1
+Nullus (Shadow 2): Stealth based on number of debuffs on an enemy
 (Shadow 3): 
-Astaroth's Whisper (Shadow 4): Target an enemy. Expose all their skills. Discount STA cost per enemy debuff
+Astaroth's Whisper (Shadow 5): Target an enemy. Take their next turn for them
 Malkuth Tenebris (Shadow 5): Target an enemy. Allies gain Stealth based on the number of debuffs on them
 
 (Void 1/Water 1)

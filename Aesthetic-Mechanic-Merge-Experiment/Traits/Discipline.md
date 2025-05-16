@@ -4,7 +4,7 @@ This trait represents resilience in the face of adversity, the ability to endure
 
 Discipline is the primary trait of [[Knight|Knights]], [[Inquisitor|Inquisitors]], [[Paladin|Paladins]], and [[Sentinel|Sentinels]], as well as the specialized trait of [[Juggernaut|Juggernauts]]. It is also the secondary trait of [[Gladiator|Gladiators]], Strategists, [[Cleric|Clerics]], and [[Monk|Monks]]. These classes are characterized by their ability to draw out fights, punish overextension, and build gradual advantages.
 
-For each point of Discipline, your character gains 5 STA and 1 DEF
+For each point of Discipline, your character gains 5 STA, 10 HP, and 1 DEF
 
 SPECIALIZED PASSIVES:
 EARTHSHATTERER: Slow and damage nearby enemies constantly
@@ -38,7 +38,7 @@ Stagger: Attack. If this is in your first ACT slot, slow the enemy
 Bash: Attack. If this is in your last ACT slot, stun the enemy
 Steel Yourself: Gain DEF until you rest
 Iron Wall: Block. Upgrade this slot with "Gain more block here. Downgrade when you stop defending here."
-Mirror Shield: This turn, enemies take damage you block
+Mirror Shield: Block. This turn, attackers also take the damage you block
 Riposte (stance): No attacks or defenses, halve SPD. Counter all attacks
 Ward: Block or gain Spellshield
 Composure: Activate while stunned/disrupted. Gain DEF/STA

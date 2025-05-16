@@ -5,7 +5,7 @@ An Inquisitor's bread and butter revolves around exposing an enemy's strategy wi
 UNIQUE:
 Interrogator: Each turn you target an enemy or are targeted by an enemy, declare an action type or a skill name. The enemy chooses a skill of that type or name to expose from their skillset
 Accusation: Target an enemy. Lock any number of their exposed skills until you rest, paying increasing STA cost for each lock
-Trial: Target an enemy and choose an action type/combat stat secretly (T: enemy uses action type within 3 turns. An ally restores HP/STA, and the stat is reduced permanently)
+Trial: Target an enemy and choose an action type/combat stat secretly (T3: enemy uses action type. An ally restores HP/STA, and the stat is reduced permanently)
 
 DISCIPLINE:
 Taunt: Target an enemy; next turn they must attempt to attack you
