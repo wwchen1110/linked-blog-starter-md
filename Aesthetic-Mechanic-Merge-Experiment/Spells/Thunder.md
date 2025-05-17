@@ -1,5 +1,6 @@
-Spend big, reward spending big. Precise spent power is also rewarded
-Ardor/Vision. Wuxia (3 (pieces of the world), 5 (elements), 7 (emotions), 8 (bagua), 9 (heavens))
+Dramatic, high-impact surges of power
+Ardor/Vision
+Wuxia (3 (pieces of the world), 5 (elements), 7 (emotions), 8 (bagua), 9 (heavens))
 
 Voltis (Thunder 1): Instant. Gain an ACT next turn
 Fulmen (Thunder 2): Gain an ACT and SPD next turn. If you’ve unleashed 4+ this turn, double it

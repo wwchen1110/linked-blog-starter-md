@@ -1,4 +1,5 @@
 Ambition, strength, and speed. ATK gain, temporary power
+Ardor/Balance
 Greek: destruction and creativity
 
 Ignis (Fire 1): Deal damage

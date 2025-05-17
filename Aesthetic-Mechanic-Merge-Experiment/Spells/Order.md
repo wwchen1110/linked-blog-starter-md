@@ -1,5 +1,6 @@
 Structured, gradual ascent. Power over time that wins out in efficiency in the end
-Discipline/Vision. Hebrew
+Discipline/Vision
+Hebrew
 
 Fides (Order 1): Next 2 turn starts, restore STA
 Obedientia (Order 2): Use “imbue 1” for the next 4 turns in this ACT slot

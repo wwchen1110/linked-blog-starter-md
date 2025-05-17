@@ -1,4 +1,5 @@
-Versatility, plurality, cycles. Shifting inscription, expanding memory, adding skills, restoring HP/STA. 
+Versatility, plurality, cycles. Shifting inscription, expanding memory, adding skills, restoring HP/STA.
+Balance/Vision 
 Anishinaabe tribe
 
 Aqua (W1): Shift 2 from this inscription to Water/Nature/Air

@@ -1,4 +1,4 @@
-Sumerian-Akkadian: vast emptiness, open desert, open skies. An origin from a primordial sea that will one day reclaim all. 
+Subtle manipulations, stealth.
 Sealing and controlling people and the world. Solomonic Demonology
 
 Umbra (Shadow 1): Stealth 1

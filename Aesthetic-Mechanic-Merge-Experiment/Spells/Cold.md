@@ -1,11 +1,12 @@
+Methodical control and counterplay. Make precision easier by reducing enemy ACT/SPD or delaying their actions, then reward precision with efficient nullification
+Discipline/Cunning
 Old Norse: entropy, inevitability. Once eternal winter sets in, the end will be marked by storms, raids, and the all-consuming abyss
-Inevitability, preserving control. Discipline/Cunning
 
-Frigus (Cold 1): An ally gains block
-Nivalis (Cold 2): An ally gains max STA. Your next spell unleashes 1 less
-Jötunmáttr (Cold 3): An ally gains permanent block. Unleash 2
+Frigus (Cold 1): An ally gains temporary block for this ACT
+Nivalis (Cold 2): An enemy loses SPD. Their first ACT next turn gains Channel 1
+Jötunmáttr (Cold 3): Block. If you didn't take damage last turn, unleash 2
 (Cold 4): For 3 turns, units can only unleash 3 at a time, and have a STA cap for skill usage
-Fimbulvetr (Cold 5): Allies gain big permanent block. Unleash 3
+Fimbulvetr (Cold 5): Channel 3. Channeled: all enemies lose an ACT slot. Release: All their skills gain Channel 1 next turn
 
 Nix (Cold 1/Shadow 1): Target unit cannot unleash/imbue next turn
 Torpor (Cold 2/Shadow 1): Target enemy loses X ATK/SPD for X turns, where X is this skill’s imbued power

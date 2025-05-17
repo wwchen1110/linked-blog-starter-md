@@ -1,5 +1,6 @@
 Cutting corners to accelerate power gain, but paying the price later. A Chaos caster has ways to mitigate the price while making the most of the immediate power
 Big imbues, CD reductions, Ardor/Cunning buffs, future imbue reductions
+Ardor/Cunning
 Gnosticism: Inversion of mainstream religion
 
 Malus (Chaos 1): Reduce a CD. Next turn end, imbue 1 less
