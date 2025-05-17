@@ -3,8 +3,8 @@ Discipline/Cunning
 Old Norse: entropy, inevitability. Once eternal winter sets in, the end will be marked by storms, raids, and the all-consuming abyss
 
 Frigus (Cold 1): An ally gains temporary block for this ACT
-Nivalis (Cold 2): An enemy loses SPD. Their first ACT next turn gains Channel 1
-Jötunmáttr (Cold 3): Block. If you didn't take damage last turn, unleash 2
+Nivalis (Cold 2): An enemy loses SPD for 2 turns. Their first ACT next turn gains Channel 1
+Jötunmáttr (Cold 3): Block. If you didn't take damage last turn, only unleash 2
 (Cold 4): For 3 turns, units can only unleash 3 at a time, and have a STA cap for skill usage
 Fimbulvetr (Cold 5): Channel 3. Channeled: all enemies lose an ACT slot. Release: All their skills gain Channel 1 next turn
 

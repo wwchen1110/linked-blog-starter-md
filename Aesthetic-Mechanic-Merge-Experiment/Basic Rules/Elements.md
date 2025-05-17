@@ -40,5 +40,57 @@ Air, fire, water, earth, nature, lightning, cosmic, aether
 Wood/Earth/Fire/Air/Water
 
 STONE
-Endurance, steadiness, 
+Aesthetics: Endurance, steadiness,
+Mechanics: 
 
+METAL
+Aesthetics: Self-mastery expressed through direct action. Volition, intent, focus
+Mechanics: Convert between burst and value, control the tempo
+
+COLD
+Aesthetics: Methodical control and counterplay
+Mechanics: Enemies lose ACT/SPD or delay their abilities, precise nullification
+
+ORDER
+Aesthetics: Faith that adherence to a greater structure will yield results in time
+Mechanics: Permanent buffs, consistent imbuing. Reward consistent imbuing
+
+EARTH:
+Aesthetics: Self-regulation, patience, restraint, sustainability
+Mechanics: Sparse skills/actions/spells that yield adaptive efficiency buffs and larger resource pools
+
+BLOOD:
+Aesthetics:
+Mechanics:
+
+CHAOS:
+Aesthetics:
+Mechanics:
+
+THUNDER:
+Aesthetics:
+Mechanics:
+
+FIRE: 
+Aesthetics:
+Mechanics:
+
+SHADOW:
+Aesthetics:
+Mechanics:
+
+PSYCHIC:
+Aesthetics:
+Mechanics:
+
+AIR:
+Aesthetics:
+Mechanics:
+
+LIGHT:
+Aesthetics:
+Mechanics:
+
+WATER:
+Aesthetics:
+Mechanics:
