@@ -39,24 +39,32 @@ Altered consciousness, spirit world navigation, physical/spiritual healing, ecol
 Air, fire, water, earth, nature, lightning, cosmic, aether
 Wood/Earth/Fire/Air/Water
 
+Discipline-Ardor: 
+
+Discipline-Cunning: 
+
+Discipline-Vision: 
+
+Discipline-Balance: 
+
 STONE
-Aesthetics: Endurance, steadiness,
-Mechanics: 
+Aesthetics: Endurance, steadiness, weight
+Mechanics: Channeled buffs to mundane actions
 
 METAL
-Aesthetics: Self-mastery expressed through direct action. Volition, intent, focus
-Mechanics: Convert between burst and value, control the tempo
+Aesthetics: self-mastery through focused intent. Taking direct action to push momentum in a favorable direction
+Mechanics: Alternate between or enhance bursts/sustain
 
 COLD
-Aesthetics: Methodical control and counterplay
+Aesthetics: levelheaded, methodical control. Dispassionate patience leads to precision, which leads to efficient responses, which leads to limiting enemy influence
 Mechanics: Enemies lose ACT/SPD or delay their abilities, precise nullification
 
 ORDER
-Aesthetics: Faith that adherence to a greater structure will yield results in time
+Aesthetics: adherence to a greater structure. Faith that taking the 'correct' actions will lead to results, even without immediate evidence
 Mechanics: Permanent buffs, consistent imbuing. Reward consistent imbuing
 
 EARTH:
-Aesthetics: Self-regulation, patience, restraint, sustainability
+Aesthetics: self-regulated sustainable growth. Allocating resources to what's most necessary for thriving in the long run
 Mechanics: Sparse skills/actions/spells that yield adaptive efficiency buffs and larger resource pools
 
 BLOOD:
@@ -64,27 +72,27 @@ Aesthetics:
 Mechanics:
 
 CHAOS:
-Aesthetics:
-Mechanics:
+Aesthetics: Defiance of expectations, seizing immediate power without regard for consequences
+Mechanics: CDR, quick imbues that 
 
 THUNDER:
-Aesthetics:
-Mechanics:
+Aesthetics: Dramatic, high-impact surges of power
+Mechanics: 
 
 FIRE: 
-Aesthetics:
+Aesthetics: Wide range of immediate options
 Mechanics:
 
 SHADOW:
-Aesthetics:
+Aesthetics: 
 Mechanics:
 
 PSYCHIC:
-Aesthetics:
+Aesthetics: Subconscious, unknowable, ethereal thoughts
 Mechanics:
 
 AIR:
-Aesthetics:
+Aesthetics: Hollow masks, fleeting opportunism
 Mechanics:
 
 LIGHT:
@@ -92,5 +100,5 @@ Aesthetics:
 Mechanics:
 
 WATER:
-Aesthetics:
+Aesthetics: Plurality, 
 Mechanics:
