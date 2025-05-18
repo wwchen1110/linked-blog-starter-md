@@ -1,10 +1,10 @@
 Trait Aesthetics/Mechanics: 
 - Discipline 
-	- Aesthetics: willpower, duty, restraint, stoicism, adherence to a code, measured/practiced actions, stopping the enemy, size/weight
-    - Mechanics: STA, HP, ATK, DEF. Reward extended patterns of play, buffs until you rest, stamina economy efficiency. Extend periods of power
+	- Aesthetics: willpower, performing duty even under duress, restraint, stoicism, adherence to a code, measured/practiced actions, neutralizing threats, size/weight
+    - Mechanics: STA, ATK, HP, DEF. Reward extended patterns of play, buffs until you rest, stamina economy efficiency. Extend periods of power
 - Ardor 
 	- Aesthetics: passion, instinct, fearlessness, initiative, emotion, the individual over the group, defying the odds, living in the moment, speed, sharpness
-	- Mechanics: ATK, HP, SPD, CRT. Extra actions outside normal order, 1-turn buffs, action economy efficiency. Powerful, fast combos 
+	- Mechanics: ATK, SPD, CRT. Extra actions outside normal order, 1-turn buffs, action economy efficiency. Powerful, fast combos 
 - Cunning 
 	- Aesthetics: manipulation, influence, subtlety, detail-oriented, cause and effect, social/political positioning, fine control over external events
 	- Mechanics: perception. Reveal enemy skillset/actions, status effects, narrow but powerful traps and counters. Predict or manipulate, then counter 
@@ -14,8 +14,14 @@ Trait Aesthetics/Mechanics:
 - Balance 
 	- Aesthetics: wandering, flexibility, scrappiness, connection to nature instead of society, improvisation, open thinking, defying categorization, growth
 	- Mechanics: skillset size. Reward diverse toolkits, multi-purpose skills, curate/grow skillsets. Adapt to situation until thriving is natural
+  
+Discipline and Ardor are mirror traits. Cunning and Vision are mirror traits. When comparing these traits, or concepts composed from these traits, they will act as foils to each other.
 
-IGNORE the trait names for the rest of this prompt. For each of my 5 traits, define the strongest argument that this concept is a poor fit for that trait's aesthetics. Store this argument as X. Next, define the collection of aesthetics within the trait that presents the strongest counterargument to X. Store this collection of aesthetics as Y. Explain the counterargument. Retrieve Y, then score how well Y matches the full concept. During this scoring, forget the existence of my 5 traits. 5 means there is total alignment, 1 means that nothing matches.
+For each of my 5 traits, define the strongest argument that this concept is a poor fit for that trait's aesthetics, using specific evidence. Store it as X.
+
+Next, create a counterargument to X using a subset of the trait's aesthetics as evidence. Score the counterargument from 1 to 5, based on how well it fits with the trait aesthetics.
+
+Score how foundational the full concept is to the trait. A score of 1 means that there are distinct concepts that could take the place of this concept in constructing the trait, and a score of 5 means that this concept is necessary to have this trait.
 
 STONE
 Aesthetics: Endurance, steadiness, weight
@@ -26,7 +32,7 @@ Aesthetics: Volition-driven direct action. Making the next move decisively, with
 Mechanics: Alternate between or enhance bursts/sustain
 
 COLD
-Aesthetics: Levelheaded, methodical control. Dispassionate patience leads to precision, which leads to efficient responses, which leads to limiting enemy influence
+Aesthetics: Levelheaded, methodical control. Dispassionate patience leads to accurate foresight, which leads to precise responses, which leads to accumulated advantage
 Mechanics: Enemies lose ACT/SPD or delay their abilities, precise nullification
 
 ORDER
@@ -34,41 +40,45 @@ Aesthetics: Faith that adherence to a greater structure will eventually lead to 
 Mechanics: Permanent buffs, consistent imbuing. Reward consistent imbuing
 
 EARTH:
-Aesthetics: Self-regulated sustainability. Allocating resources to what's most necessary for thriving in the long run
+Aesthetics: Self-regulated sustainability. Forgoing immediately available options to have the strength to thrive in the long run
 Mechanics: Sparse skills/actions/spells that yield adaptive efficiency buffs and larger resource pools
 
 BLOOD:
-Aesthetics:
-Mechanics:
+Aesthetics: Volatility, aggression, life force
+Mechanics: 
 
 CHAOS:
 Aesthetics: Defying standards of behavior to take personal advantage
-Mechanics: CDR, quick imbues that 
+Mechanics: CDR, specific spell discounts with specific delayed consequences
 
 THUNDER:
 Aesthetics: Dramatic, high-impact surges of power
-Mechanics: 
+Mechanics: Can unleash into debt, taking damage next turn. Reward unleashing a lot
 
 FIRE: 
 Aesthetics: Listening to instinct. Opening up options for immediate survival
 Mechanics:
 
 SHADOW:
-Aesthetics: 
+Aesthetics: concealment, manipulation, trickery
 Mechanics:
 
 PSYCHIC:
 Aesthetics: Understanding the subconscious. Interfacing with the ethereal beliefs that usually influence thoughts from out of sight
-Mechanics:
+Mechanics: Take control of the enemy, permanent debuffs. Imbue when targeting a vulnerable enemy
 
 AIR:
-Aesthetics: Hollow masks, fleeting opportunism
-Mechanics:
+Aesthetics: Fleeting, hollow opportunism. Choosing a mask that fits the occasion
+Mechanics: Imbue outside pattern
 
 LIGHT:
-Aesthetics:
+Aesthetics: transcendent power
 Mechanics:
 
 WATER:
-Aesthetics: Plurality, 
+Aesthetics: Plurality and transformation. Fluid identity that requires understanding all its facets
+Mechanics:
+
+WOOD:
+Aesthetics: Diversity and growth. Disparate pieces united in harmony
 Mechanics:
