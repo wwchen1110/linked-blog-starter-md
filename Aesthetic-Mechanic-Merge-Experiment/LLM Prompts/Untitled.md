@@ -44,7 +44,7 @@ Aesthetics: Self-regulated sustainability. Forgoing immediately available option
 Mechanics: Sparse skills/actions/spells that yield adaptive efficiency buffs and larger resource pools
 
 BLOOD:
-Aesthetics: Volatility, aggression, life force
+Aesthetics: Passion, aggression, drive
 Mechanics: Immediate damage, 
 
 CHAOS:
