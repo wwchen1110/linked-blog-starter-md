@@ -45,7 +45,7 @@ Mechanics: Sparse skills/actions/spells that yield adaptive efficiency buffs and
 
 BLOOD:
 Aesthetics: Volatility, aggression, life force
-Mechanics: 
+Mechanics: Immediate damage, 
 
 CHAOS:
 Aesthetics: Defying standards of behavior to take personal advantage
@@ -60,25 +60,25 @@ Aesthetics: Listening to instinct. Opening up options for immediate survival
 Mechanics:
 
 SHADOW:
-Aesthetics: concealment, manipulation, trickery
-Mechanics:
+Aesthetics: concealment, information, trickery
+Mechanics: Powerful AoE Stealths, skill reveals. Trap spells that cast when conditions are met
 
 PSYCHIC:
 Aesthetics: Understanding the subconscious. Interfacing with the ethereal beliefs that usually influence thoughts from out of sight
-Mechanics: Take control of the enemy, permanent debuffs. Imbue when targeting a vulnerable enemy
+Mechanics: Take control of the enemy, permanent debuffs. Manipulate enemy imbued power
 
 AIR:
 Aesthetics: Fleeting, hollow opportunism. Choosing a mask that fits the occasion
-Mechanics: Imbue outside pattern
+Mechanics: Treat imbued elements as others, cycle skills, dodge
 
 LIGHT:
-Aesthetics: transcendent power
-Mechanics:
+Aesthetics: transcendent power, tapping into the singular higher truth
+Mechanics: Extend inscriptions, imbue based on inscription length, access the most powerful spells
 
 WATER:
 Aesthetics: Plurality and transformation. Fluid identity that requires understanding all its facets
-Mechanics:
+Mechanics: shift inscription, extend skillset/focus, imbue based on inscription elements
 
 WOOD:
 Aesthetics: Diversity and growth. Disparate pieces united in harmony
-Mechanics:
+Mechanics: learn skills, imbue any element, scale off number of different elements
