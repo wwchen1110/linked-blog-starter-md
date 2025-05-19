@@ -5,7 +5,7 @@ Inca: Stability, fertility, thriving
 Terra (Earth 1): Reduce the STA of this skill
 Gravitas (Earth 2): Reduce the STA of this skill. If this is your only spell this turn, gain HP at the end of the turn
  (Earth 3): 
- (Earth 4): Between casting this and resting, increase your ATK/DEF each turn and decrease them whenever you use a new skill
+ (Earth 4): Until you rest, increase your ATK/DEF each turn end and decrease them whenever you use a new skill
 Earth-Mother's Embrace (Earth 5): Until you rest, increase your max HP/STA each turn. Decrease this amount each time you take an action
 
 Sanctum (Earth 1, Order 1): Channeled ally DEF buff. Increase if you imbued last turn

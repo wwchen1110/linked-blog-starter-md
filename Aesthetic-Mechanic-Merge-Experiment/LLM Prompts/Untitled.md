@@ -57,7 +57,7 @@ Mechanics: Can unleash into debt, taking damage next turn. Reward unleashing a l
 
 FIRE: 
 Aesthetics: Listening to instinct. Opening up options for immediate survival
-Mechanics:
+Mechanics: Reward diverse combos with adaptive burst and reward full skillsets
 
 SHADOW:
 Aesthetics: concealment, information, trickery
@@ -76,9 +76,9 @@ Aesthetics: transcendent power, tapping into the singular higher truth
 Mechanics: Extend inscriptions, imbue based on inscription length, access the most powerful spells
 
 WATER:
-Aesthetics: Plurality and transformation. Fluid identity that requires understanding all its facets
+Aesthetics: Plurality and transformation. Fluid identity that blurs the lines between multiplicity and singularity
 Mechanics: shift inscription, extend skillset/focus, imbue based on inscription elements
 
 WOOD:
-Aesthetics: Diversity and growth. Disparate pieces united in harmony
+Aesthetics: Diversity and growth. Disparate pieces that are stronger for their differences
 Mechanics: learn skills, imbue any element, scale off number of different elements
