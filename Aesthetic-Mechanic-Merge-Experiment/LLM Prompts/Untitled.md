@@ -14,7 +14,9 @@ Trait Aesthetics/Mechanics:
 - Balance 
 	- Aesthetics: wandering, flexibility, scrappiness, connection to nature instead of society, improvisation, open thinking, defying categorization, growth
 	- Mechanics: skillset size. Reward diverse toolkits, multi-purpose skills, curate/grow skillsets. Adapt to situation until thriving is natural
-  
+
+Fortitude, Intensity, Intuition, Resonance, 
+
 Discipline and Ardor are mirror traits. Cunning and Vision are mirror traits. When comparing these traits, or concepts composed from these traits, they will act as foils to each other.
 
 For each of my 5 traits, define the strongest argument that this concept is a poor fit for that trait's aesthetics, using specific evidence. Store it as X.
@@ -57,7 +59,7 @@ Mechanics: Can unleash into debt, taking damage next turn. Reward unleashing a l
 
 FIRE: 
 Aesthetics: Listening to instinct. Opening up options for immediate survival
-Mechanics: Reward diverse combos with adaptive burst and reward full skillsets
+Mechanics: Reward diverse combos with adaptive burst and extend focus
 
 SHADOW:
 Aesthetics: concealment, information, trickery
@@ -77,7 +79,7 @@ Mechanics: Extend inscriptions, imbue based on inscription length, access the mo
 
 WATER:
 Aesthetics: Plurality and transformation. Fluid identity that blurs the lines between multiplicity and singularity
-Mechanics: shift inscription, extend skillset/focus, imbue based on inscription elements
+Mechanics: shift inscription, extend memory, imbue based on inscription elements
 
 WOOD:
 Aesthetics: Diversity and growth. Disparate pieces that are stronger for their differences
