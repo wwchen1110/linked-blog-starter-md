@@ -1,5 +1,14 @@
-Before combat, a character can choose to inscribe glyphs onto their skills. They first choose up to {Vision} different types of elements they want access to. Then, from those types they pick up to {Vision} x 2 elements to imbue onto any skills of their choosing, in any order. This creates inscriptions on each of their selected skills, patterns of elements. At the end of each turn, they can choose an inscription so that the next element is imbued. At each rest, characters can swap a single element for another in their inscriptions. They can still only pick out of the pool of element types they selected in the beginning.
+On character creation:
+	- choose up to {Vision} different types of elements to resonate with
+Before combat:
+	- pick up to {Vision} x 2 elements from the ones they resonate with to imbue onto any skills of their choosing, in any order
+	- this creates inscriptions (element patterns) on skills
+At the end of each turn:
+	- advance 1 inscription (imbue its next element)
+	- once an inscription has been advanced to the end, it restarts at the beginning
+	- you can only imbue like this {Vision} x 5 times per battle
+At each rest:
+	- shift up to {Vision} inscribed elements to other elements you resonate with
 
-For any skill with an inscription, it can instead be cast as a spell whose casting requirements are satisfied by the imbued elements on the skill. Casting a spell this way puts that spell on CD for the user and spends its STA cost, instead of spending the skill's CD/STA. It also expends the imbued elements that were in the casting requirements. A single long inscription gives characters stacking flexibility, allowing them access to high-level spells and picking from any combination of imbued elements. A series of short inscriptions spread across many skills gives characters immediate flexibility, letting them pick which inscription's next element they want to imbue.
-
-The most powerful spellcasting stems from inscribing magic onto a single skill, Primordia. Most skills can only be imbued with 1 element at a time, but Primordia can be imbued with an infinite number of elements. As Primordia is imbued with more elements, it gains possible spells based on their elemental requirements. Casting a spell consumes the elements required from Primordia's imbued power.
+Spellcasting:
+Using any skill with an inscription opens up a simultaneous action to cast a spell. Casting a spell this way puts that spell on CD for the user and spends its STA cost, instead of spending the skill's CD/STA. It also expends the imbued elements that were in the casting requirements. A single long inscription gives characters stacking flexibility, allowing them access to high-level spells and picking from any combination of imbued elements. A series of short inscriptions spread across many skills gives characters immediate flexibility, letting them pick which inscription's next element they want to imbue.

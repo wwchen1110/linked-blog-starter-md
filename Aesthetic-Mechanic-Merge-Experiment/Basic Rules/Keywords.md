@@ -1,0 +1,1 @@
+Channel X: After using this skill/spell, you must spend an action Channeling each turn for X turns before the effect resolves
