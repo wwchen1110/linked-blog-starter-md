@@ -14,9 +14,9 @@ Air - imbuing out of order, fast casting. Thunder is kind of the child of Air an
 Metal - incredibly cool symbol to bridge Discipline and Ardor. Probably not justified as a spellcasting element though
 Psychic - incredibly cool symbol to bridge Vision and Cunning. Probably just belongs under Shadow though
 
-Fire - Thunder (mech)/Chaos folded in. Burst imbues, burst unleashes, indiscriminate damage, 1-turn buffs
-Earth - Cold/Order mechanics partially folded in. Steady imbues, limit enemy options, channeled buffs to mundane actions
-Air - Thunder/Nature partially folded in. Instant casting, flexible imbuing, rotate elemental resonances on the fly
-Water - Cold/Nature partially folded in. Heal, cleanse, reward based on element composition, minimize unleashing
+Fire - Thunder (mech)/Chaos folded in. Burst imbues, burst unleashes, indiscriminate damage, 1-turn buffs, treating any element as Fire
+Earth - Cold/Order mechanics partially folded in. Steady imbues, limit enemy options, channeled buffs to combat actions
+Air - Thunder/Nature partially folded in. Instant casting, flexible imbuing, reward precise unleashes 
+Water - Cold/Nature partially folded in. Heal, cleanse, reward based on element composition, rotate element resonances, minimize unleashing
 Light - Order partially folded in. Reward lots of imbued power, extend inscription length, access the highest power spells
 Shadow - Cold/Psychic folded in. Stealth, reveals, complete control, removing ACT slots
