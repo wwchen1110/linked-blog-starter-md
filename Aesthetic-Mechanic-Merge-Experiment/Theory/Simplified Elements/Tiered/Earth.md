@@ -1,0 +1,9 @@
+# Primary
+Terra (E1)
+# Basics
+Praesidium (E2)
+Glacius (E1W1)
+Vulcanus (E1F1)
+Natura (E1A1)
+Sanctum (E1L1)
+Abyssus (E1S1)

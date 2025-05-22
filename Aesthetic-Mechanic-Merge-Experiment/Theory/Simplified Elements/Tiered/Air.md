@@ -1,0 +1,9 @@
+# Primary
+Ventus (A1)
+# Basics
+Zephyrus (A2)
+Nimbus (A1W1)
+Fulmen (A1F1)
+Natura (A1E1)
+Caelum (A1L1)
+Vacuus (A1S1)
