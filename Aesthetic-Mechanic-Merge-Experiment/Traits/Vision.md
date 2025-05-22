@@ -22,10 +22,10 @@ Order Domain: Consistent imbuing, STA restore, reward consistent imbuing/actions
 Earth Domain: Channeled spells, strengthen mundane actions (attacks/defences)
 Cold Domain: Unleash less, permanent stats/block, delay enemy actions or reduce ACT/SPD
 Chaos Domain: Fast imbuing at long term cost, CD reduction, reward spiky imbuing/actions
-Fire Domain: Payoff for unleashing a lot, short buffs, temporary imbue
+Fire Domain: Adaptive burst and expanded focus, rewarding diverse combos
 Thunder Domain: Precise conditions (cast, unleash), ACT/SPD gain, instant casts
 Water Domain: Shift inscription, cleanse, expand memory, options based on inscription
 Air Domain: Imbue out of order, dodge, cycle skills, options based on unleashed elements
 Nature Domain: Scale with unique domains, learn skills, treat Nature elements as any
 Shadow Domain: Control enemy actions, Stealth, efficiency against the vulnerable
-Radiance Domain: Extend inscription, scale off of inscription length, Mythic spells
+Light Domain: Extend inscription, scale off of inscription length, Mythic spells

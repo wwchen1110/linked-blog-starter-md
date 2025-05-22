@@ -7,4 +7,6 @@ This system eliminates Balance, the odd man out, integrating it into Cunning and
 | **Prowess**   | Monk       | Hunter    | Rogue    | Bard       |
 | **Resonance** | Cleric     | Sorcerer  | Warlock  | Wizard     |
 Fortitude and Intensity are mirrored traits, Prowess and Resonance are mirrored traits.
-These pairs of traits operate on orthogonal axes, 
+These pairs of traits operate on orthogonal axes, where physically and mentally oriented characters are separate.
+
+In this system there would be 8 elements: Earth, Fire, Shadow, Light, Cold, Thunder, Chaos and Order.

@@ -47,7 +47,7 @@ Mechanics: Sparse skills/actions/spells that yield adaptive efficiency buffs and
 
 BLOOD:
 Aesthetics: Passion, aggression, drive
-Mechanics: Immediate damage, 
+Mechanics: Big damage, 1-turn buffs, rewarding burst
 
 CHAOS:
 Aesthetics: Defying standards of behavior to take personal advantage
@@ -55,11 +55,11 @@ Mechanics: CDR, specific spell discounts with specific delayed consequences
 
 THUNDER:
 Aesthetics: Dramatic, high-impact surges of power
-Mechanics: Can unleash into debt, taking damage next turn. Reward unleashing a lot
+Mechanics: Can unleash into debt. Reward unleashing a lot
 
 FIRE: 
 Aesthetics: Listening to instinct. Opening up options for immediate survival
-Mechanics: Reward diverse combos with adaptive burst and extend focus
+Mechanics: Adaptive burst and expanded focus, rewarding diverse combos
 
 SHADOW:
 Aesthetics: concealment, information, trickery
