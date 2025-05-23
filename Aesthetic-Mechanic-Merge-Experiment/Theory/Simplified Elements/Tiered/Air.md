@@ -1,7 +1,7 @@
 # Primary
 Ventus (A1)
 # Basics
-Expeditus (A2)
+Volatus (A2)
 Nimbus (A1W1)
 Fulmen (A1F1)
 Spatium (A1E1)

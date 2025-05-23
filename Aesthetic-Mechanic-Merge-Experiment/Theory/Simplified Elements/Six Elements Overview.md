@@ -22,9 +22,25 @@ Light - Order partially folded in. Reward lots of imbued power, extend inscripti
 Shadow - Cold/Psychic folded in. Stealth, reveals, complete control, removing ACT slots
 
 Specifics:
-Fire - Energy, Chaos, Wrath, Metal, 
-Earth - Gravity, Nature, Metal, Wood, Death, Order
-Water - Cold, Nature, Storms, Blood?, Poison, Healing
-Air - Freedom, Wood, Lightning, Storms, Heaven, Void
-Light - Cosmos, Heresy, Wrath, Order, Healing, Heaven
+Fire - Energy, Blood, Metal, Lightning, Chaos, Bright
+Earth - Weight, Space, Nature, Metal, Death, Order
+Water - Flow, Blood, Nature, Clouds, Poison, Healing
+Air - Flight, Space, Lightning, Clouds, Void, Sky
+Light - Truth, Heresy, Bright, Healing, Order, Sky
 Shadow - Illusion, Heresy, Chaos, Death, Poison, Void
+
+Zoroastrian - Light, Truth, Bright
+Demonology - Shadow, Illusion
+Incan - Earth, Weight
+Shinto - Air,
+Anishinaabe - Water, Nature, Clouds
+Vedic - Fire,
+
+Greek - Fire, Energy, Lightning
+Hebrew - Light, Order, Truth
+Egyptian - Earth, Weight, Order
+
+Gnostic - Heresy, Illusion, Shadow
+Norse - Lightning, Clouds
+Wuxia - Flow, Energy, Flight
+Gaelic - Nature, Clouds, Earth

@@ -4,8 +4,8 @@ Ignis (F1)
 Energia (F2)
 Fulmen (F1A1)
 Ferrum (F1E1)
-Sanguis  (F1W1)
-Judicium (F1L1)
+Sanguis (F1W1)
+Incandis (F1L1)
 Chaosis (F1S1)
 # Uniques
 Phlóga (F3): Deal damage to all enemies, and gain ATK this turn

@@ -1,7 +1,7 @@
 # Primary
 Aqua (W1)
 # Basics
-Glacialis (W2)
+Fluxus (W2)
 Sanguis (W1F1)
 Nimbus (W1A1)
 Viriditas (W1E1)
