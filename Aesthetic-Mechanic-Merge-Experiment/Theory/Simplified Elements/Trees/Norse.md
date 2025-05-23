@@ -1,10 +1,10 @@
 # Unique
-Jotunmattr (A1F1W1)
+Jotunmattr (A1W2)
 
 # Legendaries
-Jotunmattr (A1S1W2)
+Jotunmattr (A1W2)
 Jarnhǫttr (A1S1W1E1): Channeled DEF buff. On release, your next spell unleashes less scaling with channel length
-Niflhel (A1F1W1E1): Enemies lose their first ACT slot the next 3 turns
+Niflhel (A1E1W1E1): Enemies lose their first ACT slot the next 3 turns
 
 Mjölnir (A1E1W1F1): Discharge all power; deal AoE damage scaling with amount. If 8+ power, discharge 2 instead
 

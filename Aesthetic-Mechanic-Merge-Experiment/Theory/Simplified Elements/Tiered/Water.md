@@ -2,7 +2,7 @@
 Aqua (W1)
 # Basics
 Lacuna (W2)
-Sanguis (W1F1)
+Alchimia (W1F1)
 Nimbus (W1A1)
 Glacius (W1E1)
 Venenum (W1S1)

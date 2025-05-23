@@ -1,5 +1,5 @@
 # Primary
-Nix (S1)
+Nox (S1)
 # Basics
 Umbra (S2)
 Haeresis (S1L1)
