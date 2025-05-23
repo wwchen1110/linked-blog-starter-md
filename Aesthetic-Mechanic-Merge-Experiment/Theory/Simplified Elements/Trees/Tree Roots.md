@@ -1,13 +1,14 @@
 # Mono-Element
-[[Hebrew|Hebrew (L3)]]
+Zoroastrian (L3)
 Demonology (S3)
 Incan (E3)
-Zoroastrian (F3)
+Vedic (F3)
 Shinto? (A3)
 Anishinaabe (W3)
 
 # Dual-Element
 [[Gnostic|Gnostic (S2L1)]]
+[[Hebrew|Hebrew (L2E1)]]
 Egyptian (L2E1)
 Sumerian (L2W1)
 [[Greek|Greek (F2L1)]]

@@ -1,9 +1,9 @@
 # Primary
 Terra (E1)
 # Basics
-Praesidium (E2)
-Glacius (E1W1)
-Vulcanus (E1F1)
-Viriditas (E1A1)
+Gravitas (E2)
+Viriditas (E1W1)
+Ferrum (E1F1)
+Spatium (E1A1)
 Sanctum (E1L1)
-Abyssus (E1S1)
+Mortis (E1S1)

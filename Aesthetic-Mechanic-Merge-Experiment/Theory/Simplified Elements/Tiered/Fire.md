@@ -1,10 +1,10 @@
 # Primary
 Ignis (F1)
 # Basics
-Incendium (F2)
+Energia (F2)
 Fulmen (F1A1)
-Vulcanus (F1E1)
-Alchimia  (F1W1)
+Ferrum (F1E1)
+Sanguis  (F1W1)
 Judicium (F1L1)
 Chaosis (F1S1)
 # Uniques

@@ -1,9 +1,9 @@
 # Primary
 Ventus (A1)
 # Basics
-Zephyrus (A2)
+Expeditus (A2)
 Nimbus (A1W1)
 Fulmen (A1F1)
-Viriditas (A1E1)
+Spatium (A1E1)
 Caelum (A1L1)
-Vacuus (A1S1)
+Nihil (A1S1)

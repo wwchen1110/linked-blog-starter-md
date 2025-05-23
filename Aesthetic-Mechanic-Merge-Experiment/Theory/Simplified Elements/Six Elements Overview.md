@@ -20,3 +20,11 @@ Air - Thunder/Nature partially folded in. Instant casting, flexible imbuing, rew
 Water - Cold/Nature partially folded in. Heal, cleanse, reward based on element composition, rotate element resonances, minimize unleashing
 Light - Order partially folded in. Reward lots of imbued power, extend inscription length, access the highest power spells
 Shadow - Cold/Psychic folded in. Stealth, reveals, complete control, removing ACT slots
+
+Specifics:
+Fire - Energy, Chaos, Wrath, Metal, 
+Earth - Gravity, Nature, Metal, Wood, Death, Order
+Water - Cold, Nature, Storms, Blood?, Poison, Healing
+Air - Freedom, Wood, Lightning, Storms, Heaven, Void
+Light - Cosmos, Heresy, Wrath, Order, Healing, Heaven
+Shadow - Illusion, Heresy, Chaos, Death, Poison, Void
