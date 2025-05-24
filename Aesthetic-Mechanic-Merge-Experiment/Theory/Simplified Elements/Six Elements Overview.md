@@ -24,8 +24,8 @@ Shadow - Cold/Psychic folded in. Stealth, reveals, complete control, removing AC
 Specifics:
 Fire - Energy, Blood, Metal, Lightning, Chaos, Bright
 Earth - Weight, Space, Nature, Metal, Death, Order
-Water - Flow, Blood, Nature, Clouds, Poison, Healing
-Air - Flight, Space, Lightning, Clouds, Void, Sky
+Water - Flow, Blood, Nature, Rain, Poison, Healing
+Air - Flight, Space, Lightning, Rain, Void, Sky
 Light - Truth, Heresy, Bright, Healing, Order, Sky
 Shadow - Illusion, Heresy, Chaos, Death, Poison, Void
 
