@@ -1,7 +1,8 @@
+Neighbors: Aztec, Vedic, Zoroastrian
 # Standards
 Energia, Fulmen, Incandis
 # Uniques
-Phlóga (F2L1): Deal damage to all enemies, and gain ATK this turn
+Phlóga (FFL): Deal damage to all enemies, and gain ATK this turn
 # Legendaries
 Bélos Apóllōnos (F3L1): Deal big damage to an enemy, scaling with total damage dealt
 

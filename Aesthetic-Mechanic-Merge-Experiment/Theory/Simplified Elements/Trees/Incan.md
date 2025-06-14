@@ -1,3 +1,4 @@
+Neighbors: Egyptin
 # Unique
 Pact with the Earth (E3):
 # Legendaries
