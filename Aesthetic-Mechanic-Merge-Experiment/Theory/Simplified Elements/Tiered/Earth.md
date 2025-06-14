@@ -1,9 +1,0 @@
-# Primary
-Terra (E1)
-# Basics
-Gravitas (E2)
-Viriditas (E1W1)
-Ferrum (E1F1)
-Spatium (E1A1)
-Ordo (E1L1)
-Mortis (E1S1)

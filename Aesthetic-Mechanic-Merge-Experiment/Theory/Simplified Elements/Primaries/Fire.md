@@ -1,12 +1,12 @@
 # Primary
 Ignis (F1)
 # Basics
-Energia (F2)
-Fulmen (F1A1)
-Ferrum (F1E1)
-Sanguis (F1W1)
-Incandis (F1L1)
-Chaosis (F1S1)
+Impulsus (FF): Force
+Fulmen (FA): Thunder
+Ferrum (FE): Metal
+Sanguis (FW): Blood
+Zelus (FL): Passion
+Chaosis (FS): Chaos
 # Uniques
 Phlóga (F3): Deal damage to all enemies, and gain ATK this turn
 

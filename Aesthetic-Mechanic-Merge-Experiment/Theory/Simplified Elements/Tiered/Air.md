@@ -1,9 +1,0 @@
-# Primary
-Ventus (A1)
-# Basics
-Volatus (A2)
-Nimbus (A1W1)
-Fulmen (A1F1)
-Spatium (A1E1)
-Caelum (A1L1)
-Nihilum (A1S1)
