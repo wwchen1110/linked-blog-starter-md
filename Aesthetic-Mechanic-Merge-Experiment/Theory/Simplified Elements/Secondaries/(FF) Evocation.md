@@ -1,1 +1,1 @@
-Impulsus (Ki)
+Impulsus (Ev)
