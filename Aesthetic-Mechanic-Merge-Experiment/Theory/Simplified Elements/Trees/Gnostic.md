@@ -2,14 +2,14 @@ Incredibly close neighbors with Classical Hebrew. One Shadow is all that separat
 # Unique
 Unweaving en-t-Fate (SLL)
 # Legendaries
-Liberation en-n-Arkhon (SSLL): Buff your Ardor/Cunning/Vision for 3 turns. The turn after the buff expires, you cannot imbue
-t-Apocryphon en-Johannes (SLLL): For the next 3 turns, gain Cunning/Vision. Extend this buff each turn you imbue 0 or 5+
+Liberation en-n-Arkhon (He-Il): Buff your Ardor/Cunning/Vision for 3 turns. The turn after the buff expires, you cannot imbue
+t-Apocryphon en-Johannes (L-S-He): For the next 3 turns, gain Cunning/Vision. Extend this buff each turn you imbue 0 or 5+
 
 Ekstasis en-t-Asphoxis (SLLA):
 # Ultimates
-t-Apostasis en-te-Demiourgos (SSSLL): Imbue 5. For the next 3 turns, units cannot imbue
-p-Eucharist en-te-Demiourgos (SSLLL): Each turn you imbue 0 or 5+, imbue 2
-p-Name en-te-True-God (SLLLL): If you imbue 0 next turn, imbue 8 at that turn's end
+t-Apostasis en-te-Demiourgos (He-Il): Imbue 5. For the next 3 turns, units cannot imbue
+p-Eucharist en-te-Demiourgos (He-Tr): Each turn you imbue 0 or 5+, imbue 2
+p-Name en-te-True-God (He-Tr): If you imbue 0 next turn, imbue 8 at that turn's end
 
 Ekstasis en-t-Invocation (L1S2A1F1): 
 Dissolution en-te-Abyss (SSLLW): Shift 6 to anything, then imbue up to the amount shifted
