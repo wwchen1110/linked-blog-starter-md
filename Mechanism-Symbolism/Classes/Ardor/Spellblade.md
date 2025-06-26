@@ -1,4 +1,4 @@
-If a Paladin is a warrior who has dedicated their life to serving a god, a Harbinger is champion chosen by higher powers as a representative of their will.
+If a Paladin is a warrior-zealot who has dedicated their life to serving a god, a Harbinger is a warrior-zealot dedicated to themselves.
 
 Spellblades combine [[Ardor]] and [[Vision]] to overwhelm their opponents in a flurry of strikes and spells. Using combo attacks to proc their magic, they’re able to achieve incredible amounts of damage in a single bout. The downside is that waiting out a Harbinger’s buffs leaves them with no gas in the tank.
 
@@ -14,6 +14,6 @@ Jab: Small attack and gain 1 ACT next turn
 Finisher: Attack, scaling with consecutive attacks before
 
 VISION:
-Fire Resonance: Indiscriminate massive damage, 1-turn buffs, temporary imbues
-Air Resonance: Instant casts, flexible imbuing, rotate elemental resonances on the fly
-Shadow Resonance: Stealth, omniscience, control. Reward targeting the vulnerable
+Force (FF): Power and direction, combining into drive. Violent pushes of pure energy - barriers, attacks, sharp momentum shifts
+Fire Resonance
+Air Resonance

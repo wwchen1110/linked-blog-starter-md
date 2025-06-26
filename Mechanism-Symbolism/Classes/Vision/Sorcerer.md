@@ -8,10 +8,11 @@ Spellslinger (P): When you cast your 3rd spell each turn, imbue 1
 
 VISION:
 Primordia - Virga: Inscription length 7. Deal damage scaling with unleashed power
-Chaos Domain: Fast imbuing at long term cost, CD reduction, reward spiky imbuing/actions
-Fire Domain: High damage with less control, temporary imbuing/buffs, reward unleashing
-Thunder Domain: Unleash more for big payoff, precise thresholds, good damage/imbuing
+Thunder (AF): Explosive energy with range and speed. Lightning bolts, sonic attacks, magic blasts
+Soul (FL): The pure, atomic essence of a person. Autonomous effects, identity cleansing, soul wards/resonance/fire
+Force (FF): Power and direction, combining into drive. Violent pushes of pure energy - barriers, attacks, sharp momentum shifts
 
 ARDOR:
-
 Burn Bright: Increase your ATK/DEF for this and the next 3 turns. Each skill you use during this time has its CD doubled
+Blood Lance (Inscription 2): Attack an enemy. You can unleash 1 to gain lifesteal on your next attack this turn
+Soul Charge: Attack an enemy. Temporarily imbue 1

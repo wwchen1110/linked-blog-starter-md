@@ -8,9 +8,9 @@ Revelation:
 
 VISION:
 Primordia - Amuletum: Inscription 8. Passively gain block each turn scaling with imbued power
-Earth Domain: Channeled spells, strengthen mundane actions (ATK/DEF)
-Order Domain: Consistent imbuing, STA restore, reward consistent imbuing/actions
-Cold Domain: Preserve power thresholds, permanent stats/block
+Life (LW): People flowing towards their various individual potentials. Healing/regeneration, individualized buffs, restoring natural balance
+Order (EL): Truth made manifest through stable, enduring forms. Binding, geas, oaths, vows, contracts
+Revelation (LL): Higher truth derived from higher planes of existence. Divination, insight, ascension
 
 DISCIPLINE:
 Shield of Faith (Inscription 3): Block, scaling with imbued power

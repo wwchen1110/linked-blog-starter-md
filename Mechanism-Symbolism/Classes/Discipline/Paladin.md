@@ -14,6 +14,6 @@ Shield of Faith (2 Inscription): Block. Passively gain DEF equal to its imbued p
 Pray (3 Inscription): Restore STA, scaling with imbued power
 
 VISION:
-Earth Resonance: Channeled buffs, consistent imbuing, hard limits to enemy actions
-Light Resonance: Reward fully imbued skills, extend inscriptions, access the highest-level spells
-Water Resonance: Heal, cleanse, reward element composition, minimize unleashing
+Order (EL): Truth made manifest through stable, enduring forms. Binding, geas, oaths, vows, contracts
+Earth Resonance
+Light Resonance

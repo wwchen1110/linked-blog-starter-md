@@ -14,7 +14,7 @@
 - C-D: Noble
 - C-A: Warlord
 - C-C: Mastermind
-- C-V: 
+- C-V: Puppeteer
 - C-B: Bard
 - V-D: Cleric
 - V-A: Sorcerer
