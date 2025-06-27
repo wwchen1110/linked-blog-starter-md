@@ -1,4 +1,4 @@
-Judge/Righteous Shadow - morality policing. Unlike the Mastermind, the Inquisitor believes their control to be just.
+Judge - morality policing. Unlike the Mastermind, the Inquisitor believes their control to be just.
 
 Discipline classes tend to be susceptible to attacks from other angles, but this is where the Inquisitor steps in to root out trickery. Armed with a cool head and grim determination, this class excels at combining debuffs and defenses to corner and quash an opponent's assault.
 

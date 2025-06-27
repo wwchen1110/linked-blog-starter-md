@@ -1,3 +1,5 @@
+The Strategist
+
 A winning smile, a charming personality, and a lust for power writhing under the skin. Don't be fooled by the Noble's name - Discipline is merely an aesthetic they use to better leverage their Cunning. They'll punish a step out of line with the life-ending consequences.
 
 The Noble is the inverse of the Inquisitor. Where the Inquisitor builds a comprehensive profile to efficiently contain an enemy, the Noble builds a profile the enemy is incentivized to contain themselves within. Obedience is safe, as the Noble rewards their subjects with health and stamina. However, every second spent under their rule makes them stronger. Disobey them to avoid giving them power, but starve as you're denied their infrastructure.

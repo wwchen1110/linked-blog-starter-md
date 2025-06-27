@@ -1,4 +1,4 @@
-Crusader - righteous, powerful, and radiant, thanks to their pure alignment - at least at first sight. Their rigidity may become fragility if any unresolved contradictions are there.
+The Crusader - righteous, powerful, and radiant, thanks to their pure alignment - at least at first sight. Their rigidity may become fragility if any unresolved contradictions are there.
 
 A god rarely executes their own will; more often, their holy warriors will be the ones responsible. Paladins combine esoteric spellcasting with hard steel, capable both of immediate defense and untapped power.
 
