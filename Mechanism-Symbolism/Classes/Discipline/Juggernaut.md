@@ -1,3 +1,5 @@
+Sentinel - the protective aspects of the Hero. The Juggernaut in particular represents a Senex-influenced Sentinel, the guard of the known world who maintains the boundaries.
+
 Juggernauts are the single class with the highest [[Discipline]] in the game. This means they are capable of things no other class is. No class can match the unconditional healing of Acclimate. A juggernaut's Shattered Earth not only taunts like other discipline classes, but also turns nearby terrain difficult and slows enemies. And while Crush may have a longer windup than any other melee skill, it also deals massive damage.
 
 UNIQUE:

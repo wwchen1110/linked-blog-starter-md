@@ -1,3 +1,5 @@
+Crusader - righteous, powerful, and radiant, thanks to their pure alignment - at least at first sight. Their rigidity may become fragility if any unresolved contradictions are there.
+
 A god rarely executes their own will; more often, their holy warriors will be the ones responsible. Paladins combine esoteric spellcasting with hard steel, capable both of immediate defense and untapped power.
 
 With both high [[Discipline]] and [[Vision]], Paladins utilize their survivability to cast spells unimpeded. As holy warriors, Paladins have a natural affinity for spells that stack power while they honor their oath, allowing them to act more freely than other mages while casting their spells. Paladins of Devotion lean more towards the ecclesiastical, their prayers serving both to honor their oaths and to prepare higher-level rituals, while Paladins of Redemption or Heroism lean more into Discipline with a touch of the divine.

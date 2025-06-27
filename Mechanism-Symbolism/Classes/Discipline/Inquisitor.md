@@ -1,3 +1,5 @@
+Judge/Righteous Shadow - morality policing. Unlike the Mastermind, the Inquisitor believes their control to be just.
+
 Discipline classes tend to be susceptible to attacks from other angles, but this is where the Inquisitor steps in to root out trickery. Armed with a cool head and grim determination, this class excels at combining debuffs and defenses to corner and quash an opponent's assault.
 
 An Inquisitor's bread and butter revolves around exposing an enemy's strategy with their high [[Cunning]], and blunting its effectiveness with their high [[Discipline]]. As opposed to an Assassin, who can respond perfectly to a single move, Inquisitors gradually defang their opponent.
