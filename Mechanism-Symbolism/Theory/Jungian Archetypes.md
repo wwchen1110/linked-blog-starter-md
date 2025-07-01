@@ -1,7 +1,8 @@
 
 |         | Source of Potential | Persona-Shadow Style | Anima-Shadow Style |
 | ------- | ------------------- | -------------------- | ------------------ |
-| Knight  | Persona             | Structured           | Structured         |
-| Cleric  | Anima               | Structured           | Structured         |
-| Paladin | Dual                | Structured           | Structured         |
+| Knight  | Persona             | Structured           | Exiled             |
+| Cleric  | Anima               | Structured           | Externalized       |
+| Paladin | Dual                | Structured           | Externalized       |
+| Rogue   | Persona             | Instrumental         | Selective          |
 |         |                     |                      |                    |
