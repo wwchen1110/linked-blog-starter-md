@@ -1,0 +1,1 @@
+Rogues - operational thinking. Socialization, combat, magic as puzzles to be solved.
