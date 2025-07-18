@@ -1,9 +1,8 @@
 
-|           | Source of Potential | Persona Internal | Anima Internal | Shadow Persona Access | Shadow Anima Access |
-| --------- | ------------------- | ---------------- | -------------- | --------------------- | ------------------- |
-| Knight    | Persona             | 3                |                | 1                     | **1**               |
-| Wizard    | Anima               | 3                | 1              |                       |                     |
-| Rogue     | Shadow              | 3                | 1              | 1                     | 1                   |
-| Berserker | Ego                 | 1                |                |                       |                     |
-| Warlock   | Anima               |                  | 1              | **1**                 | 3                   |
-|           |                     |                  |                |                       |                     |
+Ego - Adventurer? Seeker? Berserker?
+Persona - Knight
+Anima - Wizard
+Shadow - Rogue
+
+Cleric - Moderating Ego connection to Numinous layer
+Druid - Animal layer intuitive wisdom
