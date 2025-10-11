@@ -2,7 +2,7 @@ Ego serving Persona - the Hero who fights for a cause. Paradoxically passionate 
 
 The heroes of every folk tale, and for good reason. In a battle where the hour of fate is clear to see, few classes are better equipped to win the day than the Knight.
 
-Knights rise to the occasion for key battles, holding the line with their [[Discipline]] using flashes of [[Ardor]] at key moments to secure the victory. Every once in a while, Knights can empower themselves with their Challenge and their Joust. For a single period of action, Knights gain the striking power of a proper Ardent class, as long as they can have stamina to spare. Until their burst returns, Knights are more than capable of holding the line with their Discipline.
+Knights rise to the occasion for key battles, holding the line with their [[Discipline]] using flashes of [[Ardor]] at key moments to secure the victory. By mixing stamina-efficient skills with high-cost skills, Knights consistently out-combat their opponents to build up unbeatable advantages.
 
 UNIQUE:
 Challenger: Each turn you combat an enemy, gain ATK/DEF until you rest
