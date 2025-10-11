@@ -1,3 +1,7 @@
+---
+dg-publish: "True"
+---
+
 If a Paladin is a warrior-zealot who has dedicated their life to serving a god, a Harbinger is a warrior-zealot dedicated to themselves.
 
 Spellblades combine [[Ardor]] and [[Vision]] to overwhelm their opponents in a flurry of strikes and spells. Using combo attacks to proc their magic, they’re able to achieve incredible amounts of damage in a single bout. The downside is that waiting out a Harbinger’s buffs leaves them with no gas in the tank.

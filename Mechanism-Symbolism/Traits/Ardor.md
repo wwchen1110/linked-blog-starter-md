@@ -1,10 +1,12 @@
+---
+dg-publish: "True"
+---
+
 "Take the shot or lose the chance."
 
-This trait represents the willingness to seize fleeting opportunities, discarding inhibitions and living in the moment. Ardent individuals take the leaps that others balk at, and succeed against all odds.
+This trait represents the willingness to seize fleeting opportunities, discarding inhibitions and living in the moment. Ardent individuals take impossible leaps without hesitation, and somehow land on the other side.
 
-Ardor is the primary trait of [[Gladiator|Gladiators]], Assassins, Harbingers, and Swashbucklers, as well as the specialized trait of Berserkers. It is also the secondary trait of Knights, Warlords, Sorcerers, and Hunters. These classes are characterized by their ability to close out fights, accelerate the tempo, and capitalize on volatility.
-
-For each point in Ardor, your character gains 1 SPD and 1 ATK
+Ardor is the primary trait of [[Gladiator|Gladiators]], [[Assassin|Assassins]], [[Spellblade|Spellblades]], and [[Swashbuckler|Swashbucklers]], as well as the specialized trait of [[Berserker|Berserkers]]. It is also the secondary trait of [[Knight|Knights]], [[Warlord|Warlords]], [[Sorcerer|Sorcerers]], and [[Hunter|Hunters]]. These classes are characterized by their ability to close out fights, commit on opportunities, and build volatile advantages.
 
 SPECIALIZED PASSIVES:
 BLOODTHIRST: Gain some lifesteal

@@ -1,3 +1,8 @@
+---
+dg-publish: "True"
+---
+
+
 With [[Balance]] and [[Ardor|Ardor]], hunters take to the battlefield using an array of improvised weapons to fell their prey. Between camouflage, poison, and snares, hunters eke out advantages that they can turn into more tools.
 
 On slaying their prey, Hunters are given various options to improve their hunting. This usually involves increasing the effectiveness of the rest of their kit, which allows them to track enemies, deal damage, and replenish supplies. An experienced Hunter wields an exotic and diverse arsenal, and you can see their kill history from their toolset.

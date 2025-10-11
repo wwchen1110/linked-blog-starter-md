@@ -1,3 +1,7 @@
+---
+dg-publish: "True"
+---
+
 Other mages must follow the proper steps to cast a spell, but Shamans utilize a more flexible method. Relying on looser symbology and improvising ways to keep the message cohesive, Shamans have a far wider access to spells than any other spellcaster, able to cast from any tradition, using any element. The price they pay is a lack of specialization, so their game plan must change from situation to situation.
 
 UNIQUE:

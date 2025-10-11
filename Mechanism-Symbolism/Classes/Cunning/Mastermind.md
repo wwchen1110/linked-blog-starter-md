@@ -1,3 +1,7 @@
+---
+dg-publish: "True"
+---
+
 The Schemer
 
 Manipulators are particularly vulnerable to predation from their cannier counterparts, and the Mastermind lives at the apex of this particular food chain. Plots with moving parts, deep analyses, and efforts to reach into minds all become tools for the Mastermind to subvert

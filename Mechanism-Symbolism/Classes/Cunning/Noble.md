@@ -1,3 +1,7 @@
+---
+dg-publish: "True"
+---
+
 The Strategist
 
 A winning smile, a charming personality, and a lust for power writhing under the skin. Don't be fooled by the Noble's name - Discipline is merely an aesthetic they use to better leverage their Cunning. They'll punish a step out of line with the life-ending consequences.

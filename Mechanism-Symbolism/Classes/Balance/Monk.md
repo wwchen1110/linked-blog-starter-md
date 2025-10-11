@@ -1,3 +1,7 @@
+---
+dg-publish: "True"
+---
+
 A monk's [[Balance]] is most clearly manifested through their [[Discipline]], keeping their mind clear and their body unimpeded. Through focus, technique, and stable footing, monks outlast their opponents.
 
 A largely pacifistic class, Monks are versatile tanks that can shrug off anything thrown their way. Their Iron Skin passively reduces damage taken, their Clear Mind cleanses debuffs, and their Feather Step lets them leave combat as they please. Every time a Monk takes an action they hone their technique, increasing their effectiveness. A proficient Monk plays ascetically, only unleashing their full power once they've worn out their opponent.

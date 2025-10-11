@@ -1,3 +1,7 @@
+---
+dg-publish: "True"
+---
+
 The wanderer with a unique set of skills, awaiting the experiences that tomorrow will bring. Whether a veteran jack-of-all-trades tackling their next quest, or an idealistic novice taking the first steps into their future, the life of an adventurer promises possibility.
 
 Adventurers are the most [[Balance|Versatile]] class in the game. As the starting class for most characters, adventurers are capable of picking up new tricks and smoothly integrating them into their existing skillset. Traveling light, they have the quickest repositioning in the game in their action rolls. Finally, adventurers naturally scrounge up resources as they travel.

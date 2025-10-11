@@ -1,3 +1,7 @@
+---
+dg-publish: "True"
+---
+
 "The soul cannot be blemished."
 This trait represents the capacity to see the greater whole, unconstrained by any individual piece. Visionary individuals take the awesome ideas in their hearts and minds, then give them form in reality. From the void, they create light.
 

@@ -1,3 +1,7 @@
+---
+dg-publish: "True"
+---
+
 Ego serving Persona - the Hero who fights for a cause. Paradoxically passionate yet restrained, willful yet obedient.
 
 The heroes of every folk tale, and for good reason. In a battle where the hour of fate is clear to see, few classes are better equipped to win the day than the Knight.

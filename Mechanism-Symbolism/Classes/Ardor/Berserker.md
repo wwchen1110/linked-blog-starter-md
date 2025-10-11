@@ -1,3 +1,8 @@
+---
+dg-publish: "True"
+---
+
+
 No other class is as capable of committing quite as hard or quite as fast as a berserker. Armed with brutal weapons and an unbridled lust for violence, the slightest shift in mood can lead a berserker to go from a standstill to full throttle in the blink of an eye.
 
 Berserkers boast the highest [[Ardor]] stat in the game, and accordingly, they are capable of going all-in and ending fights like no other class can. With their Rage, a Berserker can overextend combats as far as they like without typical consequences. Their Bloodlust allows them to immediately take multiple actions, at the cost of those actions later. Finally, Savaging their opponent will execute them at low enough health.

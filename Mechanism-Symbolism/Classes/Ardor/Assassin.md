@@ -1,3 +1,7 @@
+---
+dg-publish: "True"
+---
+
 High [[Ardor]] and high [[Cunning]] allows this class to find or create the perfect time to strike hard. Using debuffs and traps while biding time, an Assassin guarantees that their blade will strike the mark.
 
 UNIQUE:

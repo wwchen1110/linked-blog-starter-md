@@ -1,3 +1,7 @@
+---
+dg-publish: "True"
+---
+
 The Champion - 
 
 It's not rare for an adventurer to have a thirst for blood, nor is it rare that one has a steely obsession. Indeed, it's the mix of the two in the Gladiator that makes them such a foe to be reckoned with, wielding both efficiency and brutality as if they were two parts of a single weapon.

@@ -1,3 +1,7 @@
+---
+dg-publish: "True"
+---
+
 Visionaries trend towards casting spells through free-form imagination, but Clerics gain it through dedication to a single unchanging framework. This system of belief gives Clerics access to uniquely consistent, stable spellcasting, as long as they obey the rules set for them.
 
 Clerics’ [[Vision]] manifests in a [[Discipline|Disciplined]] way, specializing in channeled magic, warding, and powerful buffs. Unlike Paladins, who enhance their skills’ consistency with spells, a Cleric centers around their consistent spells. Clerics’ high stamina allows them to have continuous access to their magic, whether by repeatedly using their imbued skills or by channeling spells over multiple turns. By layering long-lasting defensive buffs between efficient channels, a Cleric gradually ascends towards unstoppability.

@@ -1,3 +1,4 @@
+
 A swashbuckler’s high [[Ardor]] gives them impressive offensive output, while their [[Balance]] gives them plenty of options through which to use it. Whether kiting enemies or strafing them, shooting them or stabbing them, the only thing more impressive than a swashbuckler’s improvisation is their deadliness.
 
 UNIQUE:

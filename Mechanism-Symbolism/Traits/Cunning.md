@@ -1,7 +1,12 @@
-"Know your enemy, know your world, know your victory."
-This trait represents a focus on analysis and prediction, as well as practical thinking. Cunning individuals learn how things and people behave, then use that knowledge to tip the scales in their favor.
+---
+dg-publish: "True"
+---
 
-Cunning is the primary trait of Nobles, Warlords, Enchanters, and Rogues, as well as the specialized trait of Masterminds. It is also the secondary trait of [[Inquisitor|Inquisitors]], Assassins, Warlocks, and Bards. These classes are characterized by their ability to gather information, limit their opponent's options, and efficiently counterplay.
+"Know when the mask confines and when it frees."
+
+This trait represents a focus on social roles, using personas to predict and control behavior. Cunning individuals have their hand on the scale to before a sword is swung.
+
+Cunning is the primary trait of [[Noble|Nobles]], [[Warlord|Warlords]], Enchanters, and Rogues, as well as the specialized trait of Masterminds. It is also the secondary trait of [[Inquisitor|Inquisitors]], [[Assassin|Assassins]], [[Warlock|Warlocks]], and [[Bard|Bards]]. These classes are characterized by their ability to gather information, limit their opponent's options, and efficiently counterplay.
 
 For each point in Cunning, gain a tier of [[Passive Perception]]
 

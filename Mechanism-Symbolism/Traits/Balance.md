@@ -1,3 +1,7 @@
+---
+dg-publish: "True"
+---
+
 This trait represents even-footed thinking, instantly adapting to a new situation. Balanced individuals can pivot on a dime, shifting through a dozen approaches before committing to one.
 
 Balance is the primary trait of Monks, Hunters, Rogues, and Druids, as well as the specialized trait of Explorers. It is also the secondary trait of Dragoons, Swashbucklers, Bards, and Mystics. These classes are characterized by their ability to wield a diverse toolkit, reposition easily, and improvise resources.

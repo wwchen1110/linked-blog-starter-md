@@ -5,10 +5,10 @@
 	- Aesthetics: passion, instinct, fearlessness, initiative, emotion, ego, defying the odds, living in the moment, speed, sharpness
 	- Mechanics: ATK, SPD, CRT. Extra actions outside normal order, 1-turn buffs, action economy efficiency. Powerful, fast combos 
 - Cunning 
-	- Aesthetics: manipulation, exploitation, indirection/obfuscation/deception, finesse, anticipation and counterplay, social/political positioning, control of systems
+	- Aesthetics: masks, social connection, indirection/obfuscation/deception, finesse, anticipation and counterplay, social/political positioning, control of systems
 	- Mechanics: perception. Reveal enemy skillset/actions, status effects, narrow but powerful traps and counters. Predict or manipulate, then counter
 - Vision 
-	- Aesthetics: the connection between soul and universe, cosmic truth, symbolic interpretation, greater than the sum of its parts, power through alignment
+	- Aesthetics: authenticity, the connection between soul and universe, cosmic truth, symbolic interpretation, greater than the sum of its parts, power through alignment
 	- Mechanics: spellcasting. Telegraphed power buildup, broadly powerful spells. Charge up elements that empower skills
 - Balance 
 	- Aesthetics: wandering, flexibility, scrappiness, connection to nature instead of society, improvisation, open thinking, defying categorization, growth

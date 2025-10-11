@@ -1,3 +1,7 @@
+---
+dg-publish: "True"
+---
+
 The Provocateur
 
 When facing a Warlord, you can either concede or resist. Concession gives the Warlord free rein, but limits their maximum control. Resistance fuels their fire, letting them extend the reach of their tyranny, but gives you a fighting chance.

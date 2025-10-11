@@ -1,10 +1,12 @@
+---
+dg-publish: "True"
+---
+
 "Slow and steady wins the race."
 
-This trait represents resilience in the face of adversity, the ability to endure beyond the limits. Disciplined individuals can weather the storms and take the hits, staying true in spite of despair.
+This trait represents resilience in the face of adversity, the ability to endure beyond the limits. Disciplined individuals shrug off the blows that would destroy another.
 
-Discipline is the primary trait of [[Knight|Knights]], [[Inquisitor|Inquisitors]], [[Paladin|Paladins]], and [[Sentinel|Sentinels]], as well as the specialized trait of [[Juggernaut|Juggernauts]]. It is also the secondary trait of [[Gladiator|Gladiators]], Strategists, [[Cleric|Clerics]], and [[Monk|Monks]]. These classes are characterized by their ability to draw out fights, punish overextension, and build gradual advantages.
-
-For each point of Discipline, your character gains 5 STA, 10 HP, and 1 DEF
+Discipline is the primary trait of [[Knight|Knights]], [[Inquisitor|Inquisitors]], [[Paladin|Paladins]], and [[Ranger|Rangers]], as well as the specialized trait of [[Juggernaut|Juggernauts]]. It is also the secondary trait of [[Gladiator|Gladiators]], [[Noble|Nobles]], [[Cleric|Clerics]], and [[Monk|Monks]]. These classes are characterized by their ability to draw out fights, punish overextension, and build gradual advantages.
 
 SPECIALIZED PASSIVES:
 EARTHSHATTERER: Slow and damage nearby enemies constantly

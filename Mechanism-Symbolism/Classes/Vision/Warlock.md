@@ -1,3 +1,7 @@
+---
+dg-publish: "True"
+---
+
 The Alchemist
 
 When an ambitious mortal signs a pact with the higher powers, a warlock is born. Unlike the wizard, who simply exists as a conduit of magic, the warlock connives their way into power for their own ends.

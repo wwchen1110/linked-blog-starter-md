@@ -1,3 +1,7 @@
+---
+dg-publish: "True"
+---
+
 The classic magician, many other casters tend to be mistaken for the Wizard. This is no surprise; to those uninitiated to the arcane, a Wizard represents all the mysterious power of a spellcaster turned up to full force. 
 
 A well of pure [[Vision]], Wizards are distinguished from their other caster siblings with their massive mana pool. Entirely reliant on their ridiculously powerful Vision, Wizards are in tune with a wide range of symbologies and higher truths, combining them together to form their unique unified theory of the world.
