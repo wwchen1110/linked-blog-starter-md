@@ -16,8 +16,8 @@ Trial: Target an enemy and choose an action type/combat stat secretly (T3: enemy
 DISCIPLINE:
 Taunt: Target an enemy; next turn they must attempt to attack you
 Riposte (stance): No attacks or defenses, halve SPD. Counter all attacks
-Ward: Block or gain Spellshield
-Composure: Activate while CC'd. Gain STA
+Stomp: Attack. Deal extra to resting enemies
+Composure: Activate while CC'd. Gain HP/STA
 
 CUNNING:
 Profile: Expose all skills of one action type in enemy skillset

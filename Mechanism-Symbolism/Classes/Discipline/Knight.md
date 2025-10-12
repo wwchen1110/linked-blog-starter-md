@@ -9,17 +9,17 @@ The heroes of every folk tale, and for good reason. In a battle where the hour o
 Knights rise to the occasion for key battles, holding the line with their [[Discipline]] using flashes of [[Ardor]] at key moments to secure the victory. By mixing stamina-efficient skills with high-cost skills, Knights consistently out-combat their opponents to build up unbeatable advantages.
 
 UNIQUE:
-Challenger: Each turn you combat an enemy, gain ATK/DEF until you rest
-Coat of Arms: An ally gains DEF/STA for the next 5 turns, then ATK/CD reduction for the 5 turns after
-Joust: Upgrade an ACT slot with “Reduce CD of combat skills here. Downgrade if a combat skill was not slotted here this turn”
+Challenger (P): Each turn you combat an enemy, gain ATK/DEF until you rest
+Coat of Arms: Upgrade an ACT slot with "Block and restore STA when you slot a combat skill here. Downgrade if you didn't outcombat the enemy this turn"
+Joust: Attack and block. Deal more for each time you've outcombatted an enemy this game
 
 DISCIPLINE:
-Retribution: While channeled, increase next DMG when you’re attacked/targeted
+Shield Drum: Next turn, taunt and block
 Charge: Attack scaling with STA
 Solid Hit: Attack. Low CD, low STA cost
 Rally: Restore STA, refresh a CD
 
 ARDOR:
-Heartpiercer: Attack. Double its unblocked damage
-Clash: Attack an enemy, and you are now grappling each other until a turn you don’t attack that enemy. The enemy can also outcombat you to break the grapple
-Burn Bright: Increase your ATK/DEF for this and the next 3 turns. Each skill you use during this time has its CD doubled
+Reckless Swing: Big attack. Take some damage
+Clash: Attack an enemy, and you are now taunted to each other until a turn you stop attacking. The enemy can also outcombat you to break this effect
+Burn Bright: Gain ATK/DEF for this and the next 3 turns. Each skill you use during this time has its CD doubled
