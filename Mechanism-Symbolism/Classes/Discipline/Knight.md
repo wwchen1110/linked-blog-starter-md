@@ -10,7 +10,7 @@ Knights rise to the occasion for key battles, holding the line with their [[Disc
 
 UNIQUE:
 Challenger (P): Each turn you combat an enemy, gain ATK/DEF until you rest
-Coat of Arms: Upgrade an ACT slot with "Block and restore STA when you slot a combat skill here. Downgrade if you didn't outcombat the enemy this turn"
+Coat of Arms: Upgrade an ACT slot with "Restore HP/STA when you slot a combat skill here. Downgrade if you didn't outcombat the enemy this turn"
 Joust: Attack and block. Deal more for each time you've outcombatted an enemy this game
 
 DISCIPLINE:
