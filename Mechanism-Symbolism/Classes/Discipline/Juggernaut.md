@@ -8,11 +8,11 @@ Juggernauts are the single class with the highest [[Discipline]] in the game. Th
 
 UNIQUE:
 Titan (P): Increase your HP, max STA, ATK, and DEF. Lose an ACT slot
-Quake: Massive AoE attack, taking 1 turn. Enemy ACT slots downgrade with "Non-combat skills cost 5 more STA here until a combat skill is slotted here"
-Turtle (stance): Gain DEF/STA reduction, lose SPD
+Quake: Massive AoE attack, taking 1 turn. Enemy ACT slots downgrade with "Non-combat skills cost 5 more STA here. Downgrade when you slot a combat skill here"
+Turtle (stance): Your slots cannot downgrade
 
 SYNERGIES:
-Acclimate: Upgrade a slot with "Heal/block more here"
+Acclimate: Upgrade a slot with "Heal/block more here. Downgrade when you slot a non-combat skill here"
 Iron Fist: When you use the same slot for the same type last turn, upgrade the slot with "lower STA costs" until you stop
 Steel Yourself: Gain DEF until you rest
 Mirror Shield: Block. This turn, enemies take damage you block

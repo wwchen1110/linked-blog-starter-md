@@ -9,7 +9,7 @@ Spellblades combine [[Ardor]] and [[Vision]] to overwhelm their opponents in a f
 UNIQUE:
 Magisteel: Combat skills temporarily imbue 1 on your next combat skill this turn (if it has an inscription)
 Energy Slash (Inscription 3): Deal big damage to an enemy. If you’ve cast 3+ spells this turn, repeat on each enemy
-Dazzling Melee (Inscription 4): Buff ATK/SPD significantly next turn. Unleash any amount to gain that many ACT slots next turn
+Dazzling Melee (Inscription 4): Buff ATK/SPD significantly next turn. Unleash 2 * X to repeat your first X actions next turn
 
 ARDOR:
 Blood Lance (Inscription 2): Attack an enemy. You can unleash 1 to gain lifesteal on your next attack this turn

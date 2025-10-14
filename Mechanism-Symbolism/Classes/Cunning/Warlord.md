@@ -4,20 +4,20 @@ dg-publish: "True"
 
 The Provocateur
 
-When facing a Warlord, you can either concede or resist. Concession gives the Warlord free rein, but limits their maximum control. Resistance fuels their fire, letting them extend the reach of their tyranny, but gives you a fighting chance.
+Warlords increase their range of possible actions, making their bursts harder to predict and mitigate. They can then follow this up with conditionally powerful attacks
 
 UNIQUE:
-Ultimatum: Declare an ACT type. If the enemy uses that type next turn, you have double the ACT slots
-Conqueror: For each extra ACT slot you gain, you can add another ACT type to your next declaration
-Tyranny: Declare an ACT type. For the next 3 turns, when an enemy uses that type, reduce your lowest CD and gain a temporary ACT slot
+Pincer Maneuver: Declare secretly whether you will skip the next turn. If you do, gain 5 ACT slots the turn afterwards
+Ride at Night (P): Every 2 empty ACT slots you commit, gain 1 ACT slot next turn
+Coup d'Etat: Attack. If uncontested and the enemy is low enough, kill them. High CD, high STA cost
 
 CUNNING:
-Gauntlet: Target an enemy and declare an ACT type. If they don't match it in 3 actions, lock all skills of that type from them for 2 turns
-Sneak Attack: Target an enemy and declare 3 ACT types. If this doesn't match any of them, attack and deal big damage
-Ambush (T6: enemy doesn't use declared ACT type): Attack, dealing big damage
-Capitulate: An enemy declares an ACT type. For the next 3 turns they cannot use skills of that type
+[[Cunning#Sneak Attack|Sneak Attack]]: Target an enemy and declare 3 ACT types. If this doesn't match any of them, attack and deal big damage
+[[Cunning#Outmaneuver|Outmaneuver]] (T3: you don't use enemy's secretly declared ACT type): Gain Stealth 3 (your skills are not revealed for 3 turns, enemies only see their impacts at the end of turn)
+[[Cunning#Insinuation|Insinuation]]: Target an enemy. If uncontested, reduce enemy ATK/DEF and they lose HP/STA for 3 turns
+[[Cunning#Facade|Facade]]: The rest of your skills this turn are Stealthed
 
 ARDOR:
-Overdrive: Gain an extra ACT slot next turn
 Overwhelm: Attack. If unblocked, debuff DEF. If uncontested, reduce ATK and STA
-Scorched Earth: For the next 3 turns, both players gain an extra ACT slot
+Finisher: Attack. Deal more for each attack this turn
+Scorched Earth: For the next 3 turns, all units gain an extra ACT slot

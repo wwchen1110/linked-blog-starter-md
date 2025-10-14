@@ -1,0 +1,4 @@
+Bleed: A character with Bleed X takes X extra damage when targeted by their enemies. The status decreases by 1 each turn
+Grapple: A grappled character must use a combat action each turn, targeting the grappler if possible
+Outcombat: A character outcombats another character for a turn if their total attack and defense values that turn are greater than their opponent’s
+Stealth: While a character is in Stealth, their slotted skills are not revealed to their enemies on resolution. Enemies see the damage they take and the statuses applied to them from characters in Stealth, though they don’t see the damage they do or the statuses on the Stealthed character. Characters with Stealth X can also hide up to X exposed skills for the duration. Stealth ends after X turns, or when the Stealthed character dies
