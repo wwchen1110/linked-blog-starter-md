@@ -20,6 +20,6 @@ Stomp: Attack. Deal extra to resting enemies
 Composure: Activate while CC'd. Gain HP/STA
 
 CUNNING:
-Profile: Expose all skills of one action type in enemy skillset
+[[Cunning#Profile|Profile]]: Expose all skills of one action type in enemy skillset
 Expose (T: enemy targets you with a covered skill): Expose and lock that skill for 5 turns
-Coerce: Target an enemy and declare an action type and an ACT slot. If that slot doesn't have that type next turn, they lose HP/STA
+[[Cunning#Coerce|Coerce]]: Target an enemy and declare an action type and an ACT slot. If that slot doesn't have that type next turn, they lose HP/STA

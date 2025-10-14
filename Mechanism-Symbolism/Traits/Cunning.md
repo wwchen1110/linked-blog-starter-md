@@ -78,6 +78,8 @@ Target an enemy and declare 3 ACT types. If this doesn't match any of them, atta
 ###### Ambush
 (T6: enemy doesn't use declared ACT type)
 Attack, dealing big damage
+###### Coerce
+Target an enemy and declare an action type and an ACT slot. If that slot doesn't have that type next turn, they lose HP/STA
 ###### Capitulate
 An enemy declares an ACT type. For the next 3 turns they cannot use skills of that type
 ###### Flashbomb
