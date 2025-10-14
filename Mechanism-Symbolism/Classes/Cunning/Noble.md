@@ -18,7 +18,7 @@ UNIQUE:
 CUNNING:
 [[Cunning#Token Gesture|Token Gesture]]: Select any targets. When this skill is type, name, or trait checked, decide which type, name, and trait it counts as
 [[Cunning#Thronebreaker|Thronebreaker]]: Target an enemy. Invert their buffs
-[[Cunning#Dissonance|Dissonance]]: Target an enemy and declare an action type. If this matches that action type, lock all their skills of that type for 3 turns
+[[Cunning#Dissonance|Dissonance]]: (T1: Target enemy uses declared ACT type in declared ACT slot) If this matches that action type, lock all their skills of that type for 3 turns
 [[Cunning#Goad|Goad]]: Increase a unit's ATK but reduce its DEF
 
 DISCIPLINE:

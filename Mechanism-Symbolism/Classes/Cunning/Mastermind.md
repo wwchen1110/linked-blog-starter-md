@@ -10,12 +10,13 @@ The plotting mastermind has the highest [[Cunning]] of any class, and accordingl
 
 UNIQUE:
 Paranoiac (P): Your traps last an extra turn
-Lynchpin (T3: target enemy uses declared ACT type in declared ACT slot): Reveal all enemy slotted actions next turn
+Lynchpin (T3:  ): Reveal all enemy slotted actions next turn
 Conspiracy (T6: your trap triggers): Trigger another trap
 
 CUNNING:
 Token Gesture: Select any targets. When this skill is type, name, or trait checked, decide which type, name, and trait it counts as
 Simulacrum: Target an enemy and choose an effect. They either cannot take the same actions next turn, or they must take the same actions next turn
 Paralysis: Target an enemy. If they have 6+ debuffs, they must reveal 2 actions next turn
-Stimulus: Increase a unit's combat stat, and reduce their STA
+Overstimulate: Increase a unit's combat stat, and reduce their STA
+Desensitize: Reduce a unit's combat stat, and increase their STA
 Thronebreaker: Target an enemy. Invert their buffs
