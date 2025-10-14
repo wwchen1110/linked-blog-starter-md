@@ -12,7 +12,7 @@ Quake: Massive AoE attack, taking 1 turn. Enemy ACT slots downgrade with "Non-co
 Turtle (stance): Gain DEF/STA reduction, lose SPD
 
 SYNERGIES:
-Acclimate: When you take damage, gain DEF. When you're CC'd, gain RES
+Acclimate: Upgrade a slot with "Heal/block more here"
 Iron Fist: When you use the same slot for the same type last turn, upgrade the slot with "lower STA costs" until you stop
 Steel Yourself: Gain DEF until you rest
 Mirror Shield: Block. This turn, enemies take damage you block
