@@ -1,3 +1,7 @@
+---
+dg-publish: "True"
+---
+
 - Aesthetics: primary trait = goal, secondary trait = means
 - Mechanics: primary trait = main gameplan, secondary trait = supporting effects
 5x5 class matrix:

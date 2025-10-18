@@ -1,3 +1,7 @@
+---
+dg-publish: "True"
+---
+
 - Discipline 
 	- Aesthetics: willpower, duty under duress, restraint, stoicism, adherence to a code, measured/practiced actions, neutralizing threats, size/weight
     - Mechanics: STA, ATK, HP, DEF. Reward extended patterns of play, buffs until you rest, stamina economy efficiency. Extend periods of power

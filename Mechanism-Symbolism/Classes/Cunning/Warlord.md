@@ -8,7 +8,7 @@ Warlords increase their range of possible actions, making their bursts harder to
 
 UNIQUE:
 [[Cunning#Pincer Maneuver|Pincer Maneuver]]: Declare secretly whether you will skip the next turn. If you do, gain 5 ACT slots the turn afterwards
-[[Cunning#Ride at Night|Ride at Night]] (P): Every 2 empty ACT slots you commit, gain 1 ACT slot next turn
+[[Cunning#Ride at Night|Ride at Dusk]] (P): Every 2 empty ACT slots you commit, gain 1 ACT slot next turn
 [[Cunning#Coup d'Etat|Coup d'Etat]]: Attack. If uncontested and the enemy is low enough, kill them. High CD, high STA cost
 
 CUNNING:

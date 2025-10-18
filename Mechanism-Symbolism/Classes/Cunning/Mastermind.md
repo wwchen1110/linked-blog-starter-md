@@ -1,10 +1,9 @@
 ---
 dg-publish: "True"
 ---
-
 The Schemer
 
-Manipulators are particularly vulnerable to predation from their cannier counterparts, and the Mastermind lives at the apex of this particular food chain. Plots with moving parts, deep analyses, and efforts to reach into minds all become tools for the Mastermind to subvert
+Manipulators are particularly vulnerable to predation from their cannier counterparts, and the Mastermind lives at the apex of this particular food chain. Plots with moving parts, deep analyses, and predictive efforts all become tools for the Mastermind to subvert.
 
 The plotting mastermind has the highest [[Cunning]] of any class, and accordingly is able to utilize this trait to its highest effect. Despite their frailty in direct combat, a mastermind is capable of staying ten steps ahead, influencing the enemy at key moments, and laying down convoluted traps. Their weakness comes when a wrench is thrown into their plans. Without enough distance, a Mastermind can be felled before they have the chance to lay their web.
 

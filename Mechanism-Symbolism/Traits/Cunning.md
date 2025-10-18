@@ -13,8 +13,8 @@ For each point in Cunning, gain a tier of [[Passive Perception]]
 SPECIALIZED PASSIVES:
 Mind Reader: For each person you're focusing on, reveal the first action they will take next turn
 ###### Contrive
+(P)
 When you activate a trap, you can place another one down
-Imposition: 
 ###### Obfuscate
 When declaring an action type or slot for a future enemy action to trigger one of your effects, you can lie once per turn
 ###### Verdict
@@ -24,19 +24,18 @@ When declaring an action type or slot for a future enemy action to trigger one o
 ###### Noblesse Oblige
 (P)
 Once per turn when you buff a unit, an enemy declares an ACT type they will use next turn. If you buffed an enemy you choose which ACT type they declare
+###### Convention
+Declare an ACT type/slot. Until you rest, when any unit uses that type in that slot your next buff/debuff is stronger
 ###### Pincer Maneuver
 Declare secretly whether you will skip the next turn. If you do, gain 5 ACT slots the turn afterwards
-###### Ride at Night
+###### Ride at Dusk
 (P)
 Every 2 empty ACT slots you commit, gain 1 ACT slot next turn
 ###### Coup d'Etat
 Attack. If uncontested and the enemy is low enough, kill them. High CD, high STA cost
-###### Demesne
-Select an ACT slot/type. Upgrade that slot for everyone with "If you play that ACT type here, buff DEF/restore STA. Downgrade if you slot anything else here."
 ###### Jack of All Trades
+(P)
 When you expose or reveal an enemy skill, gain a copy that discards on use (passives are discarded after 3 turns)
-
-PASSIVES:
 
 SPECIALIZED ACTIVES:
 
@@ -59,12 +58,13 @@ Select any targets. When this skill is type, name, or trait checked, decide whic
 ###### Thronebreaker
 Target an enemy. Invert their buffs
 ###### Dissonance
-Target an enemy and declare an action type. If this matches that action type, lock all their skills of that type for 3 turns
+(T3: Target enemy uses declared ACT type in declared ACT slot)
+Lock all their skills of that type for 2 turns
 ###### Sneak Attack
 Target an enemy and declare 3 ACT types. If this doesn't match any of them, attack and deal big damage
 ###### Outmaneuver
-(T3: you don't use enemy's secretly declared ACT type)
-Gain Stealth 3 (your skills are not revealed for 3 turns, enemies only see their impacts at the end of turn)
+(T2: you don't use enemy's secretly declared ACT type)
+Gain Stealth 3
 ###### Insinuation
 Target an enemy. If uncontested, reduce enemy ATK/DEF and they lose HP/STA for 3 turns
 ###### Facade
@@ -75,9 +75,6 @@ Expose all skills of one action type in enemy skillset
 Target an enemy and declare an ACT type. If they don't match it in 3 actions, lock all skills of that type from them for 2 turns
 ###### Sneak Attack
 Target an enemy and declare 3 ACT types. If this doesn't match any of them, attack and deal big damage
-###### Ambush
-(T6: enemy doesn't use declared ACT type)
-Attack, dealing big damage
 ###### Coerce
 Target an enemy and declare an action type and an ACT slot. If that slot doesn't have that type next turn, they lose HP/STA
 ###### Capitulate
