@@ -12,7 +12,7 @@ Hidden Blade: Declare a skill name. If your next attack matches that name, deal 
 ARDOR:
 Preemptive Strike: Attack. Negate matching enemy attack if faster
 Heartpiercer: Attack. Double its unblocked damage
-Shredder: Attack. Deal double damage to block
+Shatter: Attack. Deal double damage to block
 Whet: Your next combat skill is moderately stronger
 
 CUNNING:

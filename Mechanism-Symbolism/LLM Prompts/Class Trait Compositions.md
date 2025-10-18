@@ -14,7 +14,7 @@
 - C-D: Noble
 - C-A: Warlord
 - C-C: Mastermind
-- C-V: Puppeteer
+- C-V: Demagogue
 - C-B: Bard
 - V-D: Cleric
 - V-A: Sorcerer
@@ -25,4 +25,4 @@
 - B-A: Hunter
 - B-C: Rogue
 - B-V: Druid
-- B-B: Adventurer
+- B-B: Explorer

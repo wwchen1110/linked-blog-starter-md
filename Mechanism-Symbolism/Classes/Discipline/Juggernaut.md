@@ -4,10 +4,10 @@ dg-publish: "True"
 
 The Sentinel - the Guardian of Guardians. The Juggernaut in particular represents a Senex-influenced Sentinel, the guard of the known world who maintains the boundaries.
 
-Juggernauts are the single class with the highest [[Discipline]] in the game. This means they are capable of things no other class is. No class can match the unconditional healing of Acclimate. A juggernaut's Quake not only taunts like other discipline classes, but also turns nearby terrain difficult and slows enemies. And while Crush may have a longer windup than any other melee skill, it also deals massive damage.
+Juggernauts are those who stand against the unknown, the unmoving sentinels who maintain the peace. With inhuman [[Discipline]], Juggernauts are unmatched in extended combat, capable of withstanding the heaviest blows and pushing on without fatigue or hesitation.
 
 UNIQUE:
-Titan (P): Increase your HP, max STA, ATK, and DEF. Lose an ACT slot
+Titan (P): Gain ATK, DEF, and HP/STA recovery. Lose an ACT slot
 Quake: Massive AoE attack, taking 1 turn. Enemy ACT slots downgrade with "Non-combat skills cost 5 more STA here. Downgrade when you slot a combat skill here"
 Turtle (stance): Your slots cannot downgrade
 

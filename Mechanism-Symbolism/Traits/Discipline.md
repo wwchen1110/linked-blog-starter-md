@@ -46,5 +46,5 @@ Ward: Block or gain Spellshield
 Composure: Activate while stunned/disrupted. Gain DEF/STA
 Habit: Upgrade a slot with “each turn you slot the same action type here, gain more STA. When you slot a different action type, downgrade.”
 Favored Technique: Upgrade a slot with "each turn you slot the same skill here, it gains ATK/DEF. When you slot a different skill, downgrade."
-Stomp: Attack. Deal extra damage if enemy is resting
+Stomp: Attack. Deal damage scaling with enemy missing STA
 Charge: Attack. Deal damage scaling with your STA
