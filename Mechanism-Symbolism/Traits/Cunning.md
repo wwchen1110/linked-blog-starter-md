@@ -18,6 +18,7 @@ When you activate a trap, you can place another one down
 ###### Obfuscate
 When declaring an action type or slot for a future enemy action to trigger one of your effects, you can lie once per turn
 ###### Verdict
+Type: Trap (Control)
 STA: Low
 CD: Medium
 (T3: target enemy mismatches your other skill's actively declared ACT type/slot) 
@@ -27,10 +28,12 @@ CD: Medium
 (P)
 Once per turn when you buff a unit, an enemy declares an ACT type they will use next turn. If you buffed an enemy you choose which ACT type they declare
 ###### Convention
+Type: Support
 STA: Low
 CD: High
 Declare an ACT type/slot. Until you rest, when any unit uses that type in that slot your next buff/debuff is stronger
 ###### Pincer Maneuver
+Type: Support
 STA: Low
 CD: Medium
 Declare secretly whether you will skip the next turn. If you do, gain 5 ACT slots the turn afterwards
@@ -38,6 +41,7 @@ Declare secretly whether you will skip the next turn. If you do, gain 5 ACT slot
 (P)
 Every 2 empty ACT slots you commit, gain 1 ACT slot next turn
 ###### Coup d'Etat
+Type: Offense
 STA: High
 CD: High
 Attack. If uncontested and the enemy is below 25% HP, kill them
@@ -49,6 +53,7 @@ Increase an unit's combat stat, and drastically reduce their STA
 ###### Complacency
 Increase a unit's STA, but reduce a combat stat for 3 turns
 ###### Goad
+Type: Control
 STA: Zero
 CD: Medium
 Increase a unit's ATK but reduce its DEF for 3 turns
@@ -60,16 +65,18 @@ Select an action at time of plotting. React with that action
 ###### Psychosis
 If an enemy has 6+ debuffs, reveal 2 of their next actions
 ###### Token Gesture
+Type: Empty
 STA: Very low
 CD: None
 Select any targets. When this skill is type, name, or trait checked, decide which type, name, and trait it counts as
 ###### Thronebreaker
-Type: Support 
+Type: Interrupt
 STA: High
 CD: Very high
 Target an enemy. Invert their buffs
-###### Dissonance
-Type: Trap
+
+###### Poison the Well
+Type: Trap (Interrupt)
 STA: Medium
 CD: Low
 (T3: Target enemy uses declared ACT type in declared ACT slot)
@@ -80,13 +87,13 @@ STA: Medium
 CD: 2
 Target an enemy and declare 3 ACT types. If this doesn't match any of them, attack and deal big damage
 ###### Outmaneuver
-Type: Trap
+Type: Trap (Support)
 STA: Low
 CD: 2
 (enemy secretly declares an ACT type at the end of the turn, T2: you don't use it)
 Gain Stealth 2
 ###### Insinuation
-Type: Hybrid
+Type: Combat
 STA: Medium
 CD: 1
 Target an enemy. If uncontested, reduce enemy ATK/DEF and they lose HP/STA for 3 turns
