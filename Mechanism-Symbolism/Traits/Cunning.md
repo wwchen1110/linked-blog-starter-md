@@ -64,7 +64,7 @@ STA: Very low
 CD: None
 Select any targets. When this skill is type, name, or trait checked, decide which type, name, and trait it counts as
 ###### Thronebreaker
-Type: Support
+Type: Support 
 STA: High
 CD: Very high
 Target an enemy. Invert their buffs
