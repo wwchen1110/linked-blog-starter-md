@@ -13,9 +13,9 @@ UNIQUE:
 
 CUNNING:
 [[Cunning#Sneak Attack|Sneak Attack]]: Target an enemy and declare 3 ACT types. If this doesn't match any of them, attack and deal big damage
-[[Cunning#Outmaneuver|Outmaneuver]] (T3: you don't use enemy's secretly declared ACT type): Gain Stealth 3
+[[Cunning#Outmaneuver|Outmaneuver]] (T2: you don't use enemy's secretly declared ACT type): Gain Stealth 2
 [[Cunning#Insinuation|Insinuation]]: Target an enemy. If uncontested, reduce enemy ATK/DEF and they lose HP/STA for 3 turns
-[[Cunning#Facade|Facade]]: Your next 2 skills are Stealthed
+[[Cunning#Underhand|Underhand]]: Gain Stealth until you resolve your next 2 skills
 
 ARDOR:
 Overwhelm: Attack. If unblocked, debuff DEF. If uncontested, reduce ATK and STA
