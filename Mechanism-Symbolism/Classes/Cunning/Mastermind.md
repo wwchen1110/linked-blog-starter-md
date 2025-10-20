@@ -9,7 +9,7 @@ The plotting mastermind has the highest [[Cunning]] of any class, and accordingl
 
 UNIQUE:
 Paranoiac (P): Your traps last an extra turn
-Lynchpin (T3:  this matches the declared ACT type on the 3rd turn): Reveal all enemy slotted actions next turn
+Linchpin (T3:  target enemy uses the declared ACT type on the 3rd turn): Reveal all enemy slotted actions next turn
 Machinate (T6: your trap triggers): Trigger another trap
 
 CUNNING:

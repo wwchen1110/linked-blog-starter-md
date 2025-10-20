@@ -52,11 +52,11 @@ When you expose or reveal an enemy skill, gain a copy that discards on use (pass
 Increase an unit's combat stat, and drastically reduce their STA
 ###### Complacency
 Increase a unit's STA, but reduce a combat stat for 3 turns
-###### Goad
+###### Goad/Daunt
 Type: Control
-STA: Zero
-CD: Medium
-Increase a unit's ATK but reduce its DEF for 3 turns
+STA: Low
+CD: 2
+For 3 turns, target unit trades some ATK and DEF
 ###### Glimpse
 Target an enemy and declare an ACT slot. Reveal their ability in that slot next turn
 ###### Contingency
@@ -74,7 +74,6 @@ Type: Interrupt
 STA: High
 CD: Very high
 Target an enemy. Invert their buffs
-
 ###### Poison the Well
 Type: Trap (Interrupt)
 STA: Medium
