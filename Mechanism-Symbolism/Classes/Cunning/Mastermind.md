@@ -14,7 +14,7 @@ Machinate (T6: your trap triggers): Trigger another trap
 
 CUNNING:
 Token Gesture: Select any targets. When this skill is type, name, or trait checked, decide which type, name, and trait it counts as
-Overplayed Hand (T3: enemy Stealths): Remove enemy Stealth, then they must reveal their next slotted skill
+
 Paralysis: Target an enemy. If they have 6+ debuffs, they must reveal 2 actions next turn
 Apathy/Mania: Target unit trades STA for a combat stat, you choose which direction
 Thronebreaker: Target an enemy. Invert their buffs
