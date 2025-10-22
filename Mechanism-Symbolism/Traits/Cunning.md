@@ -10,17 +10,19 @@ Cunning is the primary trait of [[Noble|Nobles]], [[Warlord|Warlords]], Enchante
 
 For each point in Cunning, gain a tier of [[Passive Perception]]
 
-SPECIALIZED PASSIVES:
-Mind Reader: For each person you're focusing on, reveal the first action they will take next turn
-###### Contrive
+###### Paranoiac
 (P)
-When you activate a trap, you can place another one down
-###### Obfuscate
-When declaring an action type or slot for a future enemy action to trigger one of your effects, you can lie once per turn
+Your traps last an extra turn
+###### Linchpin
+(T3: target enemy uses the declared ACT type on the last turn)
+Reveal all enemy slotted actions next turn
+###### Machinate
+(T2: your trap triggers)
+Trigger another trap
 ###### Verdict
 Type: Trap (Control)
 STA: Low
-CD: Medium
+CD: 3
 (T3: target enemy mismatches your other skill's actively declared ACT type/slot) 
 -Pardon: enemy gains STA, treat the action as the declared ACT type
 -Punish: enemy loses STA, takes damage scaling with your buffs to other units
@@ -29,13 +31,13 @@ CD: Medium
 Once per turn when you buff a unit, an enemy declares an ACT type they will use next turn. If you buffed an enemy you choose which ACT type they declare
 ###### Convention
 Type: Support
-STA: Low
-CD: High
+STA: Medium
+CD: 4
 Declare an ACT type/slot. Until you rest, when any unit uses that type in that slot your next buff/debuff is stronger
-###### Pincer Maneuver
+###### Drums of War
 Type: Support
 STA: Low
-CD: Medium
+CD: 2
 Declare secretly whether you will skip the next turn. If you do, gain 5 ACT slots the turn afterwards
 ###### Ride at Dusk
 (P)
@@ -43,13 +45,11 @@ Every 2 empty ACT slots you commit, gain 1 ACT slot next turn
 ###### Coup d'Etat
 Type: Offense
 STA: High
-CD: High
+CD: 4
 Attack. If uncontested and the enemy is below 25% HP, kill them
 ###### Jack of All Trades
 (P)
 When you expose or reveal an enemy skill, gain a copy that discards on use (passives are discarded after 3 turns)
-###### Paranoia
-Increase an unit's combat stat, and drastically reduce their STA
 ###### Complacency
 Increase a unit's STA, but reduce a combat stat for 3 turns
 ###### Goad/Daunt
@@ -58,7 +58,10 @@ STA: Low
 CD: 2
 For 3 turns, target unit trades some ATK and DEF
 ###### Glimpse
-Target an enemy and declare an ACT slot. Reveal their ability in that slot next turn
+Type: Control
+STA: Med
+CD: 3
+Target an enemy. They must reveal an action and its slot next turn
 ###### Contingency
 (P: when you're CC'd or take damage below 75/50/25) 
 Select an action at time of plotting. React with that action
@@ -105,8 +108,6 @@ Gain Stealth until you resolve 2 skills
 Expose all skills of one action type in enemy skillset
 ###### Gauntlet
 Target an enemy and declare an ACT type. If they don't match it in 3 actions, lock all skills of that type from them for 2 turns
-###### Sneak Attack
-Target an enemy and declare 3 ACT types. If this doesn't match any of them, attack and deal big damage
 ###### Coerce
 Target an enemy and declare an action type and an ACT slot. If that slot doesn't have that type next turn, they lose HP/STA
 ###### Capitulate

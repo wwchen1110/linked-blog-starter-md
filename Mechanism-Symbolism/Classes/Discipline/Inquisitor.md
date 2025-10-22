@@ -14,10 +14,10 @@ Shackle: Lock any number of your skills to lock the same number of enemies' expo
 Trial: Target an enemy and declare an action type/combat stat (T3: enemy uses ACT type). An ally restores HP/STA, and the enemy's combat stat is reduced permanently
 
 DISCIPLINE:
+Neutralize (T2: target enemy attacks): Block
 Shield Drum: Next turn, taunt and block
-Stonewall: Block and reduce attacker STA
-Disarm: Attack. Expose and lock targeted enemy's last skill for 2 turns
-Composure: Can activate if and only if locked. Gain HP/STA, buff DEF
+Disarm: Attack. Choose whether enemy loses ATK or DEF
+Composure: Can activate if and only if locked. Gain DEF and restore STA
 
 CUNNING:
 [[Cunning#Profile|Profile]]: Expose all skills of one action type in enemy skillset

@@ -8,9 +8,9 @@ Manipulators are particularly vulnerable to predation from their cannier counter
 The plotting mastermind has the highest [[Cunning]] of any class, and accordingly is able to utilize this trait to its highest effect. Despite their frailty in direct combat, a mastermind is capable of staying ten steps ahead, influencing the enemy at key moments, and laying down convoluted traps. Their weakness comes when a wrench is thrown into their plans. Without enough distance, a Mastermind can be felled before they have the chance to lay their web.
 
 UNIQUE:
-Paranoiac (P): Your traps last an extra turn
-Linchpin (T3:  target enemy uses the declared ACT type on the 3rd turn): Reveal all enemy slotted actions next turn
-Machinate (T6: your trap triggers): Trigger another trap
+[[Cunning#Paranoiac|Paranoiac]] (P): Your traps last an extra turn
+[[Cunning#Linchpin|Linchpin]] (T3:  target enemy uses the declared ACT type on the 3rd turn): Reveal all enemy slotted actions next turn
+[[Cunning#Machinate|Machinate]] (T6: your trap triggers): Trigger another trap
 
 CUNNING:
 Token Gesture: Select any targets. When this skill is type, name, or trait checked, decide which type, name, and trait it counts as

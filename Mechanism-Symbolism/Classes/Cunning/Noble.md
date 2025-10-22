@@ -19,7 +19,7 @@ CUNNING:
 [[Cunning#Token Gesture|Token Gesture]]: Select any targets. When this skill is type, name, or trait checked, decide which type, name, and trait it counts as
 [[Cunning#Thronebreaker|Thronebreaker]]: Target an enemy. Invert their buffs
 [[Cunning#Poison the Well|Poison the Well]]: (T3: Target enemy uses declared ACT type in declared ACT slot) Lock all their skills of that type for 2 turns
-[[Cunning#Goad/Daunt|Goad/Daunt]]: Trade a unit's ATK with their DEF
+[[Cunning#Goad/Daunt|Goad/Daunt]]: Redistribute a unit's ATK/DEF
 
 DISCIPLINE:
 Kingmaker: Buff a unit's ATK/DEF. Scales with the number of times you've buffed a unit this game

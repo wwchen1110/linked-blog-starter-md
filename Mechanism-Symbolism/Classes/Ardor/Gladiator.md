@@ -20,6 +20,6 @@ Reckless Swing: Attack for big damage, damage yourself
 Last Resort: Massive attack. Long CD, big STA cost
 
 DISCIPLINE:
-Counterpunch: Block and counterattack this turn
-Rally: Restore STA and refresh a CD
+Disarm: Attack. Choose whether enemy loses ATK or DEF
+Second Wind: Restore STA and refresh a CD
 Stomp: Attack scaling with enemy missing STA
