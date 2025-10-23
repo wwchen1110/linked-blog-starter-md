@@ -14,10 +14,10 @@ Coat of Arms: Target an enemy, and upgrade an ACT slot with "Restore HP/STA when
 Joust: Attack and block. Outcombat (next 3 turns): attack and block again
 
 DISCIPLINE:
-Shield Drum: Next turn, taunt and block
+Shield Slam: Block and taunt
 Charge: Attack scaling with STA
 Truestrike: Attack. Low CD, low STA cost
-Entrench: Upgrade an ACT slot with "Block more here. Downgrade when you rest"
+Hammer: Attack. Upgrade this slot with "Gain ATK/DEF here until you don't slot a combat skill here"
 
 ARDOR:
 Reckless Swing: Big attack. Take some damage
