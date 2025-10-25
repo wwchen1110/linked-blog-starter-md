@@ -10,14 +10,14 @@ A Gladiator utilizes their high [[Ardor|Ardor]] and [[Discipline]] to confront a
 
 UNIQUE:
 Rampage (P): Each turn you outcombat an enemy, gain STA
-Called Shot: Your first action next turn, if it's a combat skill, has its stats increased heavily
+Signature Move: Big attack and block. Big CD
 Glory: If you outcombatted an enemy by double or more last turn, heal, refresh a CD, and gain DMG
 
 ARDOR:
 Clash: Attack an enemy, and you are now taunted to each other until a turn you stop attacking. The enemy can also outcombat you to break this effect
 Bravado: Gain massive block. High STA cost
-Reckless Swing: Attack for big damage, damage yourself
-Last Resort: Massive attack. Long CD, big STA cost
+Dominate: If you outcombatted the enemy this turn, gain ATK/DEF for 2 turns
+Whet: Your next combat skill gains moderate stats
 
 DISCIPLINE:
 Disarm: Attack. Choose whether enemy loses ATK or DEF

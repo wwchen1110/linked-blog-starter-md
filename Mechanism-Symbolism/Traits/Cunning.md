@@ -6,7 +6,7 @@ dg-publish: "True"
 
 This trait represents a focus on social roles, using personas to predict and control behavior. Cunning individuals have their hand on the scale to before a sword is swung.
 
-Cunning is the primary trait of [[Noble|Nobles]], [[Warlord|Warlords]], Enchanters, and Rogues, as well as the specialized trait of Masterminds. It is also the secondary trait of [[Inquisitor|Inquisitors]], [[Assassin|Assassins]], [[Warlock|Warlocks]], and [[Bard|Bards]]. These classes are characterized by their ability to gather information, limit their opponent's options, and efficiently counterplay.
+Cunning is the primary trait of [[Noble|Nobles]], [[Warlord|Warlords]], [[Demagogue|Demagogues]], and [[Bard|Bards]], as well as the specialized trait of [[Mastermind|Masterminds]]. It is also the secondary trait of [[Inquisitor|Inquisitors]], [[Assassin|Assassins]], [[Warlock|Warlocks]], and [[Rogue|Rogues]]. These classes are characterized by their ability to gather information, limit their opponent's options, and efficiently counterplay.
 
 For each point in Cunning, gain a tier of [[Passive Perception]]
 

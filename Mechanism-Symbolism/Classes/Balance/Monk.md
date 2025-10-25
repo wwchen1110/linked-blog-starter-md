@@ -18,6 +18,6 @@ Slipstream: Forget a skill from your skillset, dodge 1
 Breathe: Restore STA, cycle 1
 
 DISCIPLINE:
-Iron Fist: Upgrade a slot with "lower CD by 1 as long as you slot the same ACT type here each turn"
+Iron Skin: Forget a skill to gain permanent DEF
 Habit: Upgrade a slot with “each turn you slot the same skill here, regain more STA. When you slot a different skill, downgrade.”
 Steel Yourself: Gain DEF until you rest

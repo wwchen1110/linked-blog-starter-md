@@ -13,7 +13,8 @@ Turtle (stance): Your slots cannot downgrade
 
 SYNERGIES:
 Acclimate: Upgrade a slot with "Heal/block more here. Downgrade when you slot a non-combat skill here"
-Iron Fist: When you use the same slot for the same type last turn, upgrade the slot with "lower STA costs" until you stop
+Hammer: Attack. Upgrade this slot with "Gain ATK/DEF here until you don't slot a combat skill here"
+Iron Skin: Forget a skill to gain permanent DEF
 Steel Yourself: Gain DEF until you rest
 Mirror Shield: Block. This turn, enemies take damage you block
 Entrench: Block. Next turn, block

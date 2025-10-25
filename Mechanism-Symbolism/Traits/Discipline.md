@@ -36,8 +36,8 @@ Taunt: Target an enemy; next turn they must attempt to attack you
 Rally: Restore STA and refresh one ability
 Vanquish: Deal damage to enemy based on their recent damage/targeting of allies
 Tackle: Deal damage equal to your block
-Stagger: Attack. If this is in your first ACT slot, slow the enemy
-Bash: Attack. If this is in your last ACT slot, stun the enemy
+Stagger: Attack. If this is in your first ACT slot, enemy loses STA
+Hammer: Attack. Upgrade this slot with "Gain ATK/DEF here until you don't slot a combat skill here"
 Steel Yourself: Gain DEF until you rest
 Iron Wall: Block. Upgrade this slot with "Gain more block here. Downgrade when you stop defending here."
 Mirror Shield: Block. This turn, attackers also take the damage you block
