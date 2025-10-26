@@ -9,7 +9,7 @@ It's not rare for an adventurer to have a thirst for blood, nor is it rare that 
 A Gladiator utilizes their high [[Ardor|Ardor]] and [[Discipline]] to confront and overpower opponents, and they're rewarded with refreshed stamina. While a Knight looks for a prolonged battle to prove their worth, Gladiators just look ahead to the next trade. Their powerful abilities have large stamina costs, but winning their combats gives Gladiators the energy to keep up the pressure.
 
 UNIQUE:
-Rampage (P): Each turn you outcombat an enemy, gain STA
+Rampage (P): The first time you outcombat an enemy per rest, gain ATK/DEF/STA
 Signature Move: Big attack and block. Big CD
 Glory: If you outcombatted an enemy by double or more last turn, heal, refresh a CD, and gain DMG
 
