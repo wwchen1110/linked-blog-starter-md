@@ -11,7 +11,7 @@ A Gladiator utilizes their high [[Ardor|Ardor]] and [[Discipline]] to confront a
 UNIQUE:
 Rampage (P): The first time you outcombat an enemy per rest, gain ATK/DEF/STA
 Signature Move: Big attack and block. Big CD
-Glory: If you outcombatted an enemy by double or more last turn, heal, refresh a CD, and gain DMG
+Glory: If you outcombatted an enemy by double or more last turn, heal, refresh a CD, and gain DMG 
 
 ARDOR:
 Clash: Attack an enemy, and you are now taunted to each other until a turn you stop attacking. The enemy can also outcombat you to break this effect
