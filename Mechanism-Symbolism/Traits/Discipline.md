@@ -38,6 +38,17 @@ Vanquish: Deal damage to enemy based on their recent damage/targeting of allies
 Tackle: Deal damage equal to your block
 Stagger: Attack. If this is in your first ACT slot, enemy loses STA
 Hammer: Attack. Upgrade this slot with "Gain ATK/DEF here until you don't slot a combat skill here"
+###### Truestrike
+Attack
+STA: Low
+CD: 0
+Strike an enemy
+###### Acclimate
+Defense
+STA: Low
+CD: 6
+Restore HP/STA for 3 turns
+
 Steel Yourself: Gain DEF until you rest
 Iron Wall: Block. Upgrade this slot with "Gain more block here. Downgrade when you stop defending here."
 Mirror Shield: Block. This turn, attackers also take the damage you block

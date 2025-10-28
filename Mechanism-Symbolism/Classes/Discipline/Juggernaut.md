@@ -12,7 +12,7 @@ Quake: Massive AoE attack, taking 1 turn. Enemy ACT slots downgrade with "Non-co
 Turtle (stance): Your slots cannot downgrade
 
 SYNERGIES:
-Acclimate: Upgrade a slot with "Heal/block more here. Downgrade when you slot a non-combat skill here"
+[[Traits/Discipline#Acclimate|Acclimate]]: 
 Hammer: Attack. Upgrade this slot with "Gain ATK/DEF here until you don't slot a combat skill here"
 Iron Skin: Forget a skill to gain permanent DEF
 Steel Yourself: Gain DEF until you rest
