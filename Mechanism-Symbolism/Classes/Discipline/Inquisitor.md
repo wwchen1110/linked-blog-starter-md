@@ -10,12 +10,12 @@ An Inquisitor's bread and butter revolves around exposing an enemy's strategy wi
 
 UNIQUE:
 Interrogator (P): Each turn you combat with an enemy, declare an action type or a skill name. The enemy chooses a skill of that type or name to expose from their skillset
-Shackle: Lock any number of your skills to lock the same number of enemies' exposed skills. You can unlock them all as a free action
+Shackle: Lock any number of your skills to lock the same number of enemies' exposed skills. You can unlock them all anytime between turns
 Trial: Target an enemy and declare an action type/combat stat (T3: enemy uses ACT type). An ally restores HP/STA, and the enemy's combat stat is reduced permanently
 
 DISCIPLINE:
 Neutralize (T2: target enemy attacks): Block
-Shield Drum: Next turn, taunt and block
+Truestrike: Unaffected by locks and debuffs. Small strike
 Disarm: Attack. Choose whether enemy loses ATK or DEF
 Composure: Can activate if and only if locked. Gain DEF and restore STA
 

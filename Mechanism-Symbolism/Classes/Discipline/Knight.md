@@ -14,12 +14,12 @@ Coat of Arms: If under half STA, gain moderate ATK. If under half HP, next attac
 Joust: Attack and block. Restore STA/HP equal to the damage/block.
 
 DISCIPLINE:
-Bulwark: Block and taunt
-[[Traits/Discipline#Truestrike|Truestrike]]: Attack. Low CD, low STA cost
-Vanquish: Attack. Deal extra for damage took last round
-[[Traits/Discipline#Acclimate|Acclimate]]: Heal and restore STA for 3 turns
+[[Discipline#Tower|Tower]]: Big taunt
+[[Traits/Discipline#Truestrike|Truestrike]]: Unaffected by locks or debuffs. Small strike
+[[Traits/Discipline#Tempering|Tempering]]: Increase your max STA by a percentage of the damage you took last turn
+[[Traits/Discipline#Acclimate|Acclimate]]: Restore HP/STA for 5 turns
 
 ARDOR:
-Clash: Attack an enemy, and you are now taunted to each other until a turn you stop attacking. The enemy can also overwhelm you by turn end to break this effect
-[[Ardor#Reckless Swing|Reckless Swing]]: Attack, take some damage
-Adrenaline Rush: Restore a percent of missing HP/STA
+[[Ardor#Fury|Fury]]: Each time you take or deal damage the next 3 turns, your next attack deals more
+[[Ardor#Reckless Swing|Reckless Swing]]: Strike, take some damage
+[[Ardor#Adrenaline Rush|Adrenaline Rush]]: Block and restore STA by a percentage of missing HP/STA

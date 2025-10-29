@@ -33,21 +33,35 @@ QUAKE: Taking 1 turn, pull enemies closer to self and turn nearby terrain diffic
 
 ACTIVES:
 Taunt: Target an enemy; next turn they must attempt to attack you
-Rally: Restore STA and refresh one ability
 Vanquish: Deal damage to enemy based on their recent damage/targeting of allies
 Tackle: Deal damage equal to your block
 Stagger: Attack. If this is in your first ACT slot, enemy loses STA
 Hammer: Attack. Upgrade this slot with "Gain ATK/DEF here until you don't slot a combat skill here"
 ###### Truestrike
-Attack
+Type: Attack
 STA: Low
 CD: 0
-Strike an enemy
+Unaffected by locks and debuffs. Small strike against an enemy
 ###### Acclimate
-Defense
+Type: Defense
 STA: Low
 CD: 6
-Restore HP/STA for 3 turns
+Restore HP/STA for 5 turns
+###### Tower
+Type: Debuff
+STA: Medium
+CD: 5
+Big taunt on target enemy
+###### Final Stand
+Type: Defense
+STA: Medium
+CD: 8
+This turn, you cannot drop below 1 HP or die
+###### Second Wind
+Type: Buff
+STA: Low
+CD: 6
+Reduce a CD by 2 and restore STA
 
 Steel Yourself: Gain DEF until you rest
 Iron Wall: Block. Upgrade this slot with "Gain more block here. Downgrade when you stop defending here."

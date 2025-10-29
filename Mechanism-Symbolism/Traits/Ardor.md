@@ -26,7 +26,18 @@ EXECUTE: Attack. Deals more if enemy is low HP, and grants HP/ATK/SPD+ on kill
 ACTIVES:
 Rampage: Attack, ignoring the effects of debuffs
 Flurry: Attack, scaling with your difference in SPD
-Reckless Swing: Big attack, damage yourself
+###### Reckless Swing
+Type: Attack
+STA: Medium
+CD: 3
+Big strike, damage yourself
+
+###### Adrenaline Rush
+Type: Buff
+STA: Low
+CD: 10
+Restore a portion of missing HP/STA
+
 Finisher: Attack, scaling with consecutive attacks before
 Shredder: Attack. Deal double damage to block
 Domination: If you outcombatted this turn, gain ATK/DEF for 2 turns
