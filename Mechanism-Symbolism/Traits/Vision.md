@@ -5,7 +5,7 @@ dg-publish: "True"
 "The soul cannot be blemished."
 This trait represents the capacity to see the greater whole, unconstrained by any individual piece. Visionary individuals take the awesome ideas in their hearts and minds, then give them form in reality. From the void, they create light.
 
-Vision is the primary trait of [[Cleric|Clerics]], [[Sorcerer|Sorcerers]], Warlocks, and Shamans, as well as the specialized trait of Wizards. It is also the secondary trait of Paladins, Spellblades, Puppeteers, and Druids. These classes are characterized by their ability to charge power, use esoteric abilities, and cause far-reaching impact.
+Vision is the primary trait of [[Cleric|Clerics]], [[Sorcerer|Sorcerers]], [[Warlock|Warlocks]], and [[Shaman|Shamans]], as well as the specialized trait of Wizards. It is also the secondary trait of [[Paladin|Paladins]], [[Spellblade|Spellblades]], [[Demagogue|Demagogues]], and [[Druid|Druids]]. These classes are characterized by their ability to charge power, use esoteric abilities, and cause far-reaching impact.
 
 For each point of Vision, your character gains 1 elemental domain and 2 inscribed elements
 
