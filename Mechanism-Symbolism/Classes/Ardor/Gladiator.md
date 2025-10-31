@@ -22,4 +22,4 @@ Burn Bright: Gain ATK/DEF for 3 turns, but your CDs double
 DISCIPLINE:
 Disarm: Attack. Choose whether enemy loses ATK or DEF
 Second Wind: Restore STA and refresh a CD
-[[Traits/Discipline#Vanquish|Vanquish]]: Attack. Low CD, low STA cost
+[[Traits/Discipline#Vanquish|Vanquish]]: Attack, scaling with how much you were overwhelmed last round
