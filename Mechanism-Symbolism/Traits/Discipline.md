@@ -33,7 +33,6 @@ QUAKE: Taking 1 turn, pull enemies closer to self and turn nearby terrain diffic
 
 ACTIVES:
 Taunt: Target an enemy; next turn they must attempt to attack you
-Vanquish: Deal damage to enemy based on their recent damage/targeting of allies
 Tackle: Deal damage equal to your block
 Stagger: Attack. If this is in your first ACT slot, enemy loses STA
 Hammer: Attack. Upgrade this slot with "Gain ATK/DEF here until you don't slot a combat skill here"
@@ -62,6 +61,9 @@ Type: Buff
 STA: Low
 CD: 6
 Reduce a CD by 2 and restore STA
+
+###### Vanquish
+Deal damage to enemy based on their recent damage/targeting of allies
 
 Steel Yourself: Gain DEF until you rest
 Iron Wall: Block. Upgrade this slot with "Gain more block here. Downgrade when you stop defending here."

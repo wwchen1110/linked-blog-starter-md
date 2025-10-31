@@ -40,7 +40,7 @@ Restore a portion of missing HP/STA
 
 Finisher: Attack, scaling with consecutive attacks before
 Shredder: Attack. Deal double damage to block
-Domination: If you outcombatted this turn, gain ATK/DEF for 2 turns
+Roar: If you outcombatted this turn, gain ATK/DEF for 2 turns
 Bravado: Gain a ton of block this turn
 Overdrive: Gain an extra action next turn
 Heartpiercer: Attack. Double its unblocked damage
