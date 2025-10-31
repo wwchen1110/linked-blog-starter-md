@@ -51,18 +51,20 @@ Type: Debuff
 STA: Medium
 CD: 5
 Big taunt on target enemy
-###### Final Stand
-Type: Defense
+###### Tempering
+Type: Buff
 STA: Medium
 CD: 8
-This turn, you cannot drop below 1 HP or die
+Increase your max STA proportional to the damage you took last turn
 ###### Second Wind
 Type: Buff
 STA: Low
 CD: 6
 Reduce a CD by 2 and restore STA
-
 ###### Vanquish
+Type: Attack
+STA: Medium
+CD: 4
 Deal damage to enemy based on their recent damage/targeting of allies
 
 Steel Yourself: Gain DEF until you rest

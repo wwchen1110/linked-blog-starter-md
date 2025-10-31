@@ -10,14 +10,14 @@ With both high [[Discipline]] and [[Vision]], Paladins utilize their survivabili
 
 UNIQUE:
 Lay On Hands (3 Inscription): Cannot be imbued normally. Each time you block or heal 3 turns in a row, imbue 1 to this. Heal, scaling with imbued power
-Divine Smite (4 Inscription): Cannot be used unless fully imbued. Deal damage scaling with imbued power and cast a spell that unleashes all imbued elements
+Divine Smite (4 Inscription): Cannot be used unless fully channeled. Deal damage scaling with imbued power and cast a spell that unleashes all imbued elements
 Oathsworn (P): Declare an ACT type. Upgrade an ACT slot with "each turn you use the declared ACT type here, imbue 1"
 
 DISCIPLINE:
 Entrench: Block. Next turn, block
-Shield Wall: If this is your only action this turn, big block
+
 Shield of Faith (2 Inscription): Gain non-decaying block. For each turn channeled in this slot, heal
-Pray (3 Inscription): Restore STA, scaling with imbued power
+Pray (3 Inscription): Heal. Each turn channeled in the same slot, restore STA
 
 VISION:
 Order (EL): Truth made manifest through stable, enduring forms. Binding, geas, oaths, vows, contracts
