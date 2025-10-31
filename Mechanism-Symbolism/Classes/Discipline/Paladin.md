@@ -16,7 +16,7 @@ Oathsworn (P): Declare an ACT type. Upgrade an ACT slot with "each turn you use 
 DISCIPLINE:
 Entrench: Block. Next turn, block
 Shield Wall: If this is your only action this turn, big block
-Shield of Faith (2 Inscription): Block. Passively gain DEF equal to its imbued power
+Shield of Faith (2 Inscription): Gain non-decaying block. For each turn channeled in this slot, heal
 Pray (3 Inscription): Restore STA, scaling with imbued power
 
 VISION:

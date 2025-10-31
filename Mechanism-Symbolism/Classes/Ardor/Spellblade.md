@@ -7,13 +7,13 @@ If a Paladin is a warrior-zealot who has dedicated their life to serving a god, 
 Spellblades combine [[Ardor]] and [[Vision]] to overwhelm their opponents in a flurry of strikes and spells. Using combo attacks to proc their magic, they’re able to achieve incredible amounts of damage in a single bout. The downside is that waiting out a Harbinger’s buffs leaves them with no gas in the tank.
 
 UNIQUE:
-Magisteel: Combat skills temporarily imbue 1 on your next combat skill this turn (if it has an inscription)
-Energy Slash (Inscription 3): Deal big damage to an enemy. If you’ve cast 3+ spells this turn, repeat on each enemy
-Dazzling Melee (Inscription 4): Buff ATK/SPD significantly next turn. Unleash 2 * X to repeat your first X actions next turn
+Magisteel: Combat skills channel 1 to their next action, if it's a spell
+Energy Slash (Inscription 2): Big strike. If you've cast 2+ spells this turn, strike all enemies
+Dazzling Melee (Inscription 4): Buff ATK/SPD significantly next turn. Channel 2 * X to repeat your first X actions next turn
 
 ARDOR:
-Blood Lance (Inscription 2): Attack an enemy. You can unleash 1 to gain lifesteal on your next attack this turn
-Soul Charge: Attack an enemy. Temporarily imbue 1
+Blood Lance (Inscription 1): Attack and lifesteal. You can channel this during your casting action by spending more STA and increasing its CD
+Soul Charge: Attack an enemy. Your next spell this turn channels 1
 Jab: Small attack and gain 1 ACT next turn
 Finisher: Attack, scaling with consecutive attacks before
 
