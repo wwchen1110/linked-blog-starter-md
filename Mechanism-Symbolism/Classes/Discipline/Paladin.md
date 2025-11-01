@@ -15,7 +15,7 @@ Oathsworn (P): Declare an ACT type. Upgrade an ACT slot with "each turn you use 
 
 DISCIPLINE:
 Entrench: Block. Next turn, block
-
+Habit: 
 Shield of Faith (2 Inscription): Gain non-decaying block. For each turn channeled in this slot, heal
 Pray (3 Inscription): Heal. Each turn channeled in the same slot, restore STA
 
