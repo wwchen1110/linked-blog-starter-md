@@ -14,8 +14,8 @@ Divine Smite (4 Inscription): Cannot be used unless fully channeled. Deal damage
 Oathsworn (P): Declare an ACT type. Upgrade an ACT slot with "each turn you use the declared ACT type here, imbue 1"
 
 DISCIPLINE:
-Entrench: Block. Next turn, block
-Habit: 
+Expertise: Each time you slot a skill in the next 5 turns of the same type as the skill you slotted after this one this turn, gain block
+Stand Tall: While your ACT slots are full, gain ATK/DEF
 Shield of Faith (2 Inscription): Gain non-decaying block. For each turn channeled in this slot, heal
 Pray (3 Inscription): Heal. Each turn channeled in the same slot, restore STA
 
