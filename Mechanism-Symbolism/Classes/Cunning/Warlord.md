@@ -18,6 +18,6 @@ CUNNING:
 [[Cunning#Underhand|Underhand]]: Gain Stealth until you resolve your next 2 skills
 
 ARDOR:
-Overwhelm: Attack. If unblocked, debuff DEF. If uncontested, reduce ATK and STA
+Crossup: Attack. If uncontested, gain an ACT next turn
 Finisher: Attack. Deal more for each attack this turn
 Scorched Earth: For the next 3 turns, all units gain an extra ACT slot

@@ -14,10 +14,10 @@ Divine Smite (4 Inscription): Cannot be used unless fully channeled. Deal damage
 Oathsworn (P): Declare an ACT type. Upgrade an ACT slot with "each turn you use the declared ACT type here, imbue 1"
 
 DISCIPLINE:
-Intervention: Next turn, attack and block
-Stand Tall: While your ACT slots are full, gain ATK/DEF
+Vigil: Extend your buffs and prepared spells by 1 turn, and restore some STA
+Oath: Declare an ACT type. Gain ATK/DEF until a turn you don't use it
 (Order (EL): Truth made manifest through stable, enduring forms. Binding, geas, oaths, vows, contracts)
-Shield of Faith (2 Inscription): Gain non-decaying block. For each turn channeled in this slot, heal
+Shield of Faith (2 Inscription): Gain non-decaying block. For each turn channeled in this slot, gain DEF
 Pray (3 Inscription): Heal. Each turn channeled in the same slot, restore STA
 
 VISION:
