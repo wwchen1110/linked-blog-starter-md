@@ -12,6 +12,7 @@ Energy Slash (Inscription 2): Big strike. If you've cast 2+ spells this turn, st
 Dazzling Melee (Inscription 4): Buff ATK/SPD significantly next turn. Channel 2 * X to repeat your first X actions next turn
 
 ARDOR:
+(Blood (FW))
 Blood Lance (Inscription 1): Attack and lifesteal. You can channel this during your casting action by spending more STA and increasing its CD
 Soul Charge: Attack an enemy. Your next spell this turn channels 1
 Jab: Small attack and gain 1 ACT next turn
@@ -19,5 +20,5 @@ Finisher: Attack, scaling with consecutive attacks before
 
 VISION:
 Force (FF): Power and direction, combining into drive. Violent pushes of pure energy - barriers, attacks, sharp momentum shifts
-Fire Resonance
-Air Resonance
+Soul (FL)
+Thunder (AF)

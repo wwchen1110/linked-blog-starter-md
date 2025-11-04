@@ -13,10 +13,11 @@ Revelation:
 VISION:
 Primordia - Amuletum: Inscription 8. Passively gain block each turn scaling with imbued power
 Life (LW): People flowing towards their various individual potentials. Healing/regeneration, individualized buffs, restoring natural balance
-Order (EL): Truth made manifest through stable, enduring forms. Binding, geas, oaths, vows, contracts
+Dominion (EE)
 Revelation (LL): Higher truth derived from higher planes of existence. Divination, insight, ascension
 
 DISCIPLINE:
+Order (EL): Truth made manifest through stable, enduring forms. Binding, geas, oaths, vows, contracts
 Shield of Faith (Inscription 3): Block, scaling with imbued power
 Pray (Inscription 3): Restore STA, scaling with imbued power
 Habit: Upgrade 1 “each turn you slot the same skill here, refund CD. When you slot a different skill, downgrade.”

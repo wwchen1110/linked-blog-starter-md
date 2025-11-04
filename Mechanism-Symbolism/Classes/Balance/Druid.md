@@ -14,3 +14,8 @@ Wild Form: Go into Beast stance, increasing ATK/DEF/HP/STA, or Wildspeaker stanc
 
 BALANCE:
 Trinket: Weak attack, block, debuff, or spark generator, decided at resolution
+Nature (EW)
+
+VISION:
+Weather (AW)
+Time (
