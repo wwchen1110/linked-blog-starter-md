@@ -16,7 +16,7 @@ Glory: If you overwhelmed an enemy by double or more last turn, heal, refresh a 
 ARDOR:
 Clash: Attack an enemy, and you are now taunted to each other until a turn you stop attacking, or the enemy overwhelms you
 Bravado: Gain massive block. High STA cost
-Roar: If you outcombatted the enemy this turn, they lose ATK/DEF permanently
+Menace: If you outcombatted the enemy this turn, they lose ATK/DEF permanently
 Burn Bright: Gain ATK/DEF for 3 turns, but your CDs double
 
 DISCIPLINE:
