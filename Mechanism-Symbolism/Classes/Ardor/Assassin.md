@@ -13,7 +13,7 @@ ARDOR:
 Pounce (T3: target enemy has 0 block): Attack
 Heartpiercer: Attack. Double its unblocked damage
 Shatter: Attack. Block only reduces half its damage (rounded up)
-Whet: Your next combat skill is moderately stronger
+Crossup: Attack. If uncontested, slot 1 more skill in this slot next round
 
 CUNNING:
 [[Cunning#Goad/Daunt|Goad/Daunt]]: Redistribute some of a unit's ATK/DEF
