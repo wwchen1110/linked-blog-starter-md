@@ -6,7 +6,7 @@ The Provocateur
 Warlords increase their range of possible actions, making their bursts harder to predict and mitigate. They can then follow this up with conditionally powerful attacks
 
 UNIQUE:
-[[Cunning#Drums of War|Drums of War]]: Declare secretly whether you will skip the next turn. If you do, you can slot 1 more skill per slot the round afterwards
+[[Cunning#Drums of War|Drums of War]]: Declare secretly whether you will skip the next turn. If you do, gain 5 ACT the turn after
 [[Cunning#Ride at Night|Ride at Dusk]] (P): Each time you rest, Stealth your next 3 skills
 [[Cunning#Coup d'Etat|Coup d'Etat]]: Attack. If uncontested and the enemy is low enough, kill them. High CD, high STA cost
 
