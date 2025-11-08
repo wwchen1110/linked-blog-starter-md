@@ -6,7 +6,7 @@ High [[Ardor]] and high [[Cunning]] allows this class to find or create the perf
 
 UNIQUE:
 Sting: Attack. If this deals unblocked damage, reveal the enemy's first action in two turns
-Blackout: Your next 3 attacks are Stealthed
+Blackout: Your next 2 attacks are Stealthed
 Hidden Blade: Declare a skill name. If your next attack matches that name, deal significantly increased damage
 
 ARDOR:

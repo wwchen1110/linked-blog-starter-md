@@ -13,10 +13,9 @@ Bloodthirst: Gain lifesteal
 
 ARDOR:
 Reckless Swing: Big attack, damage yourself
-Bloodrush: Attack, buff your max HP by unblocked damage
-Jab: Small attack and gain 1 ACT next turn
+Fury: When you take or receive damage the next 3 turns, gain ATK
+Clash: Attack an enemy, and you are now taunted to each other until a turn you stop attacking, or the enemy overwhelms you
 Bravado: Big defend. Big STA cost
-Eviscerate: Attack. Enemy gains Bleed 2
 Heartpiercer: Attack. Double its unblocked damage
 Finisher: Attack, scaling with consecutive attacks before
 Double Down: Attack. Copy the effects of your last attack skill this turn

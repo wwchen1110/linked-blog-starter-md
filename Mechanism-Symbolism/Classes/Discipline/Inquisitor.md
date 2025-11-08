@@ -17,7 +17,7 @@ DISCIPLINE:
 Neutralize (T2: target enemy attacks): Block
 Truestrike: Unaffected by locks and debuffs. Small strike
 Disarm: Attack. Choose whether enemy loses ATK or DEF
-Composure: Can activate if and only if locked. Gain DEF and restore STA
+Composure: Restore STA. You can use if locked, and it also gives DEF
 
 CUNNING:
 [[Cunning#Profile|Profile]]: Expose all skills of one action type in enemy skillset
