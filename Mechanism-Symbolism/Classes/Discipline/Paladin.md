@@ -15,10 +15,10 @@ Oathsworn (P): Declare an ACT type. Upgrade an ACT slot with "each turn you use 
 
 DISCIPLINE:
 Vigil: Extend your buffs and prepared spells by 1 turn, and restore some STA
-Oath: Declare an ACT type. Gain ATK/DEF until a turn you don't use it
+Warding: Block scaling with prepared skills
 (Order (EL): Truth made manifest through stable, enduring forms. Binding, geas, oaths, vows, contracts)
-Shield of Faith (2 Inscription): Gain non-decaying block. For each turn channeled in this slot, gain DEF
-Pray (3 Inscription): Heal. Each turn channeled in the same slot, restore STA
+Shield of Faith (3 Inscription): Gain non-decaying block. While channeled, gain DEF
+Pray (2 Inscription): Heal. Restore a little STA while channeling
 
 VISION:
 Revelation (LL):

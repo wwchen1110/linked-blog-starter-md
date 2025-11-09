@@ -12,7 +12,7 @@ Dazzling Melee (Inscription 4): Buff ATK/SPD significantly next turn. Channel 2 
 
 ARDOR:
 Actualize: Reduce CDs, debuffs, and prepared spells by 2 turns
-Catharsis: Your first 2 ACTs are free actions next turn
+Apotheosis: Convert your first 2 ACTs next turn into free actions
 (Blood (FW))
 Blood Lance (Inscription 1): Attack and lifesteal. You can channel this during your casting action by spending more STA and increasing its CD
 Soul Charge: Attack an enemy. Your next spell this turn channels 1
