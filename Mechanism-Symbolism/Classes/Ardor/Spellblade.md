@@ -15,7 +15,7 @@ Actualize: Reduce CDs, debuffs, and prepared spells by 2 turns
 Apotheosis: Convert your first 2 ACTs next turn into free actions
 Soul Charge: Attack. If you cast a spell this turn, channel 1 to it
 (Chaos (FS))
-Tongue of Serpentine (Inscription 2): Strike, then channel based on unblocked damage dealt. You can cast this any turn after it is prepared
+Asherah's Exile (Inscription 2): Strike, then channel based on unblocked damage dealt. You can cast this any turn after it is prepared
 
 VISION:
 Force (FF): Power and direction, combining into drive. Violent pushes of pure energy - barriers, attacks, sharp momentum shifts
