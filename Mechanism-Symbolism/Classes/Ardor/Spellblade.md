@@ -13,9 +13,9 @@ Dazzling Melee (Inscription 4): Buff ATK/SPD significantly next turn. Channel 2 
 ARDOR:
 Actualize: Reduce CDs, debuffs, and prepared spells by 2 turns
 Apotheosis: Convert your first 2 ACTs next turn into free actions
+Soul Charge: Attack. If you cast a spell this turn, channel 1 to it
 (Chaos (FS))
-Blood Lance (Inscription 1): Attack and lifesteal. You can channel this during your casting action by spending more STA and increasing its CD
-Soul Charge: Attack an enemy. Your next spell this turn channels 1
+Tongue of Serpentine (Inscription 2): Strike, then channel based on unblocked damage dealt. You can cast this any turn after it is prepared
 
 VISION:
 Force (FF): Power and direction, combining into drive. Violent pushes of pure energy - barriers, attacks, sharp momentum shifts
