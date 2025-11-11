@@ -1,6 +1,8 @@
 Chaosis (Ch)
 
+Bakcheía Diónysou (Ch-Na):
 
+Apistokálymma Kassándras
 
-Pyrà Promēthéōs (Ch-He-Rv): Deal massive damage to enemies and big damage to allies. Temporarily imbue 4
+Pyrá Promēthéōs (Ch-He-Rv): Deal massive damage to enemies and big damage to allies. Temporarily imbue 4
 
