@@ -1,6 +1,10 @@
 Haeresis (He)
 
-Babel the Skypiercer (Inscription 4): Scaling AoE strike. Channel proportional to unblocked damage
+Eden's Exile (He-Na) (Inscription 3): Scaling channel to the next spell you prepare
+
+Babel the Skypiercer (Ch-He) (Inscription 4): Scaling AoE strike. Channel proportional to unblocked damage
+
+Chains of Paradise Lost (He) (Inscription 5): Cannot take the channel action for this spell. Lock all enemies' buffs/debuffs for scaling turns, and gain scaling ACT slots next turn
 
 t-Apocryphon en-Johannes
 
