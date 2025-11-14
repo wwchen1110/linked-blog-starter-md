@@ -1,4 +1,4 @@
-Chaosis (Ch)
+Entropy Blade (Ch): 
 
 Bakcheía Diónysou (Ch-Na):
 

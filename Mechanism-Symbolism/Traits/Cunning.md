@@ -1,7 +1,6 @@
 ---
 dg-publish: "True"
 ---
-
 "Know when the mask confines and when it frees."
 
 This trait represents a focus on social roles, using personas to predict and control behavior. Cunning individuals have their hand on the scale to before a sword is swung.
