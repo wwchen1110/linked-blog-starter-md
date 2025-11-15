@@ -22,6 +22,6 @@ CUNNING:
 [[Cunning#Goad/Daunt|Goad/Daunt]]: Redistribute a unit's ATK/DEF
 
 DISCIPLINE:
-Kingmaker: Buff a unit's ATK/DEF. Scales with the number of times you've buffed a unit this game
+Kingmaker: Buff a unit's ATK/DEF. Scales with the number of times you've buffed a unit this rest
 Phalanx: Select an ACT slot. All allies upgrade that slot with "If you block here, buff your DEF. Downgrade when you rest"
 Demesne: Select an ACT slot/type. Upgrade that slot for everyone with "If you play that ACT type here, buff DEF. Downgrade if you slot anything else here."
