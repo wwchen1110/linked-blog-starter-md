@@ -20,6 +20,6 @@ DISCIPLINE:
 [[Traits/Discipline#Acclimate|Acclimate]]: Restore HP/STA for 5 turns
 
 ARDOR:
-[[Ardor#Fury|Fury]]: Each time you take or deal damage the next 3 turns, gain temporary ATK
-[[Ardor#Reckless Swing|Reckless Swing]]: Strike, take some damage
+[[Ardor#Survival Instinct|Survival Instinct]]: Block, scaling with missing HP 
+[[Ardor#Clash|Clash]]: Attack and taunt each other
 [[Ardor#Adrenaline Rush|Adrenaline Rush]]: Block and restore STA by a percentage of missing HP/STA
