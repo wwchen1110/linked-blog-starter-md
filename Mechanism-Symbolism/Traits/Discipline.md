@@ -40,22 +40,22 @@ Hammer: Attack. Upgrade this slot with "Gain ATK/DEF here until you don't slot a
 Type: Attack
 STA: Low
 CD: 0
-Unaffected by locks and debuffs. Small strike against an enemy
+Unaffected by locks and debuffs. Small strike
 ###### Acclimate
 Type: Defense
 STA: Low
 CD: 6
-Restore HP/STA for 5 turns
+Restore a little HP/STA for 5 turns
 ###### Tower
 Type: Debuff
 STA: Medium
 CD: 5
-Big taunt on target enemy
-###### Tempering
-Type: Buff
+Big taunt
+###### Armor Plating
+Type: Defense
 STA: Medium
-CD: 8
-Increase your max STA proportional to the damage you took last turn
+CD: 4
+Block, gain 1 Integrity
 ###### Second Wind
 Type: Buff
 STA: Low
@@ -66,6 +66,27 @@ Type: Attack
 STA: Medium
 CD: 4
 Deal damage to enemy based on their recent damage/targeting of allies
+###### Neutralize
+Type: Trap (Defense)
+STA: Medium
+CD: 6
+(T4: target enemy attacks you): Big block
+###### Disarm
+Type: Attack
+STA:
+CD:
+Strike. Target either loses ATK or DEF
+###### Cover
+Type: Defense
+STA: Low
+CD: 3
+Block and taunt
+###### Chainmail
+Type:
+STA:
+CD:
+Block. Lock 3 any enemy attacks you fully block this turn
+
 
 Steel Yourself: Gain DEF until you rest
 Iron Wall: Block. Upgrade this slot with "Gain more block here. Downgrade when you stop defending here."

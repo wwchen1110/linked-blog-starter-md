@@ -10,16 +10,16 @@ Knights thrive in the line of fire, staying standing with their [[Discipline]] w
 
 UNIQUE:
 Valiant (P): While STA half or less, gain ATK. While HP is half or less, gain DEF
-Coat of Arms: If under half STA, gain moderate ATK. If under half HP, next attack gains lifesteal
-Joust: Attack and block. Restore STA/HP equal to the damage/block.
+Coat of Arms: If under half STA, gain max STA. If under half HP, gain permanent block
+Joust: Attack scaling with missing STA, block scaling with missing HP
 
 DISCIPLINE:
 [[Discipline#Tower|Tower]]: Big taunt
 [[Traits/Discipline#Truestrike|Truestrike]]: Unaffected by locks or debuffs. Small strike
-[[Traits/Discipline#Tempering|Tempering]]: Increase your max STA by a percentage of the damage you took last turn
+[[Traits/Discipline#Ar|Armor Plating]]: Block, then reduce your current block's decay'
 [[Traits/Discipline#Acclimate|Acclimate]]: Restore HP/STA for 5 turns
 
 ARDOR:
-[[Ardor#Survival Instinct|Survival Instinct]]: Block, scaling with missing HP 
+[[Ardor#Unfinished Business|Unfinished Business]]: Block, scaling with missing HP 
 [[Ardor#Clash|Clash]]: Attack and taunt each other
-[[Ardor#Adrenaline Rush|Adrenaline Rush]]: Block and restore STA by a percentage of missing HP/STA
+[[Ardor#Adrenaline Rush|Adrenaline Rush]]: Free action. Restore a little HP/STA, scaling with missing HP/STA
