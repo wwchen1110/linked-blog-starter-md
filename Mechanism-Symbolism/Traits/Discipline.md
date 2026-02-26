@@ -51,7 +51,7 @@ Type: Debuff
 STA: Medium
 CD: 5
 Big taunt
-###### Armor Plating
+###### Plate Mail
 Type: Defense
 STA: Medium
 CD: 4
@@ -78,14 +78,14 @@ CD:
 Strike. Target either loses ATK or DEF
 ###### Cover
 Type: Defense
-STA: Low
+STA: Medium
 CD: 3
 Block and taunt
-###### Chainmail
-Type:
-STA:
-CD:
-Block. Lock 3 any enemy attacks you fully block this turn
+###### Chain Mail
+Type: Defense
+STA: Low
+CD: 5
+Block. Lock 1 any enemy attacks you fully block this turn
 
 
 Steel Yourself: Gain DEF until you rest
