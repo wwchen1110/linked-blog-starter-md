@@ -16,7 +16,7 @@ Joust: Attack scaling with missing STA, block scaling with missing HP
 DISCIPLINE:
 [[Discipline#Tower|Tower]]: Big taunt
 [[Traits/Discipline#Truestrike|Truestrike]]: Unaffected by locks or debuffs. Small strike
-[[Traits/Discipline#Plate Mail|Plate Mail]]: Block, then reduce your current block's decay'
+[[Traits/Discipline#Plate Mail|Plate Mail]]: Block, then gain 1 Integrity
 [[Traits/Discipline#Acclimate|Acclimate]]: Restore HP/STA for 5 turns
 
 ARDOR:
