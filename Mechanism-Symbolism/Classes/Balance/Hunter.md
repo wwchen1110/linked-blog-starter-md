@@ -9,13 +9,13 @@ On slaying their prey, Hunters are given various options to improve their huntin
 
 UNIQUE:
 Hunter's Mark: Mark an enemy and reduce its DEF for 2 turns. Reapply the mark each time you target an enemy with a skill (only applies once per skill)
-Spoils of the Hunt: Attack. If you damage an enemy, select a trait they used last turn, then select an advanced skill from that trait to add to your memory
-Deadeye: The first time you use each skill that targets an enemy, expand your skillset and focus by 1
+Spoils of the Hunt: Attack. If you damage an enemy, select a trait they used last turn, then select an advanced skill from that trait to temporarily add to your memory
+Deadeye: The first time you use each unique skill that targets an enemy, select a forgotten skill to temporarily add to your skillset
 
 BALANCE:
-Tracking: Target a unit. Select a trait they used last turn, then select a skill from that trait to add to your memory. Cycle 1
-Instinct: Use a skill from your skillset, chosen at resolution
-Whirlwind: Attack. Deal damage scaling with skillset size
+Tracking: Target a unit. Select a trait they used last turn, then select a skill from that trait to temporarily add to your skillset
+Impulse: Cast a skill for free, then forget it
+Wanderer's Strike: Attack, scaling with forgotten skills
 Spirit of the Wilds: Attack. For every trait in your skillset, apply an effect
 -Discipline: Restore STA
 -Ardor: Inflict Bleed 2
@@ -23,6 +23,6 @@ Spirit of the Wilds: Attack. For every trait in your skillset, apply an effect
 -Vision: Imbue 1
 
 ARDOR:
-Severance: Attack and deal big damage. Narrow your focus by 1, returning this to your memory
+Severance: Big attack, then forget this
 Double Down: Attack. Copy the effects of your last attack this turn
 Eviscerate: Attack. Enemy gains Bleed 2

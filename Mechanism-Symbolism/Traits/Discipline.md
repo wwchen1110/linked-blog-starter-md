@@ -45,13 +45,13 @@ Unaffected by locks and debuffs. Small strike
 Type: Defense
 STA: Low
 CD: 6
-Restore a little HP/STA for 5 turns
+Upgrade 1: Restore HP/STA the next 5 times a combat skill is slotted here
 ###### Tower
 Type: Debuff
 STA: Medium
 CD: 5
-Big taunt
-###### Plate Mail
+Big taunt, distributed among enemies in any way
+###### Armor Plating
 Type: Defense
 STA: Medium
 CD: 4
@@ -66,7 +66,7 @@ Type: Attack
 STA: Medium
 CD: 4
 Deal damage to enemy based on their recent damage/targeting of allies
-###### Neutralize
+###### Parry
 Type: Trap (Defense)
 STA: Medium
 CD: 6
@@ -75,17 +75,17 @@ CD: 6
 Type: Attack
 STA:
 CD:
-Strike. Target either loses ATK or DEF
+Strike. Lock 3 an attack the target used last turn
 ###### Cover
 Type: Defense
 STA: Medium
 CD: 3
-Block and taunt
-###### Chain Mail
-Type: Defense
+Target ally gains block and taunt
+###### Composure
+Type: Buff
 STA: Low
 CD: 5
-Block. Lock 1 any enemy attacks you fully block this turn
+Upgrade a slot to gain ATK and restore STA until you take damage from someone you combatted this turn
 
 
 Steel Yourself: Gain DEF until you rest

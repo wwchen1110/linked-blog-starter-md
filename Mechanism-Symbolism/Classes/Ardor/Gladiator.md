@@ -9,17 +9,16 @@ It's not rare for an adventurer to have a thirst for blood, nor is it rare that 
 A Gladiator utilizes their high [[Ardor|Ardor]] and [[Discipline]] to confront and overpower opponents, and they're rewarded with refreshed stamina. While a Knight looks for a prolonged battle to prove their worth, Gladiators just look ahead to the next trade. Their powerful abilities have large stamina costs, but winning their combats gives Gladiators the energy to keep up the pressure.
 
 UNIQUE:
-Rampage (P): Each turn you overwhelm an enemy, gain ATK/DEF for 2 turns
+Rampage (P): Each turn you attack/block past a big threshold, restore proportional STA
 Signature Move: Big attack and block. Big CD
-Glory: If you overwhelmed an enemy by double or more last turn, heal, refresh a CD, and gain ATK
+Glory: If you attacked/blocked past a massive threshold last turn, heal, refresh a CD, and gain ATK/DEF
 
 ARDOR:
-Clash: Attack an enemy, and you are now taunted to each other until a turn you stop attacking, or the enemy overwhelms you
-Bravado: Gain massive block. High STA cost
-Menace: If you overwhelmed the enemy this turn, they lose ATK/DEF permanently
-Burn Bright: Gain ATK/DEF for 3 turns, but your CDs double
+Bravado: Gain massive block. Big CD
+Roar: If you overwhelmed an enemy this turn, gain big ATK/DEF in 2 turns
+
 
 DISCIPLINE:
-Disarm: Attack. Choose whether enemy loses ATK or DEF
-Second Wind: Restore STA and refresh a CD
+
+Rally: Refresh a CD
 [[Traits/Discipline#Vanquish|Vanquish]]: Attack, scaling with how much you were overwhelmed last round

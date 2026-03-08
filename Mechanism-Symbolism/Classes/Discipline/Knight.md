@@ -16,10 +16,10 @@ Joust: Attack scaling with missing STA, block scaling with missing HP
 DISCIPLINE:
 [[Discipline#Tower|Tower]]: Big taunt
 [[Traits/Discipline#Truestrike|Truestrike]]: Unaffected by locks or debuffs. Small strike
-[[Traits/Discipline#Plate Mail|Plate Mail]]: Block, then gain 1 Integrity
-[[Traits/Discipline#Acclimate|Acclimate]]: Restore HP/STA for 5 turns
+[[Traits/Discipline#Armor Plating|Armor Plating]]: Block, then gain 1 Integrity
+[[Traits/Discipline#Acclimate|Acclimate]]: Upgrade a slot to restore HP/STA the next 5 times a combat skill is slotted here
 
 ARDOR:
 [[Ardor#Unfinished Business|Unfinished Business]]: Block, scaling with missing HP 
 [[Ardor#Clash|Clash]]: Attack and taunt each other
-[[Ardor#Adrenaline Rush|Adrenaline Rush]]: Free action. Restore a little HP/STA, scaling with missing HP/STA
+[[Ardor#Adrenaline Rush|Adrenaline Rush]]: Restore STA scaling with missing STA
