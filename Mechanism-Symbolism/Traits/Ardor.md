@@ -36,18 +36,37 @@ Big strike, damage yourself
 Type: Buff
 STA: Low
 CD: 10
-Restore a portion of missing HP/STA
+Restore a portion of missing STA
 
 Finisher: Attack, scaling with consecutive attacks before
 Shredder: Attack. Deal double damage to block
 Roar: If you outcombatted this turn, gain ATK/DEF for 2 turns
 Bravado: Gain a ton of block this turn
 Overdrive: Gain an extra action next turn
-Heartpiercer: Attack. Double its unblocked damage
+###### Heartpiercer
+Type: Attack
+STA: Medium
+Uses: 2
+Strike. Double its unblocked damage
+###### Predator
+Type: Preparation
+STA: Medium
+Uses: 1
+Your next attack has lifesteal
+###### Snipe
+Type: Attack
+STA: Low
+Uses: 1
+Attack, scaling with turns unused
+
 Jab: Small attack and gain 1 ACT next turn
-Parry: Block and gain 1 ACT next turn
-Whet: Your next attack/defense has its stats increased moderately
-Severance: Attack and deal big damage. Place this at the bottom of your well
-Double Down: Attack. Copy the effects of your last attack skill this turn
-Eviscerate: Attack. Enemy gains Bleed 2
+###### Keen
+Your next combat skill has its stats increased moderately
+###### Severance
+Attack and deal big damage. Place this at the bottom of your well
+###### Double Down
+Attack. Copy the effects of your last attack skill this turn
+###### Eviscerate
+Attack. Enemy gains Bleed 2
+
 Burn Bright: Increase your ATK/DEF for this and the next 2 turns. Each skill you use during this time has its CD doubled

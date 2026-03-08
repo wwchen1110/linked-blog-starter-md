@@ -14,7 +14,7 @@ Shackle: Lock 3 all of target enemy’s exposed skills of declared type
 Trial: Downgrade all slots of an enemy by declaring a type/stat. Each time they slot that type, they lose STA. They can upgrade a slot back by permanently debuffing the stat you declared
 
 DISCIPLINE:
-[[Discipline#Cover|Cover]] Target an ally to gain block and taunt
+[[Discipline#Cover|Cover]]: Target an ally to gain block and taunt
 [[Discipline#Disarm|Disarm]]: Attack, Lock 3 the last attack the enemy used last turn
 [[Discipline#Parry|Parry]] (T2: target enemy attacks you): gain big block
 [[Discipline#Composure|Composure]]: Upgrade a slot to gain ATK and restore STA until you take damage from someone you combatted this turn

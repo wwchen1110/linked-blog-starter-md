@@ -14,11 +14,12 @@ Signature Move: Big attack and block. Big CD
 Glory: If you attacked/blocked past a massive threshold last turn, heal, refresh a CD, and gain ATK/DEF
 
 ARDOR:
-Bravado: Gain massive block. Big CD
-Roar: If you overwhelmed an enemy this turn, gain big ATK/DEF in 2 turns
+[[Ardor#Reckless Swing|Reckless Swing]]: Big attack, take some damage
+[[Ardor#Bravado|Bravado]]: Gain massive block. Big CD
+[[Ardor#Roar|Roar]]: If you overwhelmed an enemy this turn, gain big ATK/DEF in 2 turns
 
 
 DISCIPLINE:
-
-Rally: Refresh a CD
-[[Traits/Discipline#Vanquish|Vanquish]]: Attack, scaling with how much you were overwhelmed last round
+[[Discipline#Solidify|Solidify]]: If you overwhelmed an enemy last turn, big block
+[[Discipline#Second Wind|Second Wind]]: Refresh a CD
+[[Discipline#Tackle|Tackle]]: Attack scaling with block
