@@ -16,14 +16,10 @@ Trial: Downgrade all slots of an enemy by declaring a type/stat. Each time they 
 DISCIPLINE:
 [[Discipline#Cover|Cover]] Target an ally to gain block and taunt
 [[Discipline#Disarm|Disarm]]: Attack, Lock 3 the last attack the enemy used last turn
-Parry (T2: target enemy attacks you): gain big block
+[[Discipline#Parry|Parry]] (T2: target enemy attacks you): gain big block
 [[Discipline#Composure|Composure]]: Upgrade a slot to gain ATK and restore STA until you take damage from someone you combatted this turn
 
 CUNNING:
-Profile: Expose all skills of one action type in enemy skillset
-
-Maneuver: Choose before committing - fully block the next attack this turn, or gain some block for all attacks this turn
-
-Compromise: Choose a stat and target an enemy. They permanently debuff that stat a little and permanently buff their HP a little
-
-**
+[[Cunning#Profile|Profile]]: Expose all skills of one action type in enemy skillset
+[[Cunning#Maneuver|Maneuver]]: Choose before committing - fully block the next attack this turn, or gain some block for all attacks this turn
+[[Cunning#Compromise|Compromise]]: Choose a stat and target an enemy. They permanently debuff that stat a little and permanently buff their HP a little

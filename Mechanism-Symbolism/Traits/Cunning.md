@@ -49,13 +49,16 @@ Attack. If uncontested and the enemy is below 25% HP, kill them
 ###### Jack of All Trades
 (P)
 When you expose or reveal an enemy skill, gain a copy that discards on use (passives are discarded after 3 turns)
-###### Complacency
-Increase a unit's STA, but reduce a combat stat for 3 turns
-###### Goad/Daunt
-Type: Control
-STA: Low
-CD: 2
-For 3 turns, target unit trades some ATK and DEF
+###### Compromise
+Type: Interrupt
+STA: Medium
+Uses: 2
+Target enemy permanently debuffs the declared stat a little, and permanently buffs HP a little
+###### Intoxicate
+Type: Preparation
+STA: Medium
+Uses: 2
+Target any number of units. Buff their ATK and debuff their DEF
 ###### Glimpse
 Type: Control
 STA: Med
