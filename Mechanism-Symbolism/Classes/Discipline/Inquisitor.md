@@ -11,15 +11,15 @@ Inquisitors excel at understanding a single target and completely neutralizing t
 UNIQUE:
 Detective (P): Each turn you combat an enemy without taking damage, they must expose a skill of your declared type (prioritizing unused ones first) (if no unexposed skills, they choose 1 to Lock 1)
 Shackle: Lock 3 all of target enemy’s exposed skills of declared type
-Trial: Downgrade all slots of an enemy by declaring a type/stat. Each time they slot that type, they lose STA. They can upgrade a slot back by permanently debuffing the stat you declared
+Verdict (T) (3 turns: target an enemy and declare an ACT type): At the end of 3 turns, permanently downgrade all their slots so that ACT type costs X more STA, where X is the number of times they used that ACT type
 
 DISCIPLINE:
 [[Discipline#Cover|Cover]]: Target an ally to gain block and taunt
 [[Discipline#Disarm|Disarm]]: Attack, Lock 3 the last attack the enemy used last turn
-[[Discipline#Parry|Parry]] (T2: target enemy attacks you): gain big block
-[[Discipline#Composure|Composure]]: Upgrade a slot to gain ATK and restore STA until you take damage from someone you combatted this turn
+[[Discipline#Parry|Parry]] (T1: target enemy attacks you): gain big block
+[[Discipline#Composure|Composure]]: Upgrade a slot to gain ATK and restore STA until you take damage from someone you combatted here
 
 CUNNING:
 [[Cunning#Profile|Profile]]: Expose all skills of one action type in enemy skillset
 [[Cunning#Maneuver|Maneuver]]: Choose before committing - fully block the next attack this turn, or gain some block for all attacks this turn
-[[Cunning#Compromise|Compromise]]: Choose a stat and target an enemy. They permanently debuff that stat a little and permanently buff their HP a little
+[[Cunning#Compromise|Compromise]]: Target an enemy, declare an ACT type, and choose healing or attack. The next time that enemy would use that ACT type, they either heal themselves or attack you

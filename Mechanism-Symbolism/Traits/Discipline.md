@@ -41,7 +41,7 @@ Type: Attack
 STA: Low
 CD: 0
 Unaffected by locks and debuffs. Small strike
-###### Acclimate
+###### Reserves
 Type: Defense
 STA: Low
 CD: 6
@@ -70,7 +70,7 @@ Deal damage to enemy based on their recent damage/targeting of allies
 Type: Trap (Defense)
 STA: Medium
 CD: 6
-(T4: target enemy attacks you): Big block
+(T1: target enemy attacks you): Big block
 ###### Disarm
 Type: Attack
 STA:
@@ -86,14 +86,17 @@ Type: Buff
 STA: Low
 CD: 5
 Upgrade a slot to gain ATK and restore STA until you take damage from someone you combatted this turn
-
+###### Regimen
+Type: Buff
+STA: 
+CD: 
+Declare a type, then upgrade a slot to restore STA when you slot skills of that type, downgrading when a skill of another type is slotted there
 
 Steel Yourself: Gain DEF until you rest
 Iron Wall: Block. Upgrade this slot with "Gain more block here. Downgrade when you stop defending here."
 Mirror Shield: Block. This turn, attackers also take the damage you block
 Riposte (stance): No attacks or defenses, halve SPD. Counter all attacks
 Ward: Block or gain Spellshield
-Composure: Activate while stunned/disrupted. Gain DEF/STA
 Habit: Upgrade a slot with “each turn you slot the same action type here, gain more STA. When you slot a different action type, downgrade.”
 Favored Technique: Upgrade a slot with "each turn you slot the same skill here, it gains ATK/DEF. When you slot a different skill, downgrade."
 Stomp: Attack. Deal damage scaling with enemy missing STA

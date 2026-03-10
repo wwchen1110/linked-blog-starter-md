@@ -10,14 +10,14 @@ Knights thrive in the line of fire, staying standing with their [[Discipline]] w
 
 UNIQUE:
 Valiant (P): While STA half or less, gain ATK. While HP is half or less, gain DEF
-Coat of Arms: If under half STA, gain max STA. If under half HP, gain permanent block
+Chivalric Code: If under half STA, gain max STA. If under half HP, gain max HP
 Joust: Attack scaling with missing STA, block scaling with missing HP
 
 DISCIPLINE:
 [[Discipline#Tower|Tower]]: Big taunt
 [[Traits/Discipline#Truestrike|Truestrike]]: Unaffected by locks or debuffs. Small strike
 [[Traits/Discipline#Armor Plating|Armor Plating]]: Block, then gain 1 Integrity
-[[Traits/Discipline#Acclimate|Acclimate]]: Upgrade a slot to restore HP/STA the next 5 times a combat skill is slotted here
+[[Traits/Discipline#Reserves|Reserves]]: Upgrade a slot to restore HP/STA the next 5 times a combat skill is slotted here
 
 ARDOR:
 [[Ardor#Unfinished Business|Unfinished Business]]: Block, scaling with missing HP 
