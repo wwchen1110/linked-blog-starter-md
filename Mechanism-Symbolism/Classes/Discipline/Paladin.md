@@ -16,7 +16,7 @@ Oathsworn (P): Declare an ACT type. Gain ATK/DEF if you slot that ACT type each 
 DISCIPLINE:
 Vigil: Extend your buffs and prepared spells by 1 turn, and restore some STA
 Warding: Buff DEF scaling with prepared skills
-Backswing: After casting, prepare Crush, a big strike scaling with turns prepared
+Reckoning: Prepare an attack/block, scaling with turns prepared
 (Order (EL): Truth made manifest through stable, enduring forms. Binding, geas, oaths, vows, contracts)
 Shield of Faith (3 Inscription): Gain non-decaying block. While channeled, gain DEF
 
