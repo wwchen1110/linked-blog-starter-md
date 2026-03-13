@@ -36,67 +36,66 @@ Taunt: Target an enemy; next turn they must attempt to attack you
 Tackle: Deal damage equal to your block
 Stagger: Attack. If this is in your first ACT slot, enemy loses STA
 Hammer: Attack. Upgrade this slot with "Gain ATK/DEF here until you don't slot a combat skill here"
+###### Tackle
+Type: Attack
+Uses: 2/6
+Strike, scaling with block
 ###### Truestrike
 Type: Attack
-STA: Low
-CD: 0
+Uses: 30/90
 Unaffected by locks and debuffs. Small strike
 ###### Reserves
 Type: Defense
-STA: Low
-CD: 6
-Upgrade 1: Restore HP/STA the next 5 times a combat skill is slotted here
+Uses: 2/3
+Upgrade 1: Gain 1 use, increase restoration by 1, and heal if the skill has 3+ uses. Downgrade after 5 skills are slotted here
 ###### Tower
 Type: Debuff
-STA: Medium
-CD: 5
+Uses: 2/5
 Big taunt, distributed among enemies in any way
 ###### Armor Plating
 Type: Defense
-STA: Medium
-CD: 4
-Block, gain 1 Integrity
-###### Second Wind
-Type: Buff
-STA: Low
-CD: 6
-Reduce a CD by 2 and restore STA
-###### Vanquish
-Type: Attack
-STA: Medium
-CD: 4
-Deal damage to enemy based on their recent damage/targeting of allies
+Uses: 5/8
+Block, gain 2 Integrity
+###### Stonewall
+Type: Defense
+Uses: 8/16
+Block. In the same slot next turn, block
 ###### Parry
 Type: Trap (Defense)
-STA: Medium
-CD: 6
+Uses: 2/5
 (T1: target enemy attacks you): Big block
 ###### Disarm
 Type: Attack
-STA:
-CD:
+Uses: 2/5
 Strike. Lock 3 an attack the target used last turn
 ###### Cover
 Type: Defense
-STA: Medium
-CD: 3
-Target ally gains block and taunt
+Uses: 4/6
+Target ally gains block and taunts target enemy
 ###### Composure
-Type: Buff
-STA: Low
-CD: 5
-Upgrade a slot to gain ATK and restore STA until you take damage from someone you combatted this turn
+Type: Preparation
+Uses: 3/6
+Upgrade 1: gain ATK and restore 1 use of any 3+ use skill until you take damage from someone you contested this turn
+###### Reckoning
+Type: Attack, Defend
+Uses: 2/3
+Ready 1-3 an attack/block to occur on the first slot. Scales with turns readied
 ###### Regimen
+Type: Preparation
+Uses: 3/4
+Upgrade this slot: Declare a type. Heal if the skill is that type, downgrade if the skill is another type
+###### Phalanx
+Type: Preparation
+Uses: 1/1
+Upgrade all ally slots: Gain DEF. Downgrade when 3 non-Defend skills are slotted here
+###### Second Wind
 Type: Buff
-STA: 
-CD: 
-Declare a type, then upgrade a slot to restore STA when you slot skills of that type, downgrading when a skill of another type is slotted there
+Uses: 1/1
+Increase Uses of target skill by 1/0, then restore 1 use
 
 Steel Yourself: Gain DEF until you rest
 Iron Wall: Block. Upgrade this slot with "Gain more block here. Downgrade when you stop defending here."
 Mirror Shield: Block. This turn, attackers also take the damage you block
-Riposte (stance): No attacks or defenses, halve SPD. Counter all attacks
-Ward: Block or gain Spellshield
 Habit: Upgrade a slot with “each turn you slot the same action type here, gain more STA. When you slot a different action type, downgrade.”
 Favored Technique: Upgrade a slot with "each turn you slot the same skill here, it gains ATK/DEF. When you slot a different skill, downgrade."
 Stomp: Attack. Deal damage scaling with enemy missing STA
