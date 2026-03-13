@@ -4,7 +4,7 @@ Rogues gamble their influence against their enemies, making cold reads and stabs
 
 UNIQUE:
 Sleight of Hand: Swap an enemy's exposed skill in focus with their revealed ACT slot (if they can afford it)
-Pickpocket: If your enemy has an exposed skill, you can steal the top skill from their memory. If they have a revealed ACT slot, you can additionally steal an exposed skill
+Pickpocket: Steal an exposed skill from enemy memory
 Thieves' Tools: The first time you expose or reveal an enemy skill each turn, you can cycle 1
 
 CUNNING:
