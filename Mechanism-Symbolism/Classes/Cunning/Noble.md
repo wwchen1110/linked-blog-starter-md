@@ -4,24 +4,24 @@ dg-publish: "True"
  
 The Strategist
 
-A winning smile, a charming personality, and a lust for power writhing under the skin. Don't be fooled by the Noble's name - Discipline is merely an aesthetic they use to better leverage their Cunning. They'll punish a step out of line with the life-ending consequences.
+The Noble is a support for their team and a controller for everyone else, the master of order. Allies who fall in lockstep find themselves protected and with resources to spare. Enemies either try to comply, making them predictable, or are coerced into compliance. All the while, the Noble spreads their influence until they are impossible to remove.
 
-The Noble is the inverse of the Inquisitor. Where the Inquisitor builds a comprehensive profile to efficiently contain an enemy, the Noble builds a profile the enemy is incentivized to contain themselves within. Obedience is safe, as the Noble rewards their subjects with health and stamina. However, every second spent under their rule makes them stronger. Disobey them to avoid giving them power, but starve as you're denied their infrastructure.
+Nobles control action slots to buff allies and discourage enemy disobedience. Demesne rewards all units for continually participating in a ritual the Noble chooses, and using Regimen with the same ritual gives Nobles a bigger slice of the pie. To upkeep their own upgrades, the Noble can use Token Gesture to dodge enemy predictions. Stonewall and Siege provide the necessary base from which to maintain a Defend or Attack Demesne. The Noble can capitalize on enemy compliance within the Demesne by stacking undecaying block with Noblesse Oblige. For those who disobey, Transgression either treats them as symbolically obedient or hurts them based on how established the Noble is. Compromise and Hypocrisy capitalize on predictable play (both obedience and rebellion) and create predictable play. For enemies keen enough to successfully navigate the Noble's schemes, Phalanx gives Nobles a consistent fallback upgrade that only relies on ally cooperation, leaving them weaker but functional.
 
 UNIQUE:
-[[Cunning#Verdict|Verdict]] (T6: target enemy's declared action type not in declared slot) 
+[[Cunning#Transgression|Transgression]] (T6: target enemy's declared action type not in declared slot) 
 -Pardon: enemy gains STA, treat the action as the declared ACT type
--Punish: enemy loses STA, takes damage scaling with your buffs to other units
+-Punish: enemy loses STA, strike them scaling with the turns you've upgraded slots
 [[Cunning#Noblesse Oblige|Noblesse Oblige]] (P): Once per turn when you buff a unit, an enemy declares an ACT type they will use next turn. If you buffed an enemy you choose which ACT type they declare
-[[Cunning#Convention|Convention]]: Declare an ACT type/slot. Until you rest, when any unit uses that type in that slot your next buff/debuff is stronger
+[[Cunning#Demesne|Demesne]]: Select an ACT slot/type. Upgrade that slot for everyone to increase next regen and block when they slot that type there, until another type is slotted there
 
 CUNNING:
-[[Cunning#Token Gesture|Token Gesture]]: Select any targets. When this skill is type, name, or trait checked, decide which type, name, and trait it counts as
-[[Cunning#Thronebreaker|Thronebreaker]]: Target an enemy. Invert their buffs
-[[Cunning#Poison the Well|Poison the Well]]: (T3: Target enemy uses declared ACT type in declared ACT slot) Lock all their skills of that type for 2 turns
-[[Cunning#Goad/Daunt|Goad/Daunt]]: Redistribute a unit's ATK/DEF
+[[Cunning#Token Gesture|Token Gesture]]: Decide what type/traits/targets/name this skill counts as if an enemy checks
+[[Cunning#Hypocrisy|Hypocrisy]]: (T) (6 turns: Target enemy uses declared type 3 turns in a row, then stops): Lock all their skills of that type for 3 turns
+[[Cunning#Entrapment|Entrapment]]: Target an enemy, declare a type, and choose block or attack. The next time that enemy would use that type, they instead block or attack you
+[[Cunning#Siege|Siege]]: Choose secretly before committing - at next turn's slot, small attack and Siege or big attack
 
 DISCIPLINE:
-Kingmaker: Buff a unit's ATK/DEF. Scales with the number of times you've buffed a unit this rest
-Phalanx: Select an ACT slot. All allies upgrade that slot with "If you block here, buff your DEF. Downgrade when you rest"
-Demesne: Select an ACT slot/type. Upgrade that slot for everyone with "If you play that ACT type here, buff DEF. Downgrade if you slot anything else here."
+Regimen: Upgrade your slot by declaring type; restore uses until another type is slotted there
+Phalanx: Upgrade all ally slots to block more until a non-Defense skill is slotted there 3 times
+Entrench: Block. Block again in the same slot next turn

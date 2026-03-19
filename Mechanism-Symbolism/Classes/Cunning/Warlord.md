@@ -6,8 +6,8 @@ The Provocateur
 Warlords increase their range of possible actions, making their bursts harder to predict and mitigate. They can then follow this up with conditionally powerful attacks
 
 UNIQUE:
-[[Cunning#Drums of War|Drums of War]]: Declare secretly whether you will skip the next turn. If you do, gain 5 ACTs the turn after
-[[Cunning#Ride at Night|Ride at Dusk]] (P): For every 2 empty-appearing ACT slots you commit (including Stealth and Traps), gain an extra ACT slot next turn
+[[Cunning#Battle Drums|Battle Drums]]: Declare secretly whether you will skip the next turn. If you do, gain 5 ACTs the turn after
+[[Cunning#Oblique Assault|Oblique Assault]] (P): For every 2 empty-appearing ACT slots you commit (including Stealth and Traps), gain an extra ACT slot next turn
 [[Cunning#Coup de Grace|Coup de Grace]]: Attack. If uncontested and the enemy is low enough, kill them. High CD, high STA cost
 
 CUNNING:
@@ -17,6 +17,6 @@ CUNNING:
 [[Cunning#Underhand|Underhand]]: Gain Stealth until you resolve your next 2 skills
 
 ARDOR:
-Blitz: Attack. If uncontested, gain 1 ACT next round
-Finisher: Attack. Deal more for each attack this turn
-Scorched Earth: You and target enemy gain 3 ACT slots next round, also you are Taunted to that enemy
+Blitz: Attack. If you overwhelm the enemy here, gain an ACT slot next turn
+Charge: Attack, then buff ATK this turn
+Scorched Earth: Next turn - target enemy and you gain 3 ACT slots, also you can only contest them
